@@ -1,1 +1,279 @@
-Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVApwcmFnbWEgc29saWRpdHkgXjAuOC4yNDsKCmludGVyZmFjZSBJRVJDMjAgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwogICAgZnVuY3Rpb24gYmFsYW5jZU9mKGFkZHJlc3MgYWNjb3VudCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2KTsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgYW1vdW50KSBleHRlcm5hbCByZXR1cm5zIChib29sKTsKICAgIGZ1bmN0aW9uIGFsbG93YW5jZShhZGRyZXNzIG93bmVyLCBhZGRyZXNzIHNwZW5kZXIpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1Nik7CiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHJldHVybnMgKGJvb2wpOwogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHJldHVybnMgKGJvb2wpOwogICAgZXZlbnQgVHJhbnNmZXIoYWRkcmVzcyBpbmRleGVkIGZyb20sIGFkZHJlc3MgaW5kZXhlZCB0bywgdWludDI1NiB2YWx1ZSk7CiAgICBldmVudCBBcHByb3ZhbChhZGRyZXNzIGluZGV4ZWQgb3duZXIsIGFkZHJlc3MgaW5kZXhlZCBzcGVuZGVyLCB1aW50MjU2IHZhbHVlKTsKfQoKaW50ZXJmYWNlIElFUkMyME1ldGFkYXRhIGlzIElFUkMyMCB7CiAgICBmdW5jdGlvbiBuYW1lKCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChzdHJpbmcgbWVtb3J5KTsKICAgIGZ1bmN0aW9uIHN5bWJvbCgpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSk7CiAgICBmdW5jdGlvbiBkZWNpbWFscygpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDgpOwp9Cgpjb250cmFjdCBDb250ZXh0IHsKICAgIGZ1bmN0aW9uIF9tc2dTZW5kZXIoKSBpbnRlcm5hbCB2aWV3IHZpcnR1YWwgcmV0dXJucyAoYWRkcmVzcykgewogICAgICAgIHJldHVybiBtc2cuc2VuZGVyOwogICAgfQp9Cgpjb250cmFjdCBPd25hYmxlIGlzIENvbnRleHQgewogICAgYWRkcmVzcyBwcml2YXRlIF9vd25lcjsKICAgIGV2ZW50IE93bmVyc2hpcFRyYW5zZmVycmVkKGFkZHJlc3MgaW5kZXhlZCBwcmV2aW91c093bmVyLCBhZGRyZXNzIGluZGV4ZWQgbmV3T3duZXIpOwoKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIF9vd25lciA9IF9tc2dTZW5kZXIoKTsKICAgICAgICBlbWl0IE93bmVyc2hpcFRyYW5zZmVycmVkKGFkZHJlc3MoMCksIF9vd25lcik7CiAgICB9CgogICAgZnVuY3Rpb24gb3duZXIoKSBwdWJsaWMgdmlldyB2aXJ0dWFsIHJldHVybnMgKGFkZHJlc3MpIHsKICAgICAgICByZXR1cm4gX293bmVyOwogICAgfQoKICAgIG1vZGlmaWVyIG9ubHlPd25lcigpIHsKICAgICAgICByZXF1aXJlKG93bmVyKCkgPT0gX21zZ1NlbmRlcigpLCAiT3duYWJsZTogY2FsbGVyIGlzIG5vdCB0aGUgb3duZXIiKTsKICAgICAgICBfOwogICAgfQoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyT3duZXJzaGlwKGFkZHJlc3MgbmV3T3duZXIpIHB1YmxpYyB2aXJ0dWFsIG9ubHlPd25lciB7CiAgICAgICAgcmVxdWlyZShuZXdPd25lciAhPSBhZGRyZXNzKDApLCAiT3duYWJsZTogbmV3IG93bmVyIGlzIHRoZSB6ZXJvIGFkZHJlc3MiKTsKICAgICAgICBlbWl0IE93bmVyc2hpcFRyYW5zZmVycmVkKF9vd25lciwgbmV3T3duZXIpOwogICAgICAgIF9vd25lciA9IG5ld093bmVyOwogICAgfQp9Cgpjb250cmFjdCBSZWVudHJhbmN5R3VhcmQgewogICAgdWludDI1NiBwcml2YXRlIGNvbnN0YW50IF9OT1RfRU5URVJFRCA9IDE7CiAgICB1aW50MjU2IHByaXZhdGUgY29uc3RhbnQgX0VOVEVSRUQgPSAyOwogICAgdWludDI1NiBwcml2YXRlIF9zdGF0dXM7CgogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgX3N0YXR1cyA9IF9OT1RfRU5URVJFRDsKICAgIH0KCiAgICBtb2RpZmllciBub25SZWVudHJhbnQoKSB7CiAgICAgICAgcmVxdWlyZShfc3RhdHVzICE9IF9FTlRFUkVELCAiUmVlbnRyYW5jeUd1YXJkOiByZWVudHJhbnQgY2FsbCIpOwogICAgICAgIF9zdGF0dXMgPSBfRU5URVJFRDsKICAgICAgICBfOwogICAgICAgIF9zdGF0dXMgPSBfTk9UX0VOVEVSRUQ7CiAgICB9Cn0KCmNvbnRyYWN0IFBhdXNhYmxlIGlzIENvbnRleHQgewogICAgYm9vbCBwcml2YXRlIF9wYXVzZWQ7CiAgICBldmVudCBQYXVzZWQoYWRkcmVzcyBhY2NvdW50KTsKICAgIGV2ZW50IFVucGF1c2VkKGFkZHJlc3MgYWNjb3VudCk7CgogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgX3BhdXNlZCA9IGZhbHNlOwogICAgfQoKICAgIGZ1bmN0aW9uIHBhdXNlZCgpIHB1YmxpYyB2aWV3IHZpcnR1YWwgcmV0dXJucyAoYm9vbCkgewogICAgICAgIHJldHVybiBfcGF1c2VkOwogICAgfQoKICAgIG1vZGlmaWVyIHdoZW5Ob3RQYXVzZWQoKSB7CiAgICAgICAgcmVxdWlyZSghX3BhdXNlZCwgIlBhdXNhYmxlOiBwYXVzZWQiKTsKICAgICAgICBfOwogICAgfQoKICAgIG1vZGlmaWVyIHdoZW5QYXVzZWQoKSB7CiAgICAgICAgcmVxdWlyZShfcGF1c2VkLCAiUGF1c2FibGU6IG5vdCBwYXVzZWQiKTsKICAgICAgICBfOwogICAgfQoKICAgIGZ1bmN0aW9uIF9wYXVzZSgpIGludGVybmFsIHZpcnR1YWwgd2hlbk5vdFBhdXNlZCB7CiAgICAgICAgX3BhdXNlZCA9IHRydWU7CiAgICAgICAgZW1pdCBQYXVzZWQoX21zZ1NlbmRlcigpKTsKICAgIH0KCiAgICBmdW5jdGlvbiBfdW5wYXVzZSgpIGludGVybmFsIHZpcnR1YWwgd2hlblBhdXNlZCB7CiAgICAgICAgX3BhdXNlZCA9IGZhbHNlOwogICAgICAgIGVtaXQgVW5wYXVzZWQoX21zZ1NlbmRlcigpKTsKICAgIH0KfQoKY29udHJhY3QgR2FtZVZhdWx0IGlzIENvbnRleHQsIE93bmFibGUsIFJlZW50cmFuY3lHdWFyZCwgUGF1c2FibGUgewogICAgSUVSQzIwTWV0YWRhdGEgcHVibGljIGltbXV0YWJsZSBtaW5lclRva2VuOwoKICAgIGFkZHJlc3MgcHVibGljIGJhY2tlbmRTaWduZXI7CiAgICB1aW50MjU2IHB1YmxpYyB3aXRoZHJhd2FsQ29vbGRvd247CgogICAgc3RydWN0IFdpdGhkcmF3YWxSZXF1ZXN0IHsKICAgICAgICBhZGRyZXNzIHVzZXI7CiAgICAgICAgdWludDI1NiBhbW91bnQ7CiAgICAgICAgdWludDI1NiBub25jZTsKICAgICAgICB1aW50MjU2IGNvb2xkb3duRW5kOwogICAgICAgIGJvb2wgZXhlY3V0ZWQ7CiAgICB9CgogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyB1c2VyTm9uY2VzOwogICAgbWFwcGluZyhieXRlczMyID0+IFdpdGhkcmF3YWxSZXF1ZXN0KSBwdWJsaWMgd2l0aGRyYXdhbFJlcXVlc3RzOwogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBkZXBvc2l0czsKICAgIG1hcHBpbmcoYWRkcmVzcyA9PiB1aW50MjU2KSBwdWJsaWMgdG90YWxEZXBvc2l0ZWQ7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIHRvdGFsV2l0aGRyYXduOwoKICAgIHVpbnQyNTYgcHVibGljIHRvdGFsRGVwb3NpdHM7CiAgICB1aW50MjU2IHB1YmxpYyB0b3RhbFdpdGhkcmF3YWxzOwoKICAgIGV2ZW50IERlcG9zaXRlZChhZGRyZXNzIGluZGV4ZWQgdXNlciwgdWludDI1NiBhbW91bnQsIHVpbnQyNTYgbmV3QmFsYW5jZSk7CiAgICBldmVudCBXaXRoZHJhd2FsUmVxdWVzdGVkKGJ5dGVzMzIgaW5kZXhlZCByZXF1ZXN0SWQsIGFkZHJlc3MgaW5kZXhlZCB1c2VyLCB1aW50MjU2IGFtb3VudCwgdWludDI1NiBjb29sZG93bkVuZCk7CiAgICBldmVudCBXaXRoZHJhd2FsRXhlY3V0ZWQoYnl0ZXMzMiBpbmRleGVkIHJlcXVlc3RJZCwgYWRkcmVzcyBpbmRleGVkIHVzZXIsIHVpbnQyNTYgYW1vdW50KTsKICAgIGV2ZW50IFdpdGhkcmF3YWxDYW5jZWxsZWQoYnl0ZXMzMiBpbmRleGVkIHJlcXVlc3RJZCwgYWRkcmVzcyBpbmRleGVkIHVzZXIpOwogICAgZXZlbnQgQmFja2VuZFNpZ25lclVwZGF0ZWQoYWRkcmVzcyBpbmRleGVkIG9sZFNpZ25lciwgYWRkcmVzcyBpbmRleGVkIG5ld1NpZ25lcik7CiAgICBldmVudCBXaXRoZHJhd2FsQ29vbGRvd25VcGRhdGVkKHVpbnQyNTYgb2xkQ29vbGRvd24sIHVpbnQyNTYgbmV3Q29vbGRvd24pOwoKICAgIGNvbnN0cnVjdG9yKAogICAgICAgIGFkZHJlc3MgX21pbmVyVG9rZW4sCiAgICAgICAgYWRkcmVzcyBfYmFja2VuZFNpZ25lciwKICAgICAgICB1aW50MjU2IF93aXRoZHJhd2FsQ29vbGRvd24KICAgICkgewogICAgICAgIHJlcXVpcmUoX21pbmVyVG9rZW4gIT0gYWRkcmVzcygwKSwgIkdhbWVWYXVsdDogemVybyB0b2tlbiBhZGRyZXNzIik7CiAgICAgICAgcmVxdWlyZShfYmFja2VuZFNpZ25lciAhPSBhZGRyZXNzKDApLCAiR2FtZVZhdWx0OiB6ZXJvIHNpZ25lciBhZGRyZXNzIik7CiAgICAgICAgbWluZXJUb2tlbiA9IElFUkMyME1ldGFkYXRhKF9taW5lclRva2VuKTsKICAgICAgICBiYWNrZW5kU2lnbmVyID0gX2JhY2tlbmRTaWduZXI7CiAgICAgICAgd2l0aGRyYXdhbENvb2xkb3duID0gX3dpdGhkcmF3YWxDb29sZG93bjsKICAgIH0KCiAgICBtb2RpZmllciBvbmx5QmFja2VuZFNpZ25lcigpIHsKICAgICAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gYmFja2VuZFNpZ25lciwgIkdhbWVWYXVsdDogY2FsbGVyIGlzIG5vdCB0aGUgYmFja2VuZCBzaWduZXIiKTsKICAgICAgICBfOwogICAgfQoKICAgIGZ1bmN0aW9uIGRlcG9zaXQodWludDI1NiBhbW91bnQpIGV4dGVybmFsIG5vblJlZW50cmFudCB3aGVuTm90UGF1c2VkIHsKICAgICAgICByZXF1aXJlKGFtb3VudCA+IDAsICJHYW1lVmF1bHQ6IHplcm8gYW1vdW50Iik7CgogICAgICAgIGRlcG9zaXRzW21zZy5zZW5kZXJdICs9IGFtb3VudDsKICAgICAgICB0b3RhbERlcG9zaXRlZFttc2cuc2VuZGVyXSArPSBhbW91bnQ7CiAgICAgICAgdG90YWxEZXBvc2l0cyArPSBhbW91bnQ7CgogICAgICAgIGJvb2wgc3VjY2VzcyA9IG1pbmVyVG9rZW4udHJhbnNmZXJGcm9tKG1zZy5zZW5kZXIsIGFkZHJlc3ModGhpcyksIGFtb3VudCk7CiAgICAgICAgcmVxdWlyZShzdWNjZXNzLCAiR2FtZVZhdWx0OiB0cmFuc2ZlciBmYWlsZWQiKTsKCiAgICAgICAgZW1pdCBEZXBvc2l0ZWQobXNnLnNlbmRlciwgYW1vdW50LCBkZXBvc2l0c1ttc2cuc2VuZGVyXSk7CiAgICB9CgogICAgZnVuY3Rpb24gcmVxdWVzdFdpdGhkcmF3YWwodWludDI1NiBhbW91bnQpIGV4dGVybmFsIG5vblJlZW50cmFudCB3aGVuTm90UGF1c2VkIHsKICAgICAgICByZXF1aXJlKGFtb3VudCA+IDAsICJHYW1lVmF1bHQ6IHplcm8gYW1vdW50Iik7CiAgICAgICAgcmVxdWlyZShkZXBvc2l0c1ttc2cuc2VuZGVyXSA+PSBhbW91bnQsICJHYW1lVmF1bHQ6IGluc3VmZmljaWVudCBkZXBvc2l0Iik7CgogICAgICAgIGJ5dGVzMzIgcmVxdWVzdElkID0ga2VjY2FrMjU2KGFiaS5lbmNvZGVQYWNrZWQobXNnLnNlbmRlciwgYW1vdW50LCB1c2VyTm9uY2VzW21zZy5zZW5kZXJdKSk7CiAgICAgICAgdWludDI1NiBjb29sZG93bkVuZCA9IGJsb2NrLnRpbWVzdGFtcCArIHdpdGhkcmF3YWxDb29sZG93bjsKCiAgICAgICAgd2l0aGRyYXdhbFJlcXVlc3RzW3JlcXVlc3RJZF0gPSBXaXRoZHJhd2FsUmVxdWVzdCh7CiAgICAgICAgICAgIHVzZXI6IG1zZy5zZW5kZXIsCiAgICAgICAgICAgIGFtb3VudDogYW1vdW50LAogICAgICAgICAgICBub25jZTogdXNlck5vbmNlc1ttc2cuc2VuZGVyXSwKICAgICAgICAgICAgY29vbGRvd25FbmQ6IGNvb2xkb3duRW5kLAogICAgICAgICAgICBleGVjdXRlZDogZmFsc2UKICAgICAgICB9KTsKCiAgICAgICAgdXNlck5vbmNlc1ttc2cuc2VuZGVyXSsrOwoKICAgICAgICBlbWl0IFdpdGhkcmF3YWxSZXF1ZXN0ZWQocmVxdWVzdElkLCBtc2cuc2VuZGVyLCBhbW91bnQsIGNvb2xkb3duRW5kKTsKICAgIH0KCiAgICBmdW5jdGlvbiBleGVjdXRlV2l0aGRyYXdhbCgKICAgICAgICBieXRlczMyIHJlcXVlc3RJZCwKICAgICAgICBieXRlcyBjYWxsZGF0YSBzaWduYXR1cmUKICAgICkgZXh0ZXJuYWwgbm9uUmVlbnRyYW50IHdoZW5Ob3RQYXVzZWQgb25seUJhY2tlbmRTaWduZXIgewogICAgICAgIFdpdGhkcmF3YWxSZXF1ZXN0IHN0b3JhZ2UgcmVxdWVzdCA9IHdpdGhkcmF3YWxSZXF1ZXN0c1tyZXF1ZXN0SWRdOwogICAgICAgIHJlcXVpcmUoIXJlcXVlc3QuZXhlY3V0ZWQsICJHYW1lVmF1bHQ6IGFscmVhZHkgZXhlY3V0ZWQiKTsKICAgICAgICByZXF1aXJlKHJlcXVlc3QuY29vbGRvd25FbmQgPD0gYmxvY2sudGltZXN0YW1wLCAiR2FtZVZhdWx0OiBjb29sZG93biBub3QgZW5kZWQiKTsKICAgICAgICByZXF1aXJlKHJlcXVlc3QuYW1vdW50ID4gMCwgIkdhbWVWYXVsdDogaW52YWxpZCByZXF1ZXN0Iik7CgogICAgICAgIGJ5dGVzMzIgbWVzc2FnZUhhc2ggPSBrZWNjYWsyNTYoYWJpLmVuY29kZVBhY2tlZCgKICAgICAgICAgICAgYWRkcmVzcyh0aGlzKSwKICAgICAgICAgICAgcmVxdWVzdC51c2VyLAogICAgICAgICAgICByZXF1ZXN0LmFtb3VudCwKICAgICAgICAgICAgcmVxdWVzdC5ub25jZSwKICAgICAgICAgICAgcmVxdWVzdC5jb29sZG93bkVuZAogICAgICAgICkpOwoKICAgICAgICBhZGRyZXNzIHNpZ25lciA9IF9yZWNvdmVyU2lnbmVyKG1lc3NhZ2VIYXNoLCBzaWduYXR1cmUpOwogICAgICAgIHJlcXVpcmUoc2lnbmVyID09IGJhY2tlbmRTaWduZXIsICJHYW1lVmF1bHQ6IGludmFsaWQgc2lnbmF0dXJlIik7CgogICAgICAgIHJlcXVlc3QuZXhlY3V0ZWQgPSB0cnVlOwoKICAgICAgICBkZXBvc2l0c1tyZXF1ZXN0LnVzZXJdIC09IHJlcXVlc3QuYW1vdW50OwogICAgICAgIHRvdGFsV2l0aGRyYXduW3JlcXVlc3QudXNlcl0gKz0gcmVxdWVzdC5hbW91bnQ7CiAgICAgICAgdG90YWxXaXRoZHJhd2FscyArPSByZXF1ZXN0LmFtb3VudDsKCiAgICAgICAgYm9vbCBzdWNjZXNzID0gbWluZXJUb2tlbi50cmFuc2ZlcihyZXF1ZXN0LnVzZXIsIHJlcXVlc3QuYW1vdW50KTsKICAgICAgICByZXF1aXJlKHN1Y2Nlc3MsICJHYW1lVmF1bHQ6IHRyYW5zZmVyIGZhaWxlZCIpOwoKICAgICAgICBlbWl0IFdpdGhkcmF3YWxFeGVjdXRlZChyZXF1ZXN0SWQsIHJlcXVlc3QudXNlciwgcmVxdWVzdC5hbW91bnQpOwogICAgfQoKICAgIGZ1bmN0aW9uIGNhbmNlbFdpdGhkcmF3YWwoYnl0ZXMzMiByZXF1ZXN0SWQpIGV4dGVybmFsIG5vblJlZW50cmFudCB7CiAgICAgICAgV2l0aGRyYXdhbFJlcXVlc3Qgc3RvcmFnZSByZXF1ZXN0ID0gd2l0aGRyYXdhbFJlcXVlc3RzW3JlcXVlc3RJZF07CiAgICAgICAgcmVxdWlyZShyZXF1ZXN0LnVzZXIgPT0gbXNnLnNlbmRlciwgIkdhbWVWYXVsdDogbm90IHlvdXIgcmVxdWVzdCIpOwogICAgICAgIHJlcXVpcmUoIXJlcXVlc3QuZXhlY3V0ZWQsICJHYW1lVmF1bHQ6IGFscmVhZHkgZXhlY3V0ZWQiKTsKICAgICAgICByZXF1aXJlKHJlcXVlc3QuYW1vdW50ID4gMCwgIkdhbWVWYXVsdDogaW52YWxpZCByZXF1ZXN0Iik7CgogICAgICAgIHJlcXVlc3QuZXhlY3V0ZWQgPSB0cnVlOwogICAgICAgIHJlcXVlc3QuYW1vdW50ID0gMDsKCiAgICAgICAgZW1pdCBXaXRoZHJhd2FsQ2FuY2VsbGVkKHJlcXVlc3RJZCwgbXNnLnNlbmRlcik7CiAgICB9CgogICAgZnVuY3Rpb24gc2V0QmFja2VuZFNpZ25lcihhZGRyZXNzIF9uZXdTaWduZXIpIGV4dGVybmFsIG9ubHlPd25lciB7CiAgICAgICAgcmVxdWlyZShfbmV3U2lnbmVyICE9IGFkZHJlc3MoMCksICJHYW1lVmF1bHQ6IHplcm8gYWRkcmVzcyIpOwogICAgICAgIGFkZHJlc3Mgb2xkID0gYmFja2VuZFNpZ25lcjsKICAgICAgICBiYWNrZW5kU2lnbmVyID0gX25ld1NpZ25lcjsKICAgICAgICBlbWl0IEJhY2tlbmRTaWduZXJVcGRhdGVkKG9sZCwgX25ld1NpZ25lcik7CiAgICB9CgogICAgZnVuY3Rpb24gc2V0V2l0aGRyYXdhbENvb2xkb3duKHVpbnQyNTYgX2Nvb2xkb3duKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIHVpbnQyNTYgb2xkID0gd2l0aGRyYXdhbENvb2xkb3duOwogICAgICAgIHdpdGhkcmF3YWxDb29sZG93biA9IF9jb29sZG93bjsKICAgICAgICBlbWl0IFdpdGhkcmF3YWxDb29sZG93blVwZGF0ZWQob2xkLCBfY29vbGRvd24pOwogICAgfQoKICAgIGZ1bmN0aW9uIHBhdXNlKCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBfcGF1c2UoKTsKICAgIH0KCiAgICBmdW5jdGlvbiB1bnBhdXNlKCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBfdW5wYXVzZSgpOwogICAgfQoKICAgIGZ1bmN0aW9uIGdldFVzZXJEZXBvc2l0KGFkZHJlc3MgdXNlcikgZXh0ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2KSB7CiAgICAgICAgcmV0dXJuIGRlcG9zaXRzW3VzZXJdOwogICAgfQoKICAgIGZ1bmN0aW9uIGdldFZhdWx0QmFsYW5jZSgpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1NikgewogICAgICAgIHJldHVybiBtaW5lclRva2VuLmJhbGFuY2VPZihhZGRyZXNzKHRoaXMpKTsKICAgIH0KCiAgICBmdW5jdGlvbiBfcmVjb3ZlclNpZ25lcihieXRlczMyIG1lc3NhZ2VIYXNoLCBieXRlcyBjYWxsZGF0YSBzaWduYXR1cmUpIGludGVybmFsIHB1cmUgcmV0dXJucyAoYWRkcmVzcykgewogICAgICAgIHJlcXVpcmUoc2lnbmF0dXJlLmxlbmd0aCA9PSA2NSwgIkdhbWVWYXVsdDogaW52YWxpZCBzaWduYXR1cmUgbGVuZ3RoIik7CiAgICAgICAgYnl0ZXMzMiByOwogICAgICAgIGJ5dGVzMzIgczsKICAgICAgICB1aW50OCB2OwogICAgICAgIGFzc2VtYmx5IHsKICAgICAgICAgICAgciA6PSBjYWxsZGF0YWxvYWQoc2lnbmF0dXJlLm9mZnNldCkKICAgICAgICAgICAgcyA6PSBjYWxsZGF0YWxvYWQoYWRkKHNpZ25hdHVyZS5vZmZzZXQsIDMyKSkKICAgICAgICAgICAgdiA6PSBieXRlKDAsIGNhbGxkYXRhbG9hZChhZGQoc2lnbmF0dXJlLm9mZnNldCwgNjQpKSkKICAgICAgICB9CgogICAgICAgIGlmICh2IDwgMjcpIHYgKz0gMjc7CiAgICAgICAgcmVxdWlyZSh2ID09IDI3IHx8IHYgPT0gMjgsICJHYW1lVmF1bHQ6IGludmFsaWQgc2lnbmF0dXJlIHYgdmFsdWUiKTsKCiAgICAgICAgYnl0ZXMzMiBldGhTaWduZWRNZXNzYWdlSGFzaCA9IGtlY2NhazI1NihhYmkuZW5jb2RlUGFja2VkKAogICAgICAgICAgICAiXHgxOUV0aGVyZXVtIFNpZ25lZCBNZXNzYWdlOlxuMzIiLAogICAgICAgICAgICBtZXNzYWdlSGFzaAogICAgICAgICkpOwoKICAgICAgICByZXR1cm4gZWNyZWNvdmVyKGV0aFNpZ25lZE1lc3NhZ2VIYXNoLCB2LCByLCBzKTsKICAgIH0KCiAgICByZWNlaXZlKCkgZXh0ZXJuYWwgcGF5YWJsZSB7fQp9Cg==
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+interface IERC20 {
+    function totalSupply() external view returns (uint256);
+    function balanceOf(address account) external view returns (uint256);
+    function transfer(address to, uint256 amount) external returns (bool);
+    function allowance(address owner, address spender) external view returns (uint256);
+    function approve(address spender, uint256 amount) external returns (bool);
+    function transferFrom(address from, address to, uint256 amount) external returns (bool);
+    event Transfer(address indexed from, address indexed to, uint256 value);
+    event Approval(address indexed owner, address indexed spender, uint256 value);
+}
+
+interface IERC20Metadata is IERC20 {
+    function name() external view returns (string memory);
+    function symbol() external view returns (string memory);
+    function decimals() external view returns (uint8);
+}
+
+contract Context {
+    function _msgSender() internal view virtual returns (address) {
+        return msg.sender;
+    }
+}
+
+contract Ownable is Context {
+    address private _owner;
+    event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
+
+    constructor() {
+        _owner = _msgSender();
+        emit OwnershipTransferred(address(0), _owner);
+    }
+
+    function owner() public view virtual returns (address) {
+        return _owner;
+    }
+
+    modifier onlyOwner() {
+        require(owner() == _msgSender(), "Ownable: caller is not the owner");
+        _;
+    }
+
+    function transferOwnership(address newOwner) public virtual onlyOwner {
+        require(newOwner != address(0), "Ownable: new owner is the zero address");
+        emit OwnershipTransferred(_owner, newOwner);
+        _owner = newOwner;
+    }
+}
+
+contract ReentrancyGuard {
+    uint256 private constant _NOT_ENTERED = 1;
+    uint256 private constant _ENTERED = 2;
+    uint256 private _status;
+
+    constructor() {
+        _status = _NOT_ENTERED;
+    }
+
+    modifier nonReentrant() {
+        require(_status != _ENTERED, "ReentrancyGuard: reentrant call");
+        _status = _ENTERED;
+        _;
+        _status = _NOT_ENTERED;
+    }
+}
+
+contract Pausable is Context {
+    bool private _paused;
+    event Paused(address account);
+    event Unpaused(address account);
+
+    constructor() {
+        _paused = false;
+    }
+
+    function paused() public view virtual returns (bool) {
+        return _paused;
+    }
+
+    modifier whenNotPaused() {
+        require(!_paused, "Pausable: paused");
+        _;
+    }
+
+    modifier whenPaused() {
+        require(_paused, "Pausable: not paused");
+        _;
+    }
+
+    function _pause() internal virtual whenNotPaused {
+        _paused = true;
+        emit Paused(_msgSender());
+    }
+
+    function _unpause() internal virtual whenPaused {
+        _paused = false;
+        emit Unpaused(_msgSender());
+    }
+}
+
+contract GameVault is Context, Ownable, ReentrancyGuard, Pausable {
+    IERC20Metadata public immutable minerToken;
+
+    address public backendSigner;
+    uint256 public withdrawalCooldown;
+
+    struct WithdrawalRequest {
+        address user;
+        uint256 amount;
+        uint256 nonce;
+        uint256 cooldownEnd;
+        bool executed;
+    }
+
+    mapping(address => uint256) public userNonces;
+    mapping(bytes32 => WithdrawalRequest) public withdrawalRequests;
+    mapping(address => uint256) public deposits;
+    mapping(address => uint256) public totalDeposited;
+    mapping(address => uint256) public totalWithdrawn;
+
+    uint256 public totalDeposits;
+    uint256 public totalWithdrawals;
+
+    event Deposited(address indexed user, uint256 amount, uint256 newBalance);
+    event WithdrawalRequested(bytes32 indexed requestId, address indexed user, uint256 amount, uint256 cooldownEnd);
+    event WithdrawalExecuted(bytes32 indexed requestId, address indexed user, uint256 amount);
+    event WithdrawalCancelled(bytes32 indexed requestId, address indexed user);
+    event BackendSignerUpdated(address indexed oldSigner, address indexed newSigner);
+    event WithdrawalCooldownUpdated(uint256 oldCooldown, uint256 newCooldown);
+
+    constructor(
+        address _minerToken,
+        address _backendSigner,
+        uint256 _withdrawalCooldown
+    ) {
+        require(_minerToken != address(0), "GameVault: zero token address");
+        require(_backendSigner != address(0), "GameVault: zero signer address");
+        minerToken = IERC20Metadata(_minerToken);
+        backendSigner = _backendSigner;
+        withdrawalCooldown = _withdrawalCooldown;
+    }
+
+    modifier onlyBackendSigner() {
+        require(msg.sender == backendSigner, "GameVault: caller is not the backend signer");
+        _;
+    }
+
+    function deposit(uint256 amount) external nonReentrant whenNotPaused {
+        require(amount > 0, "GameVault: zero amount");
+
+        deposits[msg.sender] += amount;
+        totalDeposited[msg.sender] += amount;
+        totalDeposits += amount;
+
+        bool success = minerToken.transferFrom(msg.sender, address(this), amount);
+        require(success, "GameVault: transfer failed");
+
+        emit Deposited(msg.sender, amount, deposits[msg.sender]);
+    }
+
+    function requestWithdrawal(uint256 amount) external nonReentrant whenNotPaused {
+        require(amount > 0, "GameVault: zero amount");
+        require(deposits[msg.sender] >= amount, "GameVault: insufficient deposit");
+
+        bytes32 requestId = keccak256(abi.encodePacked(msg.sender, amount, userNonces[msg.sender]));
+        uint256 cooldownEnd = block.timestamp + withdrawalCooldown;
+
+        withdrawalRequests[requestId] = WithdrawalRequest({
+            user: msg.sender,
+            amount: amount,
+            nonce: userNonces[msg.sender],
+            cooldownEnd: cooldownEnd,
+            executed: false
+        });
+
+        userNonces[msg.sender]++;
+
+        emit WithdrawalRequested(requestId, msg.sender, amount, cooldownEnd);
+    }
+
+    function executeWithdrawal(
+        bytes32 requestId,
+        bytes calldata signature
+    ) external nonReentrant whenNotPaused onlyBackendSigner {
+        WithdrawalRequest storage request = withdrawalRequests[requestId];
+        require(!request.executed, "GameVault: already executed");
+        require(request.cooldownEnd <= block.timestamp, "GameVault: cooldown not ended");
+        require(request.amount > 0, "GameVault: invalid request");
+
+        bytes32 messageHash = keccak256(abi.encodePacked(
+            address(this),
+            request.user,
+            request.amount,
+            request.nonce,
+            request.cooldownEnd
+        ));
+
+        address signer = _recoverSigner(messageHash, signature);
+        require(signer == backendSigner, "GameVault: invalid signature");
+
+        request.executed = true;
+
+        deposits[request.user] -= request.amount;
+        totalWithdrawn[request.user] += request.amount;
+        totalWithdrawals += request.amount;
+
+        bool success = minerToken.transfer(request.user, request.amount);
+        require(success, "GameVault: transfer failed");
+
+        emit WithdrawalExecuted(requestId, request.user, request.amount);
+    }
+
+    function cancelWithdrawal(bytes32 requestId) external nonReentrant {
+        WithdrawalRequest storage request = withdrawalRequests[requestId];
+        require(request.user == msg.sender, "GameVault: not your request");
+        require(!request.executed, "GameVault: already executed");
+        require(request.amount > 0, "GameVault: invalid request");
+
+        request.executed = true;
+        request.amount = 0;
+
+        emit WithdrawalCancelled(requestId, msg.sender);
+    }
+
+    function setBackendSigner(address _newSigner) external onlyOwner {
+        require(_newSigner != address(0), "GameVault: zero address");
+        address old = backendSigner;
+        backendSigner = _newSigner;
+        emit BackendSignerUpdated(old, _newSigner);
+    }
+
+    function setWithdrawalCooldown(uint256 _cooldown) external onlyOwner {
+        uint256 old = withdrawalCooldown;
+        withdrawalCooldown = _cooldown;
+        emit WithdrawalCooldownUpdated(old, _cooldown);
+    }
+
+    function pause() external onlyOwner {
+        _pause();
+    }
+
+    function unpause() external onlyOwner {
+        _unpause();
+    }
+
+    function getUserDeposit(address user) external view returns (uint256) {
+        return deposits[user];
+    }
+
+    function getVaultBalance() external view returns (uint256) {
+        return minerToken.balanceOf(address(this));
+    }
+
+    function _recoverSigner(bytes32 messageHash, bytes calldata signature) internal pure returns (address) {
+        require(signature.length == 65, "GameVault: invalid signature length");
+        bytes32 r;
+        bytes32 s;
+        uint8 v;
+        assembly {
+            r := calldataload(signature.offset)
+            s := calldataload(add(signature.offset, 32))
+            v := byte(0, calldataload(add(signature.offset, 64)))
+        }
+
+        if (v < 27) v += 27;
+        require(v == 27 || v == 28, "GameVault: invalid signature v value");
+
+        bytes32 ethSignedMessageHash = keccak256(abi.encodePacked(
+            "\x19Ethereum Signed Message:\n32",
+            messageHash
+        ));
+
+        return ecrecover(ethSignedMessageHash, v, r, s);
+    }
+
+    receive() external payable {}
+}
