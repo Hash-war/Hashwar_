@@ -1,1 +1,175 @@
-InVzZSBjbGllbnQiOwoKaW50ZXJmYWNlIENoYXNzaXNNaW5lclJpZ1Byb3BzIHsKICBsZXZlbD86IG51bWJlcjsKICBpc01pbmluZz86IGJvb2xlYW47CiAgaXNPdmVyY2xvY2tlZD86IGJvb2xlYW47CiAgaXNPdmVyaGVhdGVkPzogYm9vbGVhbjsKICBzaXplPzogbnVtYmVyOwogIGNvbXBhY3Q/OiBib29sZWFuOwp9Cgpjb25zdCBMRVZFTF9DT0xPUlMgPSBbCiAgeyBmYW46ICIjNzc4OGFhIiwgZ2xvdzogInJnYmEoMTIwLDE1MCwyMDAsMC41KSIgfSwKICB7IGZhbjogIiMwMGZmODgiLCBnbG93OiAicmdiYSgwLDI1NSwxMzYsMC41KSIgfSwKICB7IGZhbjogIiNmZjg4MDAiLCBnbG93OiAicmdiYSgyNTUsMTM2LDAsMC41KSIgfSwKICB7IGZhbjogIiMwMGQ0ZmYiLCBnbG93OiAicmdiYSgwLDIxMiwyNTUsMC42KSIgfSwKICB7IGZhbjogIiNhODU1ZjciLCBnbG93OiAicmdiYSgxNjgsODUsMjQ3LDAuNikiIH0sCiAgeyBmYW46ICIjZmYwMGZmIiwgZ2xvdzogInJnYmEoMjU1LDAsMjU1LDAuNikiIH0sCiAgeyBmYW46ICIjZmYwMDQwIiwgZ2xvdzogInJnYmEoMjU1LDAsNjQsMC42KSIgfSwKXTsKCmZ1bmN0aW9uIEZhbih7IGNvbG9yLCBzcGlubmluZywgc3BlZWQgPSAxIH06IHsgY29sb3I6IHN0cmluZzsgc3Bpbm5pbmc6IGJvb2xlYW47IHNwZWVkPzogbnVtYmVyIH0pIHsKICBjb25zdCBkdXJhdGlvbiA9IGAke3NwZWVkfXNgOwogIHJldHVybiAoCiAgICA8ZyBzdHlsZT17eyB0cmFuc2Zvcm1Cb3g6ICJmaWxsLWJveCIsIHRyYW5zZm9ybU9yaWdpbjogIjUwJSA1MCUiLCBhbmltYXRpb246IHNwaW5uaW5nID8gYGZhbi1zcGluICR7ZHVyYXRpb259IGxpbmVhciBpbmZpbml0ZWAgOiAibm9uZSIgfX0+CiAgICAgIHsvKiBGYW4gc2hyb3VkICovfQogICAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzFhMWEyNCIgc3Ryb2tlPSIjMzMzIiBzdHJva2VXaWR0aD0iMSIgLz4KICAgICAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOC41IiBmaWxsPSJub25lIiBzdHJva2U9e2NvbG9yfSBzdHJva2VXaWR0aD0iMC42IiBvcGFjaXR5PSIwLjYiIC8+CiAgICAgIHsvKiBCbGFkZXMgKi99CiAgICAgIDxsaW5lIHgxPSIxMiIgeTE9IjUiIHgyPSIxMiIgeTI9IjE5IiBzdHJva2U9e2NvbG9yfSBzdHJva2VXaWR0aD0iMS42IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC44NSIgLz4KICAgICAgPGxpbmUgeDE9IjUiIHkxPSIxMiIgeDI9IjE5IiB5Mj0iMTIiIHN0cm9rZT17Y29sb3J9IHN0cm9rZVdpZHRoPSIxLjYiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIwLjg1IiAvPgogICAgICA8bGluZSB4MT0iNyIgeTE9IjciIHgyPSIxNyIgeTI9IjE3IiBzdHJva2U9e2NvbG9yfSBzdHJva2VXaWR0aD0iMS4yIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC42IiAvPgogICAgICA8bGluZSB4MT0iMTciIHkxPSI3IiB4Mj0iNyIgeTI9IjE3IiBzdHJva2U9e2NvbG9yfSBzdHJva2VXaWR0aD0iMS4yIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC42IiAvPgogICAgICB7LyogSHViICovfQogICAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjQiIGZpbGw9e2NvbG9yfSBvcGFjaXR5PSIwLjkiIC8+CiAgICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIgLz4KICAgIDwvZz4KICApOwp9CgpmdW5jdGlvbiBMZWRTdHJpcCh7IGNvbG9yLCBvbiB9OiB7IGNvbG9yOiBzdHJpbmc7IG9uOiBib29sZWFuIH0pIHsKICByZXR1cm4gKAogICAgPD4KICAgICAge1swLDEsMiwzLDQsNSw2LDddLm1hcCgoaSkgPT4gKAogICAgICAgIDxyZWN0CiAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICB4PXs4ICsgaSAqIDIwfQogICAgICAgICAgeT17OTJ9CiAgICAgICAgICB3aWR0aD0iMTIiCiAgICAgICAgICBoZWlnaHQ9IjQiCiAgICAgICAgICByeD0iMSIKICAgICAgICAgIGZpbGw9e2NvbG9yfQogICAgICAgICAgb3BhY2l0eT17b24gPyAwLjUgKyAoaSAlIDIpICogMC41IDogMC4xNX0KICAgICAgICAgIGNsYXNzTmFtZT17b24gPyAiYW5pbWF0ZS1uZW9uLXB1bHNlIiA6ICIifQogICAgICAgIC8+CiAgICAgICkpfQogICAgPC8+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIENoYXNzaXNNaW5lclJpZyh7CiAgbGV2ZWwgPSAxLAogIGlzTWluaW5nID0gdHJ1ZSwKICBpc092ZXJjbG9ja2VkID0gZmFsc2UsCiAgaXNPdmVyaGVhdGVkID0gZmFsc2UsCiAgc2l6ZSA9IDM0MCwKICBjb21wYWN0ID0gZmFsc2UsCn06IENoYXNzaXNNaW5lclJpZ1Byb3BzKSB7CiAgY29uc3QgY2xhbXBlZE1pbiA9IE1hdGgubWF4KDAsIE1hdGgubWluKDYsIE1hdGguZmxvb3IoKGxldmVsIC0gMSkgLyAxLjUpKSk7CiAgY29uc3QgY29sb3JzID0gTEVWRUxfQ09MT1JTW2NsYW1wZWRNaW5dOwogIGNvbnN0IGZhblNwZWVkID0gaXNPdmVyY2xvY2tlZCA/IDAuMyA6IE1hdGgubWF4KDAuNCwgMi4yIC0gbGV2ZWwgKiAwLjE4KTsKICBjb25zdCBzcGlubmluZyA9IGlzTWluaW5nICYmICFpc092ZXJoZWF0ZWQ7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgaW5saW5lLWJsb2NrIiBzdHlsZT17eyB3aWR0aDogc2l6ZSwgaGVpZ2h0OiBzaXplIH19PgogICAgICB7LyogQW1iaWVudCBnbG93ICovfQogICAgICA8ZGl2CiAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHJvdW5kZWQtbGciCiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIGJhY2tncm91bmQ6IGNvbG9ycy5nbG93LAogICAgICAgICAgZmlsdGVyOiAiYmx1cig0MHB4KSIsCiAgICAgICAgICBvcGFjaXR5OiAwLjM1LAogICAgICAgICAgYW5pbWF0aW9uOiBpc01pbmluZyA/IGBodWQtcHVsc2UtZ2xvdyAkezIuNSAtIGxldmVsICogMC4xNX1zIGVhc2UtaW4tb3V0IGluZmluaXRlYCA6ICJub25lIiwKICAgICAgICB9fQogICAgICAvPgoKICAgICAgey8qIFJpZyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9e2ByZWxhdGl2ZSB6LTEwICR7aXNPdmVyaGVhdGVkID8gIm92ZXJoZWF0LWZsYXNoIiA6ICIifWB9PgogICAgICAgIDxzdmcgdmlld0JveD17Y29tcGFjdCA/ICIwIDAgMTIwIDk2IiA6ICIwIDAgMTIwIDEyMCJ9IGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCI+CiAgICAgICAgICB7LyogQmFjayBmcmFtZSAqL30KICAgICAgICAgIDxyZWN0IHg9IjQiIHk9IjYiIHdpZHRoPSIxMTIiIGhlaWdodD0iODgiIHJ4PSI2IiBmaWxsPSIjMGQwZDE2IiBzdHJva2U9IiMzMzMiIHN0cm9rZVdpZHRoPSIyIiAvPgoKICAgICAgICAgIHsvKiBUb3AgaGFuZGxlL3JhY2sgKi99CiAgICAgICAgICA8cmVjdCB4PSIzMCIgeT0iMiIgd2lkdGg9IjYwIiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjMmEyYTNhIiAvPgoKICAgICAgICAgIHsvKiBMZWZ0IGNoYW1iZXIgLSA0IEdQVXMgKi99CiAgICAgICAgICA8Zz4KICAgICAgICAgICAgey8qIEdQVSAxICovfQogICAgICAgICAgICA8cmVjdCB4PSIxMCIgeT0iMTQiIHdpZHRoPSIzMCIgaGVpZ2h0PSIzNCIgcng9IjMiIGZpbGw9IiMxNTE1MWYiIHN0cm9rZT0iIzMzMyIgc3Ryb2tlV2lkdGg9IjEuNSIgLz4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTMsIDE5KSI+PEZhbiBjb2xvcj17Y29sb3JzLmZhbn0gc3Bpbm5pbmc9e3NwaW5uaW5nfSBzcGVlZD17ZmFuU3BlZWR9IC8+PC9nPgogICAgICAgICAgICA8cmVjdCB4PSIxMiIgeT0iNDAiIHdpZHRoPSIyNiIgaGVpZ2h0PSIzIiBmaWxsPXtjb2xvcnMuZmFufSBvcGFjaXR5PSIwLjQiIC8+CiAgICAgICAgICAgIHsvKiBHUFUgMiAqL30KICAgICAgICAgICAgPHJlY3QgeD0iNDQiIHk9IjE0IiB3aWR0aD0iMzAiIGhlaWdodD0iMzQiIHJ4PSIzIiBmaWxsPSIjMTUxNTFmIiBzdHJva2U9IiMzMzMiIHN0cm9rZVdpZHRoPSIxLjUiIC8+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ3LCAxOSkiPjxGYW4gY29sb3I9e2NvbG9ycy5mYW59IHNwaW5uaW5nPXtzcGlubmluZ30gc3BlZWQ9e2ZhblNwZWVkfSAvPjwvZz4KICAgICAgICAgICAgPHJlY3QgeD0iNDYiIHk9IjQwIiB3aWR0aD0iMjYiIGhlaWdodD0iMyIgZmlsbD17Y29sb3JzLmZhbn0gb3BhY2l0eT0iMC40IiAvPgogICAgICAgICAgICB7LyogR1BVIDMgKi99CiAgICAgICAgICAgIDxyZWN0IHg9Ijc4IiB5PSIxNCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjM0IiByeD0iMyIgZmlsbD0iIzE1MTUxZiIgc3Ryb2tlPSIjMzMzIiBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4MSwgMTkpIj48RmFuIGNvbG9yPXtjb2xvcnMuZmFufSBzcGlubmluZz17c3Bpbm5pbmd9IHNwZWVkPXtmYW5TcGVlZH0gLz48L2c+CiAgICAgICAgICAgIDxyZWN0IHg9IjgwIiB5PSI0MCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjMiIGZpbGw9e2NvbG9ycy5mYW59IG9wYWNpdHk9IjAuNCIgLz4KICAgICAgICAgIDwvZz4KCiAgICAgICAgICB7LyogV2F0ZXIgY29vbGluZyBwaXBlcyAqL30KICAgICAgICAgIDxwYXRoIGQ9Ik04IDU2IFE2MCAyMCAxMTIgNTYiIGZpbGw9Im5vbmUiIHN0cm9rZT17Y29sb3JzLmZhbn0gc3Ryb2tlV2lkdGg9IjIuNSIgb3BhY2l0eT0iMC41IiAvPgogICAgICAgICAgPHBhdGggZD0iTTggNjAgUTYwIDkwIDExMiA2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPXtjb2xvcnMuZmFufSBzdHJva2VXaWR0aD0iMi41IiBvcGFjaXR5PSIwLjUiIC8+CgogICAgICAgICAgey8qIEJvdHRvbSBjaGFtYmVyIC0gUFNVICsgY29udHJvbCAqL30KICAgICAgICAgIDxyZWN0IHg9IjEwIiB5PSI2MiIgd2lkdGg9IjQ0IiBoZWlnaHQ9IjI2IiByeD0iMyIgZmlsbD0iIzE4MTgyMiIgc3Ryb2tlPSIjMzMzIiBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgey8qIFBTVSBmYW5zL3ZlbnRzICovfQogICAgICAgICAge1swLDEsMiwzXS5tYXAoKGkpID0+ICgKICAgICAgICAgICAgPHJlY3Qga2V5PXtpfSB4PSIxNCIgeT17NjYgKyBpICogNX0gd2lkdGg9IjM2IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjMjUyNTJmIiAvPgogICAgICAgICAgKSl9CiAgICAgICAgICB7LyogUFNVIGxhYmVsICovfQogICAgICAgICAgPHJlY3QgeD0iMTQiIHk9IjgyIiB3aWR0aD0iMjAiIGhlaWdodD0iNCIgcng9IjEiIGZpbGw9IiNhODU1ZjciIG9wYWNpdHk9IjAuNSIgLz4KCiAgICAgICAgICB7LyogQ29udHJvbCBwYW5lbCByaWdodCAqL30KICAgICAgICAgIDxyZWN0IHg9IjU4IiB5PSI2MiIgd2lkdGg9IjUwIiBoZWlnaHQ9IjI2IiByeD0iMyIgZmlsbD0iIzBkMGQxNiIgc3Ryb2tlPSIjMzMzIiBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgey8qIERpZ2l0YWwgcmVhZG91dCAqL30KICAgICAgICAgIDxyZWN0IHg9IjYyIiB5PSI2NiIgd2lkdGg9IjM0IiBoZWlnaHQ9IjEyIiByeD0iMSIgZmlsbD0iIzA1MDUwOSIgc3Ryb2tlPXtjb2xvcnMuZmFufSBzdHJva2VXaWR0aD0iMSIgLz4KICAgICAgICAgIDx0ZXh0IHg9Ijc5IiB5PSI3NSIgdGV4dEFuY2hvcj0ibWlkZGxlIiBmaWxsPXtjb2xvcnMuZmFufSBmb250U2l6ZT0iNyIgZm9udEZhbWlseT0ibW9ub3NwYWNlIiBmb250V2VpZ2h0PSJib2xkIj4KICAgICAgICAgICAge2lzTWluaW5nID8gIkhBU0giIDogIlNUQlkifQogICAgICAgICAgPC90ZXh0PgogICAgICAgICAgey8qIFN0YXR1cyBMRURzICovfQogICAgICAgICAge1swLDEsMl0ubWFwKChpKSA9PiAoCiAgICAgICAgICAgIDxjaXJjbGUga2V5PXtpfSBjeD17NjIgKyBpICogMTR9IGN5PSI4MiIgcj0iMiIgZmlsbD17Y29sb3JzLmZhbn0gb3BhY2l0eT17aXNNaW5pbmcgPyAwLjggOiAwLjJ9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpc01pbmluZyA/ICJhbmltYXRlLW5lb24tcHVsc2UiIDogIiJ9IC8+CiAgICAgICAgICApKX0KCiAgICAgICAgICB7LyogTEVEIHN0cmlwICovfQogICAgICAgICAgeyFjb21wYWN0ICYmIDxMZWRTdHJpcCBjb2xvcj17Y29sb3JzLmZhbn0gb249e2lzTWluaW5nfSAvPn0KCiAgICAgICAgICB7LyogSEFTSFdBUiBicmFuZGluZyAqL30KICAgICAgICAgIHshY29tcGFjdCAmJiAoCiAgICAgICAgICAgIDx0ZXh0IHg9IjYwIiB5PSIxMDgiIHRleHRBbmNob3I9Im1pZGRsZSIgZmlsbD0iI2E4NTVmNyIgZm9udFNpemU9IjgiIGZvbnRGYW1pbHk9InNhbnMtc2VyaWYiIGZvbnRXZWlnaHQ9IjcwMCIgb3BhY2l0eT0iMC44IiBsZXR0ZXJTcGFjaW5nPSIyIj4KICAgICAgICAgICAgICBIQVNIV0FSCiAgICAgICAgICAgIDwvdGV4dD4KICAgICAgICAgICl9CgogICAgICAgICAgey8qIE92ZXJjbG9jayBmbGFzaCAqL30KICAgICAgICAgIHtpc092ZXJjbG9ja2VkICYmICFpc092ZXJoZWF0ZWQgJiYgKAogICAgICAgICAgICA8cmVjdCB4PSI0IiB5PSI2IiB3aWR0aD0iMTEyIiBoZWlnaHQ9Ijg4IiByeD0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYwMDQwIiBzdHJva2VXaWR0aD0iMiIgY2xhc3NOYW1lPSJvdmVyY2xvY2stZ2xvdyIgLz4KICAgICAgICAgICl9CiAgICAgICAgPC9zdmc+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIExldmVsIGJhZGdlICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgLXRvcC0xIC1yaWdodC0xIHotMjAiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzEwcHhdIHB4LTIgcHktMC41IHJvdW5kZWQgYmctWyMxMTExMWFdIGJvcmRlciIKICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiBjb2xvcnMuZmFuLCBjb2xvcjogY29sb3JzLmZhbiB9fT4KICAgICAgICAgIEx2LntsZXZlbH0KICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIE1pbmluZyBzdGF0dXMgY2hpcCAqL30KICAgICAge2lzTWluaW5nICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTIgbGVmdC0xLzIgLXRyYW5zbGF0ZS14LTEvMiB6LTIwIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LVsxMHB4XSBweC0yIHB5LTEgcm91bmRlZC1mdWxsIgogICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiBgcmdiYSgke2lzT3ZlcmNsb2NrZWQgPyAiMjU1LDAsNjQiIDogIjU3LDI1NSwyMCJ9LDAuMTIpYCwgYm9yZGVyOiBgMXB4IHNvbGlkIHJnYmEoJHtpc092ZXJjbG9ja2VkID8gIjI1NSwwLDY0IiA6ICI1NywyNTUsMjAifSwwLjQpYCwgY29sb3I6IGlzT3ZlcmNsb2NrZWQgPyAiI2ZmMDA0MCIgOiAiIzM5ZmYxNCIgfX0+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idy0xLjUgaC0xLjUgcm91bmRlZC1mdWxsIGJnLWN1cnJlbnQgYW5pbWF0ZS1wdWxzZSIgLz4KICAgICAgICAgICAge2lzT3ZlcmNsb2NrZWQgPyAiT1ZFUkNMT0NLRUQiIDogIk1JTklORyBBQ1RJVkUifQogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo=
+"use client";
+
+interface ChassisMinerRigProps {
+  level?: number;
+  isMining?: boolean;
+  isOverclocked?: boolean;
+  isOverheated?: boolean;
+  size?: number;
+  compact?: boolean;
+}
+
+const LEVEL_COLORS = [
+  { fan: "#7788aa", glow: "rgba(120,150,200,0.5)" },
+  { fan: "#00ff88", glow: "rgba(0,255,136,0.5)" },
+  { fan: "#ff8800", glow: "rgba(255,136,0,0.5)" },
+  { fan: "#00d4ff", glow: "rgba(0,212,255,0.6)" },
+  { fan: "#a855f7", glow: "rgba(168,85,247,0.6)" },
+  { fan: "#ff00ff", glow: "rgba(255,0,255,0.6)" },
+  { fan: "#ff0040", glow: "rgba(255,0,64,0.6)" },
+];
+
+function Fan({ color, spinning, speed = 1 }: { color: string; spinning: boolean; speed?: number }) {
+  const duration = `${speed}s`;
+  return (
+    <g style={{ transformBox: "fill-box", transformOrigin: "50% 50%", animation: spinning ? `fan-spin ${duration} linear infinite` : "none" }}>
+      {/* Fan shroud */}
+      <circle cx="12" cy="12" r="10" fill="#1a1a24" stroke="#333" strokeWidth="1" />
+      <circle cx="12" cy="12" r="8.5" fill="none" stroke={color} strokeWidth="0.6" opacity="0.6" />
+      {/* Blades */}
+      <line x1="12" y1="5" x2="12" y2="19" stroke={color} strokeWidth="1.6" strokeLinecap="round" opacity="0.85" />
+      <line x1="5" y1="12" x2="19" y2="12" stroke={color} strokeWidth="1.6" strokeLinecap="round" opacity="0.85" />
+      <line x1="7" y1="7" x2="17" y2="17" stroke={color} strokeWidth="1.2" strokeLinecap="round" opacity="0.6" />
+      <line x1="17" y1="7" x2="7" y2="17" stroke={color} strokeWidth="1.2" strokeLinecap="round" opacity="0.6" />
+      {/* Hub */}
+      <circle cx="12" cy="12" r="2.4" fill={color} opacity="0.9" />
+      <circle cx="12" cy="12" r="1" fill="#fff" opacity="0.8" />
+    </g>
+  );
+}
+
+function LedStrip({ color, on }: { color: string; on: boolean }) {
+  return (
+    <>
+      {[0,1,2,3,4,5,6,7].map((i) => (
+        <rect
+          key={i}
+          x={8 + i * 20}
+          y={92}
+          width="12"
+          height="4"
+          rx="1"
+          fill={color}
+          opacity={on ? 0.5 + (i % 2) * 0.5 : 0.15}
+          className={on ? "animate-neon-pulse" : ""}
+        />
+      ))}
+    </>
+  );
+}
+
+export function ChassisMinerRig({
+  level = 1,
+  isMining = true,
+  isOverclocked = false,
+  isOverheated = false,
+  size = 340,
+  compact = false,
+}: ChassisMinerRigProps) {
+  const clampedMin = Math.max(0, Math.min(6, Math.floor((level - 1) / 1.5)));
+  const colors = LEVEL_COLORS[clampedMin];
+  const fanSpeed = isOverclocked ? 0.3 : Math.max(0.4, 2.2 - level * 0.18);
+  const spinning = isMining && !isOverheated;
+
+  return (
+    <div className="relative inline-block" style={{ width: size, height: size }}>
+      {/* Ambient glow */}
+      <div
+        className="absolute inset-0 rounded-lg"
+        style={{
+          background: colors.glow,
+          filter: "blur(40px)",
+          opacity: 0.35,
+          animation: isMining ? `hud-pulse-glow ${2.5 - level * 0.15}s ease-in-out infinite` : "none",
+        }}
+      />
+
+      {/* Rig */}
+      <div className={`relative z-10 ${isOverheated ? "overheat-flash" : ""}`}>
+        <svg viewBox={compact ? "0 0 120 96" : "0 0 120 120"} className="w-full h-full">
+          {/* Back frame */}
+          <rect x="4" y="6" width="112" height="88" rx="6" fill="#0d0d16" stroke="#333" strokeWidth="2" />
+
+          {/* Top handle/rack */}
+          <rect x="30" y="2" width="60" height="5" rx="2" fill="#2a2a3a" />
+
+          {/* Left chamber - 4 GPUs */}
+          <g>
+            {/* GPU 1 */}
+            <rect x="10" y="14" width="30" height="34" rx="3" fill="#15151f" stroke="#333" strokeWidth="1.5" />
+            <g transform="translate(13, 19)"><Fan color={colors.fan} spinning={spinning} speed={fanSpeed} /></g>
+            <rect x="12" y="40" width="26" height="3" fill={colors.fan} opacity="0.4" />
+            {/* GPU 2 */}
+            <rect x="44" y="14" width="30" height="34" rx="3" fill="#15151f" stroke="#333" strokeWidth="1.5" />
+            <g transform="translate(47, 19)"><Fan color={colors.fan} spinning={spinning} speed={fanSpeed} /></g>
+            <rect x="46" y="40" width="26" height="3" fill={colors.fan} opacity="0.4" />
+            {/* GPU 3 */}
+            <rect x="78" y="14" width="30" height="34" rx="3" fill="#15151f" stroke="#333" strokeWidth="1.5" />
+            <g transform="translate(81, 19)"><Fan color={colors.fan} spinning={spinning} speed={fanSpeed} /></g>
+            <rect x="80" y="40" width="26" height="3" fill={colors.fan} opacity="0.4" />
+          </g>
+
+          {/* Water cooling pipes */}
+          <path d="M8 56 Q60 20 112 56" fill="none" stroke={colors.fan} strokeWidth="2.5" opacity="0.5" />
+          <path d="M8 60 Q60 90 112 60" fill="none" stroke={colors.fan} strokeWidth="2.5" opacity="0.5" />
+
+          {/* Bottom chamber - PSU + control */}
+          <rect x="10" y="62" width="44" height="26" rx="3" fill="#181822" stroke="#333" strokeWidth="1.5" />
+          {/* PSU fans/vents */}
+          {[0,1,2,3].map((i) => (
+            <rect key={i} x="14" y={66 + i * 5} width="36" height="3" rx="1" fill="#25252f" />
+          ))}
+          {/* PSU label */}
+          <rect x="14" y="82" width="20" height="4" rx="1" fill="#a855f7" opacity="0.5" />
+
+          {/* Control panel right */}
+          <rect x="58" y="62" width="50" height="26" rx="3" fill="#0d0d16" stroke="#333" strokeWidth="1.5" />
+          {/* Digital readout */}
+          <rect x="62" y="66" width="34" height="12" rx="1" fill="#050509" stroke={colors.fan} strokeWidth="1" />
+          <text x="79" y="75" textAnchor="middle" fill={colors.fan} fontSize="7" fontFamily="monospace" fontWeight="bold">
+            {isMining ? "HASH" : "STBY"}
+          </text>
+          {/* Status LEDs */}
+          {[0,1,2].map((i) => (
+            <circle key={i} cx={62 + i * 14} cy="82" r="2" fill={colors.fan} opacity={isMining ? 0.8 : 0.2}
+              className={isMining ? "animate-neon-pulse" : ""} />
+          ))}
+
+          {/* LED strip */}
+          {!compact && <LedStrip color={colors.fan} on={isMining} />}
+
+          {/* HASHWAR branding */}
+          {!compact && (
+            <text x="60" y="108" textAnchor="middle" fill="#a855f7" fontSize="8" fontFamily="sans-serif" fontWeight="700" opacity="0.8" letterSpacing="2">
+              HASHWAR
+            </text>
+          )}
+
+          {/* Overclock flash */}
+          {isOverclocked && !isOverheated && (
+            <rect x="4" y="6" width="112" height="88" rx="6" fill="none" stroke="#ff0040" strokeWidth="2" className="overclock-glow" />
+          )}
+        </svg>
+      </div>
+
+      {/* Level badge */}
+      <div className="absolute -top-1 -right-1 z-20">
+        <span className="num text-[10px] px-2 py-0.5 rounded bg-[#11111a] border"
+          style={{ borderColor: colors.fan, color: colors.fan }}>
+          Lv.{level}
+        </span>
+      </div>
+
+      {/* Mining status chip */}
+      {isMining && (
+        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 z-20">
+          <span className="flex items-center gap-1.5 text-[10px] px-2 py-1 rounded-full"
+            style={{ background: `rgba(${isOverclocked ? "255,0,64" : "57,255,20"},0.12)`, border: `1px solid rgba(${isOverclocked ? "255,0,64" : "57,255,20"},0.4)`, color: isOverclocked ? "#ff0040" : "#39ff14" }}>
+            <span className="w-1.5 h-1.5 rounded-full bg-current animate-pulse" />
+            {isOverclocked ? "OVERCLOCKED" : "MINING ACTIVE"}
+          </span>
+        </div>
+      )}
+    </div>
+  );
+}
