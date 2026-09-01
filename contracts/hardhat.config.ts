@@ -1,1 +1,69 @@
-aW1wb3J0IHsgSGFyZGhhdFVzZXJDb25maWcgfSBmcm9tICJoYXJkaGF0L2NvbmZpZyI7CmltcG9ydCAiQG5vbWljZm91bmRhdGlvbi9oYXJkaGF0LXRvb2xib3giOwppbXBvcnQgKiBhcyBkb3RlbnYgZnJvbSAiZG90ZW52IjsKCmRvdGVudi5jb25maWcoeyBwYXRoOiAiLi4vLmVudiIgfSk7Cgpjb25zdCBST0JJTkhPT0RfQ0hBSU5fSUQgPSA0NjYzOwpjb25zdCBST0JJTkhPT0RfUlBDX1VSTCA9IHByb2Nlc3MuZW52LlJPQklOSE9PRF9SUENfVVJMIHx8ICJodHRwczovL3JwYy5tYWlubmV0LmNoYWluLnJvYmluaG9vZC5jb20iOwpjb25zdCBST0JJTkhPT0RfVEVTVE5FVF9DSEFJTl9JRCA9IDQ2NjMwOwpjb25zdCBST0JJTkhPT0RfVEVTVE5FVF9SUENfVVJMID0gImh0dHBzOi8vcnBjLnRlc3RuZXQuY2hhaW4ucm9iaW5ob29kLmNvbSI7CmNvbnN0IFBSSVZBVEVfS0VZID0gcHJvY2Vzcy5lbnYuREVQTE9ZRVJfUFJJVkFURV9LRVkgfHwgIjB4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMSI7Cgpjb25zdCBjb25maWc6IEhhcmRoYXRVc2VyQ29uZmlnID0gewogIHNvbGlkaXR5OiB7CiAgICB2ZXJzaW9uOiAiMC44LjI0IiwKICAgIHNldHRpbmdzOiB7CiAgICAgIG9wdGltaXplcjogewogICAgICAgIGVuYWJsZWQ6IHRydWUsCiAgICAgICAgcnVuczogMjAwLAogICAgICB9LAogICAgfSwKICB9LAogIG5ldHdvcmtzOiB7CiAgICBoYXJkaGF0OiB7CiAgICAgIGNoYWluSWQ6IDMxMzM3LAogICAgfSwKICAgIHJvYmluaG9vZDogewogICAgICB1cmw6IFJPQklOSE9PRF9SUENfVVJMLAogICAgICBjaGFpbklkOiBST0JJTkhPT0RfQ0hBSU5fSUQsCiAgICAgIGFjY291bnRzOiBbUFJJVkFURV9LRVldLAogICAgfSwKICAgIHJvYmluaG9vZFRlc3RuZXQ6IHsKICAgICAgdXJsOiBST0JJTkhPT0RfVEVTVE5FVF9SUENfVVJMLAogICAgICBjaGFpbklkOiBST0JJTkhPT0RfVEVTVE5FVF9DSEFJTl9JRCwKICAgICAgYWNjb3VudHM6IFtQUklWQVRFX0tFWV0sCiAgICB9LAogICAgbG9jYWxob3N0OiB7CiAgICAgIHVybDogImh0dHA6Ly8xMjcuMC4wLjE6ODU0NSIsCiAgICAgIGNoYWluSWQ6IDMxMzM3LAogICAgICBhY2NvdW50czogWyIweGFjMDk3NGJlYzM5YTE3ZTM2YmE0YTZiNGQyMzhmZjk0NGJhY2I0NzhjYmVkNWVmY2FlNzg0ZDdiZjRmMmZmODAiXSwKICAgIH0sCiAgfSwKICBldGhlcnNjYW46IHsKICAgIGFwaUtleTogewogICAgICByb2Jpbmhvb2Q6IHByb2Nlc3MuZW52LkJMT0NLU0NPVVRfQVBJX0tFWSB8fCAiIiwKICAgICAgcm9iaW5ob29kVGVzdG5ldDogcHJvY2Vzcy5lbnYuQkxPQ0tTQ09VVF9BUElfS0VZIHx8ICIiLAogICAgfSwKICAgIGN1c3RvbUNoYWluczogWwogICAgICB7CiAgICAgICAgbmV0d29yazogInJvYmluaG9vZCIsCiAgICAgICAgY2hhaW5JZDogUk9CSU5IT09EX0NIQUlOX0lELAogICAgICAgIHVybHM6IHsKICAgICAgICAgIGFwaVVSTDogImh0dHBzOi8vcm9iaW5ob29kY2hhaW4uYmxvY2tzY291dC5jb20vYXBpIiwKICAgICAgICAgIGJyb3dzZXJVUkw6ICJodHRwczovL3JvYmluaG9vZGNoYWluLmJsb2Nrc2NvdXQuY29tIiwKICAgICAgICB9LAogICAgICB9LAogICAgICB7CiAgICAgICAgbmV0d29yazogInJvYmluaG9vZFRlc3RuZXQiLAogICAgICAgIGNoYWluSWQ6IFJPQklOSE9PRF9URVNUTkVUX0NIQUlOX0lELAogICAgICAgIHVybHM6IHsKICAgICAgICAgIGFwaVVSTDogImh0dHBzOi8vZXhwbG9yZXIudGVzdG5ldC5jaGFpbi5yb2Jpbmhvb2QuY29tL2FwaSIsCiAgICAgICAgICBicm93c2VyVVJMOiAiaHR0cHM6Ly9leHBsb3Jlci50ZXN0bmV0LmNoYWluLnJvYmluaG9vZC5jb20iLAogICAgICAgIH0sCiAgICAgIH0sCiAgICBdLAogIH0sCn07CgpleHBvcnQgZGVmYXVsdCBjb25maWc7Cg==
+import { HardhatUserConfig } from "hardhat/config";
+import "@nomicfoundation/hardhat-toolbox";
+import * as dotenv from "dotenv";
+
+dotenv.config({ path: "../.env" });
+
+const ROBINHOOD_CHAIN_ID = 4663;
+const ROBINHOOD_RPC_URL = process.env.ROBINHOOD_RPC_URL || "https://rpc.mainnet.chain.robinhood.com";
+const ROBINHOOD_TESTNET_CHAIN_ID = 46630;
+const ROBINHOOD_TESTNET_RPC_URL = "https://rpc.testnet.chain.robinhood.com";
+const PRIVATE_KEY = process.env.DEPLOYER_PRIVATE_KEY || "0x0000000000000000000000000000000000000000000000000000000000000001";
+
+const config: HardhatUserConfig = {
+  solidity: {
+    version: "0.8.24",
+    settings: {
+      optimizer: {
+        enabled: true,
+        runs: 200,
+      },
+    },
+  },
+  networks: {
+    hardhat: {
+      chainId: 31337,
+    },
+    robinhood: {
+      url: ROBINHOOD_RPC_URL,
+      chainId: ROBINHOOD_CHAIN_ID,
+      accounts: [PRIVATE_KEY],
+    },
+    robinhoodTestnet: {
+      url: ROBINHOOD_TESTNET_RPC_URL,
+      chainId: ROBINHOOD_TESTNET_CHAIN_ID,
+      accounts: [PRIVATE_KEY],
+    },
+    localhost: {
+      url: "http://127.0.0.1:8545",
+      chainId: 31337,
+      accounts: ["0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80"],
+    },
+  },
+  etherscan: {
+    apiKey: {
+      robinhood: process.env.BLOCKSCOUT_API_KEY || "",
+      robinhoodTestnet: process.env.BLOCKSCOUT_API_KEY || "",
+    },
+    customChains: [
+      {
+        network: "robinhood",
+        chainId: ROBINHOOD_CHAIN_ID,
+        urls: {
+          apiURL: "https://robinhoodchain.blockscout.com/api",
+          browserURL: "https://robinhoodchain.blockscout.com",
+        },
+      },
+      {
+        network: "robinhoodTestnet",
+        chainId: ROBINHOOD_TESTNET_CHAIN_ID,
+        urls: {
+          apiURL: "https://explorer.testnet.chain.robinhood.com/api",
+          browserURL: "https://explorer.testnet.chain.robinhood.com",
+        },
+      },
+    ],
+  },
+};
+
+export default config;
