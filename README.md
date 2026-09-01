@@ -1,1 +1,109 @@
-IyBIYXNod2FyIOefv+W3pea4uOaIjyDCtyDpk77kuIrlhazlubPmgKflhazlvIDku5PlupMKCj4g5pys5LuT5bqT55So5LqO5YWs5byAIEhhc2h3YXIg5ri45oiP55qEKirmoLjlv4Pnjqnms5XmnLrliLYqKuS4jioq6ZO+5LiK5YWs5bmz5oCn6K6+6K6hKirvvIzkvpvnpL7ljLrlrqHmn6XkuI7moLjpqozjgIIKPiDlkI7nq6/mnI3liqHku6PnoIHjgIHnp4HpkqXjgIHmnI3liqHlmajphY3nva7kuI7miYDmnInnjq/looPlj5jph48qKuS4jeWcqOatpOS7k+W6k+WFrOW8gCoq44CCCgpIYXNod2FyIOaYr+S4gOS4quOAjOaMluefvyArIOaImOS6ieOAjeS4u+mimOeahOS8kemXsumTvua4uO+8mueOqeWutuaMgeaciS/otZrlj5YgSEFTSCDku6PluIHvvIznlKjmnaXljYfnuqfnn7/mnLrjgIHop6PplIHnn7/mp73jgIHotK3kubDphY3ku7bjgIHlj4LkuI7mr4/ova7miJjkuonvvIzmiornrpflipvmjaLnrpfmiJDmjIHnu63nmoTmlLbnm4rkuI7miJjkuonlpZbph5HjgIIqKuWFqOmDqOi1hOmHkeS4juaguOW/g+eKtuaAgemDveWcqOmTvuS4iue7k+eul++8jOWQjuerr+S4jeaMgeacieS7u+S9leeOqeWutueahOengemSpeaIluS7o+W4geOAgioqCgotLS0KCiMjIOS4uuS7gOS5iOiBmueEpuOAjOmTvuS4iuWFrOW5s+aAp+OAjQoK5oiR5Lus5YWs5byA6L+Z5aWX5Luj56CB55qE5qC45b+D5om/6K+677yaKirnjqnlrrbotYTkuqfkuI7op4TliJnkuI3ku6Xku7vkvZXmnI3liqHlmajkuLrkuK3lv4PjgIHkuI3kvp3otZbku7vkvZXlkI7nq6/lr4bpkqXjgIIqKgoKLSDmiYDmnInotYTph5Hnm7TmjqXku44qKueOqeWutumSseWMhSDihpQg5ZCI57qmKirmtYHliqjvvIzlhajnqIvlhazlvIDlj6/mn6XjgIIKLSDlkI7nq68qKuaXoOazlSoq56eB5ZCe44CB5Ya757uT5oiW5Yet56m66ZO46YCg546p5a626LWE5Lqn44CCCi0g5oyW55+/5pS255uKL+aImOS6ieWIhumFjS/ku7vliqHlpZblirHlhajpg6jnlLEqKuWQiOe6puS7o+eggSoq5Yaz5a6a77yM5Lu75L2V5Lq65Y+v55So6ZO+5LiK5pWw5o2u6Ieq6KGM5qC46aqM44CCCgotLS0KCiMjIOWFs+mUruWQiOe6puWcsOWdgO+8iOWMuuWdl+mTvuWFrOW8gOaVsOaNru+8jOWPr+ebtOaOpeaguOmqjO+8iQoKfCDop5LoibIgfCDlnLDlnYAgfAp8IC0tLSB8IC0tLSB8CnwgJEhBU0gg5Luj5biB77yIcG9ucyBWMiDlgLrliLjmm7Lnur/lj5HooYzvvIkgfCBgMHhiZkY0QzBCZTIwRWI3NEQzMzk5ZDYzQzFBMjU3NUJkN0Y4OTk2OEQzYCB8CnwgSGFzaHdhciDmuLjmiI/lkIjnuqbvvIjmjJbnn78v5oiY5LqJL+S7u+WKoe+8iSB8IGAweDk3RDhiMjJENzA4ZjFlQTU0M2M3NjM4YzkyQ0Q0MkJlRGZEMjQ5YkZgIHwKfCBwb25zIFYyIEJvbmRpbmcgQ3VydmXvvIhIQVNIL0VUSCDlrprku7fvvIkgfCBgMHhDNTQzREY2ZjVFYkRkQzBFYjQ0NTI0NjJmNjM3YjVlMDM2ODc2N2I3YCB8Cgo+IOivtOaYju+8miRIQVNIIOmHh+eUqCBwb25zIFYyIOWAuuWIuOabsue6v+WPkeihjO+8iOWOn+eUnyBFVEgg6K6h5Lu377yMcGhhc2UgMO+8ieOAgkhBU0gg55qE576O5YWD5Lyw5YC8ID0g6ZO+5LiK5YC65Yi45puy57q/55yf5a6e5Lu35qC8IMOXIOWunuaXtiBFVEgg576O5YWD5Lu35qC877yMKirkuI3kvb/nlKjku7vkvZXnoaznvJbnoIEv5Zu65a6a5Lyw5YC8KirvvIzpmo/luILlnLrlrp7ml7bms6LliqjjgILmr5XkuJrvvIhwaGFzZSAy77yJ5ZCO5YiH5o2i5YiwIFVuaXN3YXAgdjQg5rGg5a6a5Lu344CCCgotLS0KCiMjIOeOqeazleacuuWItu+8iOWvueW6lCBgSGFzaHdhci5zb2xg77yJCgojIyMgMS4g55+/5py657O757ufCi0g5q+P5L2N546p5a625pyA5aSaICoqNCDkuKrnn7/mp70qKu+8iHNsb3TvvInvvIzliJ3lp4vop6PplIEgMSDkuKrvvIzlj6/ku5jotLnop6PplIHmm7TlpJrjgIIKLSDnn7/mnLogKioxMCDnuqcqKu+8jOetiee6p+i2iumrmOWfuuehgOeul+WKm+i2iumrmO+8m+WNh+e6p+aIkOacrOaMieetiee6p+aMh+aVsOWinumVv++8iOingSBgTEVWRUxfSEFTSFJBVEVgIC8gYExFVkVMX0NPU1Rg77yJ44CCCi0g5q+P5Y+w55+/5py65pyJICoq6IO96YePIC8g5rip5bqmIC8g6ICQ5LmFKiog5LiJ6aG554q25oCB77yM5Lya6ZqP5pe26Ze06Ieq54S25oGi5aSN77yM5Lmf5Lya5Zug5oyB57ut5oyW55+/6ICM5raI6ICX44CB5Y2H5rip44CB56Oo5o2fIOKAlOKAlCDpnIDopoHnrZbnlaXmgKfotK3kubDog73ph4/jgIHpmY3muKnjgIHnu7Tkv67jgIIKCiMjIyAyLiDmjJbnn7/mlLbnm4rvvIjku7flgLzplJrlrprvvIzpmLLlpZfliKnvvIkKLSDmlLbnm4rku6UgKipVU0Qg6K6h5Lu355qE5Zu65a6a5Lqn5Ye6546HIMOXIOaMluefv+aXtumVvyoqIOiuoeeul++8iGByZXdhcmRSYXRlUGVyTUhQZXJTZWNg77yJ77yM5YaN6Zmk5Lul5b2T5YmNIGBwcmljZVBlckhhc2hgIOaNoueul+aIkCBIQVNIIOaVsOmHj+OAggotIOaViOaenO+8mioq5peg6K665Luj5biB5Lu35qC85oCO5LmI5rOi5Yqo77yM5q+PIE1IL3Mg55qE576O5YWD5pS255uK546H5oGS5a6aKirvvIzmnZznu53jgIzkvY7ku7fkubDluIHjgIHpq5jku7fpoobmlLbnm4rjgI3nmoTlpZfliKnmvI/mtJ7jgIIKLSDmlLbnm4rku44qKumihOWFheWAvOeahOWlluWKseaxoCoq5pSv5LuY77yIYHJld2FyZFBvb2xg77yM6Zu25ZKM77yJ77yMKirnu53kuI3lh63nqbrlop7lj5EqKuOAggoKIyMjIDMuIOaImOS6ieeOqeazle+8iGBXYXJg77yJCi0g546p5a6255So5b2T5YmN5oC7566X5Yqb44CM5Y+C5oiY44CN5pys6L2u5oiY5LqJ77yb5oiY5LqJ57uT5p2f5ZCOKirmjInnrpflipvljaDmr5TliIbphY3lpZbmsaAqKuOAggotIOe7k+eul+mcgOetieW+hSBgV0FSX0RVUkFUSU9OYO+8iDYwMCDnp5LvvInlgJLorqHml7bnu5PmnZ/vvIzku7vkvZXkurrlnYflj6/op6blj5Hnu5PnrpfvvIhwZXJtaXNzaW9ubGVzc++8ie+8jOWlluaxoOS4iumZkOWPl+WlluWKseaxoOS9meminee6puadn+OAggoKIyMjIDQuIOS7u+WKoeezu+e7nwotIOavj+aXpeS7u+WKoe+8iOeZu+W9lSAvIOWujOaIkOaMluefvyAvIOi2hemikSAvIOWNh+e6pyAvIOWPguaImO+8ie+8jOaMiSBgcXVlc3RNYXNrYCDmjInlpKnpmZDpoobkuIDmrKHvvIzlpZblirHlkIzmoLfku47lpZblirHmsaDmlK/ku5jjgIIKCiMjIyA1LiDllYblupfkuI7phY3ku7YKLSDotoXpopHjgIHotoXpopHoiq/niYfvvIjkuLTml7YgKzUwJSDnrpflipvvvInjgIHlhrfljbTmtrLjgIHnu7Tkv67jgIHmsLjkuYXnrpflipvliqDmiJDmnLrmnrbvvIhSaWfvvInjgIIKCi0tLQoKIyMg6LWE6YeR5a6J5YWo5LiO44CM6Zu25ZCO56uv5a+G6ZKl44CN6K6+6K6hCgpgSGFzaHdhci5zb2xgIOmhtumDqOazqOmHiuWNs+aguOW/g+aJv+ivuu+8mgoKPiBBbGwgZnVuZHMgZmxvdyBkaXJlY3RseSBiZXR3ZWVuIHBsYXllciB3YWxsZXRzIGFuZCB0aGlzIGNvbnRyYWN0Lgo+IFplcm8gYmFja2VuZCBrZXlzOiBub2JvZHkgZXhjZXB0IHRoZSBwbGF5ZXIgdHJpZ2dlcnMgdGhlaXIgb3duIGRlcG9zaXQsCj4gd2l0aGRyYXdhbCBvciByZXdhcmQgY2xhaW0uIFJld2FyZHMgYXJlIHBhaWQgZnJvbSBhIHByZWZ1bmRlZCBjdXN0b2R5IHBvb2wKPiAoemVyby1zdW0pLCBuZXZlciBtaW50ZWQgYXJiaXRyYXJpbHkuCgotICoq5YWl6YeRKiogYGRlcG9zaXQoKWAgLyAqKuWHuumHkSoqIGB3aXRoZHJhdygpYO+8muWPquWFgeiuuOeOqeWutuacrOS6uuWvueiHquacieS9memineaTjeS9nOOAggotICoq6aKG5aWWKiogYGNsYWltTWluaW5nUmV3YXJkKClgIC8gYGNsYWltV2FyUmV3YXJkKClgIC8gYGNsYWltUXVlc3QoKWDvvJrlj6rlj5HmlL7liLAgYG1zZy5zZW5kZXJg44CCCi0g5aWW5Yqx5rGgIGBmdW5kUmV3YXJkUG9vbCgpYCDlhazlvIDpooTlhYXlgLzvvIzlpZblirHmnaXmupDpgI/mmI7jgIIKLSBgR2FtZVZhdWx0LnNvbGDvvJrotYTph5HmiZjnrqHlkIjnuqbvvIzluKYgYE93bmFibGVgIC8gYFJlZW50cmFuY3lHdWFyZGDvvIjpmLLph43lhaXvvIkvIGBQYXVzYWJsZWDvvIjlj6/mmoLlgZzvvInvvIzov5vkuIDmraXkv53pmpzotYTph5HlronlhajjgIIKCi0tLQoKIyMg5Luj56CB57uT5p6ECgpgYGAKY29udHJhY3RzLwogIGNvbnRyYWN0cy8KICAgIEhhc2h3YXIuc29sICAgICAjIOa4uOaIj+S4u+mAu+i+ke+8muaMluefvyAvIOWNh+e6pyAvIOmFjeS7tiAvIOaImOS6iSAvIOS7u+WKoQogICAgR2FtZVZhdWx0LnNvbCAgICMg6LWE6YeR5omY566h77yaT3duYWJsZSArIOmYsumHjeWFpSArIOWPr+aaguWBnAogICAgTW9ja0VSQzIwLnNvbCAgICMg5rWL6K+V55SoIEVSQzIw77yI5LuF5pys5Zyw5rWL6K+V77yJCiAgdGVzdC8KICAgIEhhc2h3YXIudGVzdC50cyAjIOeOqeazleacuuWItua1i+ivlQogICAgR2FtZVZhdWx0LnRlc3QudHMKICBoYXJkaGF0LmNvbmZpZy50cwpmcm9udGVuZC8KICAuLi4gICAgICAgICAgICAgICMg546p5rOVIFVJIOe7hOS7tu+8iOe6r+Wxleekuu+8jOS4jeWQq+S7u+S9leWQjuerry/np4HpkqXpgLvovpHvvIkKYGBgCgo+IOazqO+8mmBmcm9udGVuZC9gIOS7heWMheWQq+eOqeazleeVjOmdoue7hOS7tu+8iOmhtemdouOAgeefv+acuuinhuinieOAgeaImOS6iemdouadv+OAgWkxOG4g5paH5qGI77yJ77yM55So5LqO5bGV56S6546p5rOV5ZGI546w5pa55byP77yb5LiN5ZCr6ZKx5YyF5Lqk5LqS44CBUlBDIOmFjee9ruOAgUFQSSDosIPnlKjnrYnmtonlj4rpk77kuIov5ZCO56uv57uG6IqC55qE5rqQ56CB44CCCgotLS0KCiMjIOacrOWcsOe8luivkeS4jua1i+ivlQoK6ZyA6KaBIE5vZGUuanMgKyBbSGFyZGhhdF0oaHR0cHM6Ly9oYXJkaGF0Lm9yZy8p44CCCgpgYGBiYXNoCmNkIGNvbnRyYWN0cwpucG0gaW5zdGFsbApucHggaGFyZGhhdCBjb21waWxlICAgICAgICAgICMg57yW6K+R5ZCI57qmCm5weCBoYXJkaGF0IHRlc3QgICAgICAgICAgICAgIyDov5DooYznjqnms5Uv5py65Yi25rWL6K+VCmBgYAoKLS0tCgojIyBMaWNlbnNlCgrmnKzku5PlupPph4fnlKggW01JVCBMaWNlbnNlXSguL0xJQ0VOU0UpIOaOiOadg+OAggoKPiAqKuWFjei0o+WjsOaYjioq77ya5pys5LuT5bqT5LuF55So5LqO5YWs5byA5ri45oiP546p5rOV5py65Yi25LiO5YWs5bmz5oCn6K6+6K6h77yM5L6b5a2m5Lmg5LiO5a6h5p+l44CC5pm66IO95ZCI57qm5raJ5Y+K55yf5a6e6LWE5Lqn5pe25bqU55Sx5LiT5Lia5a6h6K6h5py65p6E54us56uL5a6h6K6h5ZCO5YaN5L2/55So77yb5Zug5L2/55So5pys5Luj56CB5Lqn55Sf55qE5Lu75L2V5o2f5aSx77yM5L2c6ICF5LiN5om/5ouF5Lu75L2V6LSj5Lu744CCCg==
+# Hashwar 矿工游戏 · 链上公平性公开仓库
+
+> 本仓库用于公开 Hashwar 游戏的**核心玩法机制**与**链上公平性设计**，供社区审查与核验。
+> 后端服务代码、私钥、服务器配置与所有环境变量**不在此仓库公开**。
+
+Hashwar 是一个「挖矿 + 战争」主题的休闲链游：玩家持有/赚取 HASH 代币，用来升级矿机、解锁矿槽、购买配件、参与每轮战争，把算力换算成持续的收益与战争奖金。**全部资金与核心状态都在链上结算，后端不持有任何玩家的私钥或代币。**
+
+---
+
+## 为什么聚焦「链上公平性」
+
+我们公开这套代码的核心承诺：**玩家资产与规则不以任何服务器为中心、不依赖任何后端密钥。**
+
+- 所有资金直接从**玩家钱包 ↔ 合约**流动，全程公开可查。
+- 后端**无法**私吞、冻结或凭空铸造玩家资产。
+- 挖矿收益/战争分配/任务奖励全部由**合约代码**决定，任何人可用链上数据自行核验。
+
+---
+
+## 关键合约地址（区块链公开数据，可直接核验）
+
+| 角色 | 地址 |
+| --- | --- |
+| $HASH 代币（pons V2 债券曲线发行） | `0xbfF4C0Be20Eb74D3399d63C1A2575Bd7F89968D3` |
+| Hashwar 游戏合约（挖矿/战争/任务） | `0x97D8b22D708f1eA543c7638c92CD42BeDfD249bF` |
+| pons V2 Bonding Curve（HASH/ETH 定价） | `0xC543DF6f5EbDdC0Eb4452462f637b5e0368767b7` |
+
+> 说明：$HASH 采用 pons V2 债券曲线发行（原生 ETH 计价，phase 0）。HASH 的美元估值 = 链上债券曲线真实价格 × 实时 ETH 美元价格，**不使用任何硬编码/固定估值**，随市场实时波动。毕业（phase 2）后切换到 Uniswap v4 池定价。
+
+---
+
+## 玩法机制（对应 `Hashwar.sol`）
+
+### 1. 矿机系统
+- 每位玩家最多 **4 个矿槽**（slot），初始解锁 1 个，可付费解锁更多。
+- 矿机 **10 级**，等级越高基础算力越高；升级成本按等级指数增长（见 `LEVEL_HASHRATE` / `LEVEL_COST`）。
+- 每台矿机有 **能量 / 温度 / 耐久** 三项状态，会随时间自然恢复，也会因持续挖矿而消耗、升温、磨损 —— 需要策略性购买能量、降温、维修。
+
+### 2. 挖矿收益（价值锚定，防套利）
+- 收益以 **USD 计价的固定产出率 × 挖矿时长** 计算（`rewardRatePerMHPerSec`），再除以当前 `pricePerHash` 换算成 HASH 数量。
+- 效果：**无论代币价格怎么波动，每 MH/s 的美元收益率恒定**，杜绝「低价买币、高价领收益」的套利漏洞。
+- 收益从**预充值的奖励池**支付（`rewardPool`，零和），**绝不凭空增发**。
+
+### 3. 战争玩法（`War`）
+- 玩家用当前总算力「参战」本轮战争；战争结束后**按算力占比分配奖池**。
+- 结算需等待 `WAR_DURATION`（600 秒）倒计时结束，任何人均可触发结算（permissionless），奖池上限受奖励池余额约束。
+
+### 4. 任务系统
+- 每日任务（登录 / 完成挖矿 / 超频 / 升级 / 参战），按 `questMask` 按天限领一次，奖励同样从奖励池支付。
+
+### 5. 商店与配件
+- 超频、超频芯片（临时 +50% 算力）、冷却液、维修、永久算力加成机架（Rig）。
+
+---
+
+## 资金安全与「零后端密钥」设计
+
+`Hashwar.sol` 顶部注释即核心承诺：
+
+> All funds flow directly between player wallets and this contract.
+> Zero backend keys: nobody except the player triggers their own deposit,
+> withdrawal or reward claim. Rewards are paid from a prefunded custody pool
+> (zero-sum), never minted arbitrarily.
+
+- **入金** `deposit()` / **出金** `withdraw()`：只允许玩家本人对自有余额操作。
+- **领奖** `claimMiningReward()` / `claimWarReward()` / `claimQuest()`：只发放到 `msg.sender`。
+- 奖励池 `fundRewardPool()` 公开预充值，奖励来源透明。
+- `GameVault.sol`：资金托管合约，带 `Ownable` / `ReentrancyGuard`（防重入）/ `Pausable`（可暂停），进一步保障资金安全。
+
+---
+
+## 代码结构
+
+```
+contracts/
+  contracts/
+    Hashwar.sol     # 游戏主逻辑：挖矿 / 升级 / 配件 / 战争 / 任务
+    GameVault.sol   # 资金托管：Ownable + 防重入 + 可暂停
+    MockERC20.sol   # 测试用 ERC20（仅本地测试）
+  test/
+    Hashwar.test.ts # 玩法机制测试
+    GameVault.test.ts
+  hardhat.config.ts
+frontend/
+  ...              # 玩法 UI 组件（纯展示，不含任何后端/私钥逻辑）
+```
+
+> 注：`frontend/` 仅包含玩法界面组件（页面、矿机视觉、战争面板、i18n 文案），用于展示玩法呈现方式；不含钱包交互、RPC 配置、API 调用等涉及链上/后端细节的源码。
+
+---
+
+## 本地编译与测试
+
+需要 Node.js + [Hardhat](https://hardhat.org/)。
+
+```bash
+cd contracts
+npm install
+npx hardhat compile          # 编译合约
+npx hardhat test             # 运行玩法/机制测试
+```
+
+---
+
+## License
+
+本仓库采用 [MIT License](./LICENSE) 授权。
+
+> **免责声明**：本仓库仅用于公开游戏玩法机制与公平性设计，供学习与审查。智能合约涉及真实资产时应由专业审计机构独立审计后再使用；因使用本代码产生的任何损失，作者不承担任何责任。
