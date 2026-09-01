@@ -21,7 +21,7 @@ describe("Hashwar", function () {
     const MockERC20 = await ethers.getContractFactory("MockERC20");
     token = await MockERC20.deploy("HASH", "HASH", E(1000000000));
     const Hashwar = await ethers.getContractFactory("Hashwar");
-    // 方案Y: pricePerHash = 0.00000545 USD/HASH, rewardRate = 0.00005 USD/MH/s (both *1e18)
+    // Scheme Y: pricePerHash = 0.00000545 USD/HASH, rewardRate = 0.00005 USD/MH/s (both *1e18)
     hashwar = await Hashwar.deploy(
       await token.getAddress(),
       ethers.parseEther("0.00000545"),
@@ -95,7 +95,7 @@ describe("Hashwar", function () {
     });
   });
 
-  describe("方案Y value anchoring", function () {
+  describe("Scheme Y value anchoring", function () {
     it("constructor sets owner, pricePerHash and rewardRatePerMHPerSec", async function () {
       expect(await hashwar.owner()).to.equal(deployer.address);
       expect(await hashwar.pricePerHash()).to.equal(ethers.parseEther("0.00000545"));
