@@ -1,1 +1,155 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlQmFsYW5jZSB9IGZyb20gIkAvaG9va3MvdXNlV2FsbGV0IjsKaW1wb3J0IHsgdXNlSGFzaFByaWNlVXNkIH0gZnJvbSAiQC9ob29rcy91c2VHbG9iYWwiOwppbXBvcnQgeyB1c2VXYXIsIHVzZUxlYWRlcmJvYXJkIH0gZnJvbSAiQC9ob29rcy91c2VXYXIiOwppbXBvcnQgeyB1c2VXYWxsZXQgfSBmcm9tICJAL2xpYi93ZWIzIjsKaW1wb3J0IHsgdXNlVCB9IGZyb20gIkAvaTE4biI7CmltcG9ydCB7IGZvcm1hdEhhc2gsIGZvcm1hdEhhc2hyYXRlIH0gZnJvbSAiQGhhc2h3YXIvc2hhcmVkIjsKaW1wb3J0IHsgQ3Jvd24sIEFycm93RG93blVwLCBSYWRpbywgVGltZXIsIFRyb3BoeSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgpmdW5jdGlvbiBmb3JtYXRDb3VudGRvd24oZGVhZGxpbmVTZWM6IG51bWJlcik6IHN0cmluZyB7CiAgY29uc3QgZGlmZiA9IE1hdGgubWF4KDAsIGRlYWRsaW5lU2VjIC0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCkpOwogIGNvbnN0IGggPSBNYXRoLmZsb29yKGRpZmYgLyAzNjAwKTsKICBjb25zdCBtID0gTWF0aC5mbG9vcigoZGlmZiAlIDM2MDApIC8gNjApOwogIGNvbnN0IHMgPSBkaWZmICUgNjA7CiAgY29uc3QgcGFkID0gKG46IG51bWJlcikgPT4gU3RyaW5nKG4pLnBhZFN0YXJ0KDIsICIwIik7CiAgcmV0dXJuIGggPiAwID8gYCR7cGFkKGgpfToke3BhZChtKX06JHtwYWQocyl9YCA6IGAke3BhZChtKX06JHtwYWQocyl9YDsKfQoKZXhwb3J0IGZ1bmN0aW9uIFJpZ2h0UGFuZWwoKSB7CiAgY29uc3QgWywgc2V0VGlja10gPSB1c2VTdGF0ZSgwKTsKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgaWQgPSBzZXRJbnRlcnZhbCgoKSA9PiBzZXRUaWNrKCh4KSA9PiB4ICsgMSksIDEwMDApOwogICAgcmV0dXJuICgpID0+IGNsZWFySW50ZXJ2YWwoaWQpOwogIH0sIFtdKTsKCiAgY29uc3QgeyBkYXRhOiBiYWxhbmNlIH0gPSB1c2VCYWxhbmNlKCk7CiAgY29uc3QgaGFzaFVzZCA9IHVzZUhhc2hQcmljZVVzZCgpOwogIGNvbnN0IHsgZGF0YTogd2FyRGF0YSB9ID0gdXNlV2FyKCk7CiAgY29uc3QgeyBkYXRhOiBsZWFkZXJib2FyZCB9ID0gdXNlTGVhZGVyYm9hcmQoKTsKICBjb25zdCB7IGFkZHJlc3MgfSA9IHVzZVdhbGxldCgpOwogIGNvbnN0IHQgPSB1c2VUKCk7CgogIGNvbnN0IGdhbWVCYWxhbmNlID0gYmFsYW5jZSA/IEJpZ0ludChiYWxhbmNlLmJhbGFuY2UpIDogQmlnSW50KDApOwogIGNvbnN0IGJhbGFuY2VTdHIgPSBmb3JtYXRIYXNoKGdhbWVCYWxhbmNlKTsKICBjb25zdCB1c2RWYWx1ZSA9IChOdW1iZXIoZ2FtZUJhbGFuY2UpIC8gMWUxOCAqIGhhc2hVc2QpLnRvRml4ZWQoMik7CgogIGNvbnN0IHdhckFjdGl2ZSA9IHdhckRhdGE/LmN1cnJlbnQ/LmFjdGl2ZSA9PT0gdHJ1ZTsKICBjb25zdCB3YXJQb29sID0gd2FyRGF0YT8uY3VycmVudCA/IChOdW1iZXIod2FyRGF0YS5jdXJyZW50LndhclBvb2wpIC8gMWUxOCkudG9Mb2NhbGVTdHJpbmcoKSA6ICLigJQiOwogIGNvbnN0IHJvdW5kID0gd2FyRGF0YT8uY3VycmVudD8ucm91bmQgPyBgIyR7d2FyRGF0YS5jdXJyZW50LnJvdW5kfWAgOiAi4oCUIjsKICBjb25zdCBlbmRzSW4gPSB3YXJEYXRhPy5jdXJyZW50Py5kZWFkbGluZQogICAgPyBmb3JtYXRDb3VudGRvd24oTnVtYmVyKHdhckRhdGEuY3VycmVudC5kZWFkbGluZSkpCiAgICA6ICLigJQiOwoKICBjb25zdCB0b3BNaW5lcnMgPSAobGVhZGVyYm9hcmQ/Lm1pbmVycyA/PyBbXSkuc2xpY2UoMCwgNSk7CiAgY29uc3QgbXlBZGRyID0gYWRkcmVzcz8udG9Mb3dlckNhc2UoKTsKICBjb25zdCBteVJhbmsgPSBteUFkZHIKICAgID8gKGxlYWRlcmJvYXJkPy5taW5lcnMgPz8gW10pLmZpbmRJbmRleCgobTogYW55KSA9PiBtLndhbGxldEFkZHJlc3MudG9Mb3dlckNhc2UoKSA9PT0gbXlBZGRyKSArIDEKICAgIDogMDsKICBjb25zdCBteUVudHJ5ID0gbXlSYW5rID4gMCA/IChsZWFkZXJib2FyZD8ubWluZXJzID8/IFtdKVtteVJhbmsgLSAxXSA6IHVuZGVmaW5lZDsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC00Ij4KICAgICAgey8qIE1ZIEJBTEFOQ0UgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJodWQtY2FyZCBwLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0zIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idy02IGgtNiByb3VuZGVkLWZ1bGwgYmctWyNmZmQ3MDBdIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtWzExcHhdIGZvbnQtYm9sZCB0ZXh0LVsjMDAwXSI+SDwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTJweF0gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57dCgiaG9tZS5teUJhbGFuY2UiKX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im51bSB0ZXh0LVsyOHB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUgbGVhZGluZy1ub25lIj4KICAgICAgICAgIHtiYWxhbmNlU3RyfQogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxNHB4XSB0ZXh0LVsjZmZkNzAwXSBtbC0xIj5IQVNIPC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJudW0gdGV4dC1bMTJweF0gdGV4dC1bIzhiOGI5YV0gbXQtMSI+4omIICR7dXNkVmFsdWV9IFVTRDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMiBnYXAtMiBtdC00Ij4KICAgICAgICAgIDxMaW5rIGhyZWY9Ii93YWxsZXQiIGNsYXNzTmFtZT0iaHVkLWJ0biBodWQtYnRuLWJsdWUganVzdGlmeS1jZW50ZXIgdGV4dC1bMTFweF0iPgogICAgICAgICAgICA8QXJyb3dEb3duVXAgc2l6ZT17MTR9IC8+IHt0KCJob21lLmRlcG9zaXQiKX0KICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDxMaW5rIGhyZWY9Ii93YWxsZXQiIGNsYXNzTmFtZT0iaHVkLWJ0biBodWQtYnRuLW91dGxpbmUganVzdGlmeS1jZW50ZXIgdGV4dC1bMTFweF0iPgogICAgICAgICAgICA8QXJyb3dEb3duVXAgc2l6ZT17MTR9IC8+IHt0KCJob21lLndpdGhkcmF3Iil9CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIE1JTklORyBXQVIgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJodWQtY2FyZCBodWQtY2FyZC1yZWQgcC00IHJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiIKICAgICAgICBzdHlsZT17eyBib3JkZXJDb2xvcjogInJnYmEoMjU1LDAsNjQsMC4zKSIgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIC1yaWdodC02IC1ib3R0b20tNiBvcGFjaXR5LTEwIj4KICAgICAgICAgIDxzdmcgd2lkdGg9IjE0MCIgaGVpZ2h0PSIxNDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMDA0MCIgc3Ryb2tlV2lkdGg9IjIiIC8+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjE4IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjAwNDAiIHN0cm9rZVdpZHRoPSIxIiAvPgogICAgICAgICAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI4IiBmaWxsPSIjZmYwMDQwIiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0zIj4KICAgICAgICAgIDxSYWRpbyBzaXplPXsxNX0gY2xhc3NOYW1lPSJ0ZXh0LVsjZmYwMDQwXSIgLz4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTJweF0gZm9udC1zZW1pYm9sZCB0ZXh0LVsjZmYwMDQwXSI+e3QoIm5hdi5taW5pbmdXYXIiKX08L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8gdGV4dC1bOXB4XSB0ZXh0LVsjZmYwMDQwXSBiZy1bI2ZmMDA0MF0vMTAgYm9yZGVyIGJvcmRlci1bI2ZmMDA0MF0vMzAgcm91bmRlZCBweC0xLjUgcHktMC41Ij4KICAgICAgICAgICAge3JvdW5kfQogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1lbmQgZ2FwLTIgbWItMSI+CiAgICAgICAgICA8VGltZXIgc2l6ZT17MTR9IGNsYXNzTmFtZT0idGV4dC1bI2ZmNjYwMF0iIC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsyNHB4XSBmb250LWJvbGQgdGV4dC13aGl0ZSBsZWFkaW5nLW5vbmUiPntlbmRzSW59PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVs5cHhdIHRleHQtWyM4YjhiOWFdIG1iLTEiPnt0KCJob21lLmVuZHNJbiIpfTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG10LTMiPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LVsjOGI4YjlhXSI+e3QoImhvbWUud2FyUG9vbCIpfTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzE0cHhdIGZvbnQtc2VtaWJvbGQgdGV4dC1bI2ZmZDcwMF0gbWwtYXV0byI+e3dhclBvb2x9ICRIQVNIPC9zcGFuPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8TGluawogICAgICAgICAgaHJlZj0iL3dhciIKICAgICAgICAgIGNsYXNzTmFtZT0iaHVkLWJ0biBodWQtYnRuLXJlZCBqdXN0aWZ5LWNlbnRlciB3LWZ1bGwgbXQtNCB0ZXh0LVsxMnB4XSIKICAgICAgICA+CiAgICAgICAgICA8UmFkaW8gc2l6ZT17MTR9IC8+IHt0KCJob21lLmpvaW5XYXIiKX0KICAgICAgICA8L0xpbms+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFRPUCBNSU5FUlMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJodWQtY2FyZCBwLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItMyI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICA8VHJvcGh5IHNpemU9ezE1fSBjbGFzc05hbWU9InRleHQtWyNmZmQ3MDBdIiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEycHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e3QoImhvbWUudG9wTWluZXJzIil9PC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8TGluayBocmVmPSIvcmFuayIgY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LVsjYTg1NWY3XSBob3Zlcjp1bmRlcmxpbmUiPnt0KCJob21lLnZpZXdBbGwiKX08L0xpbms+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC0xLjUiPgogICAgICAgICAge3RvcE1pbmVycy5tYXAoKG06IGFueSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17bS53YWxsZXRBZGRyZXNzfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB5LTEuNSByb3VuZGVkLW1kIHB4LTEuNSIKICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiBtLnJhbmsgPD0gMyA/ICJyZ2JhKDI1NSwyMTUsMCwwLjA1KSIgOiAidHJhbnNwYXJlbnQiIH19PgogICAgICAgICAgICAgIHttLnJhbmsgPT09IDEgPyAoCiAgICAgICAgICAgICAgICA8Q3Jvd24gc2l6ZT17MTR9IGNsYXNzTmFtZT0idGV4dC1bI2ZmZDcwMF0iIC8+CiAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHctNCB0ZXh0LVsxMXB4XSBmb250LXNlbWlib2xkIHRleHQtWyM4YjhiOWFdIHRleHQtY2VudGVyIj57bS5yYW5rfTwvc3Bhbj4KICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzExcHhdIHRleHQtd2hpdGUgZmxleC0xIHRydW5jYXRlIj57bS53YWxsZXRBZGRyZXNzLnNsaWNlKDAsIDYpfS4uLnttLndhbGxldEFkZHJlc3Muc2xpY2UoLTQpfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMXB4XSBmb250LW1lZGl1bSB0ZXh0LVsjYTg1NWY3XSI+e2Zvcm1hdEhhc2hyYXRlKEJpZ0ludChtLmhhc2hyYXRlKSl9PC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgICAge3RvcE1pbmVycy5sZW5ndGggPT09IDAgJiYgKAogICAgICAgICAgICA8cCBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMXB4XSB0ZXh0LVsjNWE1YTZhXSB0ZXh0LWNlbnRlciBweS0yIj57dCgicmFuay5ub0RhdGEiKX08L3A+CiAgICAgICAgICApfQoKICAgICAgICAgIHtteUVudHJ5ICYmICgKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB5LTIgcHgtMS41IHJvdW5kZWQtbWQgbXQtMSIKICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAicmdiYSgxNjgsODUsMjQ3LDAuMTIpIiwgYm9yZGVyOiAiMXB4IHNvbGlkIHJnYmEoMTY4LDg1LDI0NywwLjQpIiB9fT4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB3LTQgdGV4dC1bMTFweF0gZm9udC1ib2xkIHRleHQtWyNhODU1ZjddIHRleHQtY2VudGVyIj57bXlSYW5rfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdGV4dC1bI2E4NTVmN10gZmxleC0xIj57dCgiaG9tZS55b3UiKX08L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJudW0gdGV4dC1bMTFweF0gZm9udC1zZW1pYm9sZCB0ZXh0LVsjYTg1NWY3XSI+e2Zvcm1hdEhhc2hyYXRlKEJpZ0ludChteUVudHJ5Lmhhc2hyYXRlKSl9PC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo=
+"use client";
+
+import Link from "next/link";
+import { useEffect, useState } from "react";
+import { useBalance } from "@/hooks/useWallet";
+import { useHashPriceUsd } from "@/hooks/useGlobal";
+import { useWar, useLeaderboard } from "@/hooks/useWar";
+import { useWallet } from "@/lib/web3";
+import { useT } from "@/i18n";
+import { formatHash, formatHashrate } from "@hashwar/shared";
+import { Crown, ArrowDownUp, Radio, Timer, Trophy } from "lucide-react";
+
+function formatCountdown(deadlineSec: number): string {
+  const diff = Math.max(0, deadlineSec - Math.floor(Date.now() / 1000));
+  const h = Math.floor(diff / 3600);
+  const m = Math.floor((diff % 3600) / 60);
+  const s = diff % 60;
+  const pad = (n: number) => String(n).padStart(2, "0");
+  return h > 0 ? `${pad(h)}:${pad(m)}:${pad(s)}` : `${pad(m)}:${pad(s)}`;
+}
+
+export function RightPanel() {
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    const id = setInterval(() => setTick((x) => x + 1), 1000);
+    return () => clearInterval(id);
+  }, []);
+
+  const { data: balance } = useBalance();
+  const hashUsd = useHashPriceUsd();
+  const { data: warData } = useWar();
+  const { data: leaderboard } = useLeaderboard();
+  const { address } = useWallet();
+  const t = useT();
+
+  const gameBalance = balance ? BigInt(balance.balance) : BigInt(0);
+  const balanceStr = formatHash(gameBalance);
+  const usdValue = (Number(gameBalance) / 1e18 * hashUsd).toFixed(2);
+
+  const warActive = warData?.current?.active === true;
+  const warPool = warData?.current ? (Number(warData.current.warPool) / 1e18).toLocaleString() : "—";
+  const round = warData?.current?.round ? `#${warData.current.round}` : "—";
+  const endsIn = warData?.current?.deadline
+    ? formatCountdown(Number(warData.current.deadline))
+    : "—";
+
+  const topMiners = (leaderboard?.miners ?? []).slice(0, 5);
+  const myAddr = address?.toLowerCase();
+  const myRank = myAddr
+    ? (leaderboard?.miners ?? []).findIndex((m: any) => m.walletAddress.toLowerCase() === myAddr) + 1
+    : 0;
+  const myEntry = myRank > 0 ? (leaderboard?.miners ?? [])[myRank - 1] : undefined;
+
+  return (
+    <div className="flex flex-col gap-4">
+      {/* MY BALANCE */}
+      <div className="hud-card p-4">
+        <div className="flex items-center gap-2 mb-3">
+          <span className="w-6 h-6 rounded-full bg-[#ffd700] flex items-center justify-center text-[11px] font-bold text-[#000]">H</span>
+          <span className="text-[12px] font-semibold text-white">{t("home.myBalance")}</span>
+        </div>
+        <div className="num text-[28px] font-semibold text-white leading-none">
+          {balanceStr}
+          <span className="text-[14px] text-[#ffd700] ml-1">HASH</span>
+        </div>
+        <div className="num text-[12px] text-[#8b8b9a] mt-1">≈ ${usdValue} USD</div>
+
+        <div className="grid grid-cols-2 gap-2 mt-4">
+          <Link href="/wallet" className="hud-btn hud-btn-blue justify-center text-[11px]">
+            <ArrowDownUp size={14} /> {t("home.deposit")}
+          </Link>
+          <Link href="/wallet" className="hud-btn hud-btn-outline justify-center text-[11px]">
+            <ArrowDownUp size={14} /> {t("home.withdraw")}
+          </Link>
+        </div>
+      </div>
+
+      {/* MINING WAR */}
+      <div className="hud-card hud-card-red p-4 relative overflow-hidden"
+        style={{ borderColor: "rgba(255,0,64,0.3)" }}>
+        <div className="absolute -right-6 -bottom-6 opacity-10">
+          <svg width="140" height="140" viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="28" fill="none" stroke="#ff0040" strokeWidth="2" />
+            <circle cx="50" cy="50" r="18" fill="none" stroke="#ff0040" strokeWidth="1" />
+            <circle cx="50" cy="50" r="8" fill="#ff0040" />
+          </svg>
+        </div>
+
+        <div className="flex items-center gap-2 mb-3">
+          <Radio size={15} className="text-[#ff0040]" />
+          <span className="text-[12px] font-semibold text-[#ff0040]">{t("nav.miningWar")}</span>
+          <span className="ml-auto text-[9px] text-[#ff0040] bg-[#ff0040]/10 border border-[#ff0040]/30 rounded px-1.5 py-0.5">
+            {round}
+          </span>
+        </div>
+
+        <div className="flex items-end gap-2 mb-1">
+          <Timer size={14} className="text-[#ff6600]" />
+          <span className="num text-[24px] font-bold text-white leading-none">{endsIn}</span>
+          <span className="text-[9px] text-[#8b8b9a] mb-1">{t("home.endsIn")}</span>
+        </div>
+
+        <div className="flex items-center gap-2 mt-3">
+          <span className="text-[10px] uppercase tracking-wide text-[#8b8b9a]">{t("home.warPool")}</span>
+          <span className="num text-[14px] font-semibold text-[#ffd700] ml-auto">{warPool} $HASH</span>
+        </div>
+
+        <Link
+          href="/war"
+          className="hud-btn hud-btn-red justify-center w-full mt-4 text-[12px]"
+        >
+          <Radio size={14} /> {t("home.joinWar")}
+        </Link>
+      </div>
+
+      {/* TOP MINERS */}
+      <div className="hud-card p-4">
+        <div className="flex items-center justify-between mb-3">
+          <div className="flex items-center gap-2">
+            <Trophy size={15} className="text-[#ffd700]" />
+            <span className="text-[12px] font-semibold text-white">{t("home.topMiners")}</span>
+          </div>
+          <Link href="/rank" className="text-[10px] text-[#a855f7] hover:underline">{t("home.viewAll")}</Link>
+        </div>
+
+        <div className="flex flex-col gap-1.5">
+          {topMiners.map((m: any) => (
+            <div key={m.walletAddress} className="flex items-center gap-2 py-1.5 rounded-md px-1.5"
+              style={{ background: m.rank <= 3 ? "rgba(255,215,0,0.05)" : "transparent" }}>
+              {m.rank === 1 ? (
+                <Crown size={14} className="text-[#ffd700]" />
+              ) : (
+                <span className="num w-4 text-[11px] font-semibold text-[#8b8b9a] text-center">{m.rank}</span>
+              )}
+              <span className="num text-[11px] text-white flex-1 truncate">{m.walletAddress.slice(0, 6)}...{m.walletAddress.slice(-4)}</span>
+              <span className="num text-[11px] font-medium text-[#a855f7]">{formatHashrate(BigInt(m.hashrate))}</span>
+            </div>
+          ))}
+          {topMiners.length === 0 && (
+            <p className="num text-[11px] text-[#5a5a6a] text-center py-2">{t("rank.noData")}</p>
+          )}
+
+          {myEntry && (
+            <div className="flex items-center gap-2 py-2 px-1.5 rounded-md mt-1"
+              style={{ background: "rgba(168,85,247,0.12)", border: "1px solid rgba(168,85,247,0.4)" }}>
+              <span className="num w-4 text-[11px] font-bold text-[#a855f7] text-center">{myRank}</span>
+              <span className="text-[11px] font-semibold text-[#a855f7] flex-1">{t("home.you")}</span>
+              <span className="num text-[11px] font-semibold text-[#a855f7]">{formatHashrate(BigInt(myEntry.hashrate))}</span>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
