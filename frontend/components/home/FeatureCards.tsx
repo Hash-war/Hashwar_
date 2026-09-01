@@ -1,1 +1,49 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlVCB9IGZyb20gIkAvaTE4biI7CmltcG9ydCB7IENoYXNzaXNNaW5lclJpZyB9IGZyb20gIkAvY29tcG9uZW50cy9waXhlbC9DaGFzc2lzTWluZXJSaWciOwppbXBvcnQgeyBBcnJvd1VwLCBMYXllcnMsIFRhcmdldCwgU3RvcmUsIEFycm93UmlnaHQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKY29uc3QgY2FyZHMgPSBbCiAgewogICAgaHJlZjogIi91cGdyYWRlIiwgbGFiZWxLZXk6ICJob21lLmNhcmQudXBncmFkZS5sYWJlbCIsIGRlc2NLZXk6ICJob21lLmNhcmQudXBncmFkZS5kZXNjIiwgYnRuS2V5OiAiaG9tZS5jYXJkLnVwZ3JhZGUuYnRuIiwKICAgIGljb246IEFycm93VXAsIGNvbG9yOiAiI2E4NTVmNyIsIHZpc3VhbDogPENoYXNzaXNNaW5lclJpZyBsZXZlbD17NX0gaXNNaW5pbmcgc2l6ZT17NjB9IGNvbXBhY3QgLz4sCiAgfSwKICB7CiAgICBocmVmOiAiL2Zhcm0iLCBsYWJlbEtleTogImhvbWUuY2FyZC5mYXJtLmxhYmVsIiwgZGVzY0tleTogImhvbWUuY2FyZC5mYXJtLmRlc2MiLCBidG5LZXk6ICJob21lLmNhcmQuZmFybS5idG4iLAogICAgaWNvbjogTGF5ZXJzLCBjb2xvcjogIiMwMGQ0ZmYiLCB2aXN1YWw6IDxDaGFzc2lzTWluZXJSaWcgbGV2ZWw9ezN9IGlzTWluaW5nIHNpemU9ezYwfSBjb21wYWN0IC8+LAogIH0sCiAgewogICAgaHJlZjogIi9zaG9wIiwgbGFiZWxLZXk6ICJob21lLmNhcmQuc2hvcC5sYWJlbCIsIGRlc2NLZXk6ICJob21lLmNhcmQuc2hvcC5kZXNjIiwgYnRuS2V5OiAiaG9tZS5jYXJkLnNob3AuYnRuIiwKICAgIGljb246IFN0b3JlLCBjb2xvcjogIiNmZmQ3MDAiLCB2aXN1YWw6IDxDaGFzc2lzTWluZXJSaWcgbGV2ZWw9ezd9IGlzTWluaW5nIHNpemU9ezYwfSBjb21wYWN0IC8+LAogIH0sCl0gYXMgY29uc3Q7CgpleHBvcnQgZnVuY3Rpb24gRmVhdHVyZUNhcmRzKCkgewogIGNvbnN0IHQgPSB1c2VUKCk7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0yIHNtOmdyaWQtY29scy0zIGxnOmdyaWQtY29scy01IGdhcC00Ij4KICAgICAge2NhcmRzLm1hcCgoYykgPT4gewogICAgICAgIGNvbnN0IEljb24gPSBjLmljb247CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgIDxkaXYga2V5PXtjLmhyZWZ9IGNsYXNzTmFtZT0iaHVkLWNhcmQgcC00IGZsZXggZmxleC1jb2wiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIgbWItMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTIiPgogICAgICAgICAgICAgICAge2MudmlzdWFsfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41Ij4KICAgICAgICAgICAgICAgIDxJY29uIHNpemU9ezE0fSBzdHlsZT17eyBjb2xvcjogYy5jb2xvciB9fSAvPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMnB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUgdHJhY2tpbmctd2lkZSI+e3QoYy5sYWJlbEtleSl9PC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB0ZXh0LVsjOGI4YjlhXSB0ZXh0LWNlbnRlciBmbGV4LTEgbGVhZGluZy1yZWxheGVkIj57dChjLmRlc2NLZXkpfTwvcD4KICAgICAgICAgICAgPExpbmsgaHJlZj17Yy5ocmVmfSBjbGFzc05hbWU9Imh1ZC1idG4ganVzdGlmeS1jZW50ZXIgdy1mdWxsIG10LTMgdGV4dC1bMTBweF0iIHN0eWxlPXt7IGJvcmRlckNvbG9yOiBjLmNvbG9yLCBjb2xvcjogIiNmZmYiLCBiYWNrZ3JvdW5kOiBgbGluZWFyLWdyYWRpZW50KDE4MGRlZywgJHtjLmNvbG9yfTMzLCB0cmFuc3BhcmVudClgIH19PgogICAgICAgICAgICAgIHt0KGMuYnRuS2V5KX0gPEFycm93UmlnaHQgc2l6ZT17MTJ9IC8+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICk7CiAgICAgIH0pfQogICAgPC9kaXY+CiAgKTsKfQo=
+"use client";
+
+import Link from "next/link";
+import { useT } from "@/i18n";
+import { ChassisMinerRig } from "@/components/pixel/ChassisMinerRig";
+import { ArrowUp, Layers, Target, Store, ArrowRight } from "lucide-react";
+
+const cards = [
+  {
+    href: "/upgrade", labelKey: "home.card.upgrade.label", descKey: "home.card.upgrade.desc", btnKey: "home.card.upgrade.btn",
+    icon: ArrowUp, color: "#a855f7", visual: <ChassisMinerRig level={5} isMining size={60} compact />,
+  },
+  {
+    href: "/farm", labelKey: "home.card.farm.label", descKey: "home.card.farm.desc", btnKey: "home.card.farm.btn",
+    icon: Layers, color: "#00d4ff", visual: <ChassisMinerRig level={3} isMining size={60} compact />,
+  },
+  {
+    href: "/shop", labelKey: "home.card.shop.label", descKey: "home.card.shop.desc", btnKey: "home.card.shop.btn",
+    icon: Store, color: "#ffd700", visual: <ChassisMinerRig level={7} isMining size={60} compact />,
+  },
+] as const;
+
+export function FeatureCards() {
+  const t = useT();
+  return (
+    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+      {cards.map((c) => {
+        const Icon = c.icon;
+        return (
+          <div key={c.href} className="hud-card p-4 flex flex-col">
+            <div className="flex flex-col items-center mb-3">
+              <div className="mb-2">
+                {c.visual}
+              </div>
+              <div className="flex items-center gap-1.5">
+                <Icon size={14} style={{ color: c.color }} />
+                <span className="text-[12px] font-semibold text-white tracking-wide">{t(c.labelKey)}</span>
+              </div>
+            </div>
+            <p className="text-[11px] text-[#8b8b9a] text-center flex-1 leading-relaxed">{t(c.descKey)}</p>
+            <Link href={c.href} className="hud-btn justify-center w-full mt-3 text-[10px]" style={{ borderColor: c.color, color: "#fff", background: `linear-gradient(180deg, ${c.color}33, transparent)` }}>
+              {t(c.btnKey)} <ArrowRight size={12} />
+            </Link>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
