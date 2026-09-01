@@ -1,1 +1,252 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VNZW1vLCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlV2FyLCB1c2VKb2luV2FyLCB1c2VXYXJSYW5raW5nLCB1c2VXYXJSZXdhcmRzLCB1c2VTZXR0bGVXYXIsIHVzZUNsYWltV2FyUmV3YXJkIH0gZnJvbSAiQC9ob29rcy91c2VXYXIiOwppbXBvcnQgeyB1c2VTbG90cyB9IGZyb20gIkAvaG9va3MvdXNlTWluZXIiOwppbXBvcnQgeyB1c2VXYWxsZXQgfSBmcm9tICJAL2xpYi93ZWIzIjsKaW1wb3J0IHsgdXNlRGVtb01vZGUgfSBmcm9tICJAL2hvb2tzL3VzZURlbW9Nb2RlIjsKaW1wb3J0IHsgdXNlVG9hc3QgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvVG9hc3QiOwppbXBvcnQgeyBIdWRDYXJkLCBIdWRDYXJkSGVhZGVyLCBIdWRCdXR0b24sIEh1ZEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0h1ZCI7CmltcG9ydCB7IHVzZVQgfSBmcm9tICJAL2kxOG4iOwppbXBvcnQgeyBmb3JtYXRIYXNocmF0ZSBhcyBmb3JtYXRIYXNocmF0ZU1ocyB9IGZyb20gIkBoYXNod2FyL3NoYXJlZCI7CmltcG9ydCB7IFJhZGlvLCBUaW1lciwgVHJvcGh5LCBVc2VycywgR2F1Z2UsIENyb3duLCBTd29yZHMsIFphcCwgTG9jayB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgpmdW5jdGlvbiBmb3JtYXRIYXNocmF0ZShudW06IG51bWJlcik6IHN0cmluZyB7CiAgaWYgKG51bSA+PSAxZTE1KSByZXR1cm4gYCR7KG51bSAvIDFlMTUpLnRvRml4ZWQoMil9IFBIL3NgOwogIGlmIChudW0gPj0gMWUxMikgcmV0dXJuIGAkeyhudW0gLyAxZTEyKS50b0ZpeGVkKDIpfSBUSC9zYDsKICBpZiAobnVtID49IDFlOSkgcmV0dXJuIGAkeyhudW0gLyAxZTkpLnRvRml4ZWQoMil9IEdIL3NgOwogIGlmIChudW0gPj0gMWU2KSByZXR1cm4gYCR7KG51bSAvIDFlNikudG9GaXhlZCgyKX0gTUgvc2A7CiAgcmV0dXJuIGAkeyhudW0gLyAxZTMpLnRvRml4ZWQoMil9IEtIL3NgOwp9CgovKioKICogV2FyZmllbGQg4oCUIG11bHRpcGxheWVyIGhhc2hyYXRlIGNvbXBldGl0aW9uIHZpc3VhbGl6YXRpb24uCiAqIFJlcGxhY2VzIHRoZSBtaXNsZWFkaW5nIDF2MSBQSyBhbmltYXRpb24uIFJhbmtzIGFsbCB3YXIgcGFydGljaXBhbnRzCiAqIGJ5IGVmZmVjdGl2ZSBoYXNocmF0ZSB3aXRoIGNvbXBhcmlzb24gYmFycyAoSFVEIHN0eWxlKS4KICovCmV4cG9ydCBmdW5jdGlvbiBXYXJmaWVsZCh7IGlzTGl2ZSA9IGZhbHNlIH06IHsgaXNMaXZlPzogYm9vbGVhbiB9KSB7CiAgY29uc3QgeyBkYXRhOiB3YXIgfSA9IHVzZVdhcigpOwogIGNvbnN0IHsgZGF0YTogcmFua2luZyB9ID0gdXNlV2FyUmFua2luZygpOwogIGNvbnN0IHsgZGF0YTogcmV3YXJkcyB9ID0gdXNlV2FyUmV3YXJkcygpOwogIGNvbnN0IGpvaW5NdXRhdGlvbiA9IHVzZUpvaW5XYXIoKTsKICBjb25zdCBzZXR0bGVNdXRhdGlvbiA9IHVzZVNldHRsZVdhcigpOwogIGNvbnN0IGNsYWltTXV0YXRpb24gPSB1c2VDbGFpbVdhclJld2FyZCgpOwogIGNvbnN0IHsgZGF0YTogc2xvdHMgfSA9IHVzZVNsb3RzKCk7CiAgY29uc3QgeyBhZGRyZXNzIH0gPSB1c2VXYWxsZXQoKTsKICBjb25zdCB7IGlzRGVtbyB9ID0gdXNlRGVtb01vZGUoKTsKICBjb25zdCB7IHNob3dUb2FzdCB9ID0gdXNlVG9hc3QoKTsKICBjb25zdCB0ID0gdXNlVCgpOwogIGNvbnN0IFtjb3VudGRvd24sIHNldENvdW50ZG93bl0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW2RlYWRsaW5lQ291bnRkb3duLCBzZXREZWFkbGluZUNvdW50ZG93bl0gPSB1c2VTdGF0ZSgiLS06LS06LS0iKTsKCiAgY29uc3Qgd2FyRGF0YSA9IHdhcj8uY3VycmVudDsKICBjb25zdCB1cGNvbWluZyA9IHdhcj8udXBjb21pbmc7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoIXVwY29taW5nKSByZXR1cm47CiAgICBjb25zdCB0aW1lciA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgICAgY29uc3Qgc3RhcnQgPSBuZXcgRGF0ZSh1cGNvbWluZy5zdGFydFRpbWUpLmdldFRpbWUoKTsKICAgICAgY29uc3QgZGlmZiA9IHN0YXJ0IC0gbm93OwogICAgICBpZiAoZGlmZiA8PSAwKSB7IHNldENvdW50ZG93bih0KCJ3YXIubGl2ZU5vdyIpKTsgcmV0dXJuOyB9CiAgICAgIGNvbnN0IGggPSBNYXRoLmZsb29yKGRpZmYgLyAzNjAwMDAwKTsKICAgICAgY29uc3QgbSA9IE1hdGguZmxvb3IoKGRpZmYgJSAzNjAwMDAwKSAvIDYwMDAwKTsKICAgICAgY29uc3QgcyA9IE1hdGguZmxvb3IoKGRpZmYgJSA2MDAwMCkgLyAxMDAwKTsKICAgICAgc2V0Q291bnRkb3duKGAke1N0cmluZyhoKS5wYWRTdGFydCgyLCAiMCIpfToke1N0cmluZyhtKS5wYWRTdGFydCgyLCAiMCIpfToke1N0cmluZyhzKS5wYWRTdGFydCgyLCAiMCIpfWApOwogICAgfSwgMTAwMCk7CiAgICByZXR1cm4gKCkgPT4gY2xlYXJJbnRlcnZhbCh0aW1lcik7CiAgfSwgW3VwY29taW5nLCB0XSk7CgogIC8vIExpdmUgY291bnRkb3duIHRvIHRoZSBhY3RpdmUgd2FyJ3MgcmVhbCBvbi1jaGFpbiBkZWFkbGluZS4KICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCF3YXJEYXRhPy5kZWFkbGluZSkgcmV0dXJuOwogICAgY29uc3QgZGVhZGxpbmVTZWMgPSBOdW1iZXIod2FyRGF0YS5kZWFkbGluZSk7CiAgICBjb25zdCB0aW1lciA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgY29uc3QgZGlmZiA9IE1hdGgubWF4KDAsIGRlYWRsaW5lU2VjIC0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCkpOwogICAgICBjb25zdCBoID0gTWF0aC5mbG9vcihkaWZmIC8gMzYwMCk7CiAgICAgIGNvbnN0IG0gPSBNYXRoLmZsb29yKChkaWZmICUgMzYwMCkgLyA2MCk7CiAgICAgIGNvbnN0IHMgPSBkaWZmICUgNjA7CiAgICAgIHNldERlYWRsaW5lQ291bnRkb3duKAogICAgICAgIGAke1N0cmluZyhoKS5wYWRTdGFydCgyLCAiMCIpfToke1N0cmluZyhtKS5wYWRTdGFydCgyLCAiMCIpfToke1N0cmluZyhzKS5wYWRTdGFydCgyLCAiMCIpfWAKICAgICAgKTsKICAgIH0sIDEwMDApOwogICAgcmV0dXJuICgpID0+IGNsZWFySW50ZXJ2YWwodGltZXIpOwogIH0sIFt3YXJEYXRhPy5kZWFkbGluZV0pOwoKICBjb25zdCBwYXJ0aWNpcGFudHMgPSByYW5raW5nPy5wYXJ0aWNpcGFudHMgfHwgd2FyRGF0YT8ucGFydGljaXBhbnRzIHx8IFtdOwoKICBjb25zdCBzb3J0ZWQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBbLi4ucGFydGljaXBhbnRzXQogICAgICAubWFwKChwOiBhbnkpID0+ICh7IC4uLnAsIGhyOiBOdW1iZXIocC5oYXNocmF0ZSkgfHwgMCB9KSkKICAgICAgLnNvcnQoKGEsIGIpID0+IGIuaHIgLSBhLmhyKTsKICB9LCBbcGFydGljaXBhbnRzXSk7CgogIGNvbnN0IG1heEhyID0gc29ydGVkLmxlbmd0aCA/IHNvcnRlZFswXS5ociA6IDE7CiAgY29uc3QgdG9wID0gc29ydGVkLnNsaWNlKDAsIDEwKTsKCiAgY29uc3Qgc3RhdHVzID0gd2FyRGF0YT8uc3RhdHVzOwogIGNvbnN0IGFjdGl2ZSA9IGlzTGl2ZSB8fCBzdGF0dXMgPT09ICJBQ1RJVkUiIHx8IHdhckRhdGE/LmFjdGl2ZSA9PT0gdHJ1ZSB8fCBpc0RlbW87CiAgY29uc3Qgc2V0dGxlZCA9IHN0YXR1cyA9PT0gIkNPTVBMRVRFRCIgfHwgd2FyRGF0YT8uc2V0dGxlZCA9PT0gdHJ1ZTsKICBjb25zdCBkZWFkbGluZSA9IHdhckRhdGEgPyBOdW1iZXIod2FyRGF0YS5kZWFkbGluZSB8fCAwKSA6IDA7CiAgY29uc3QgZGVhZGxpbmVQYXNzZWQgPSBkZWFkbGluZSA+IDAgJiYgTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCkgPiBkZWFkbGluZTsKICBjb25zdCB3YXJQb29sID0gd2FyRGF0YSA/IChOdW1iZXIod2FyRGF0YS53YXJQb29sKSAvIDFlMTgpLnRvTG9jYWxlU3RyaW5nKCkgOiAi4oCUIjsKICBjb25zdCBteVJhbmsgPSB1c2VNZW1vKCgpID0+IHsKICAgIGNvbnN0IGlkeCA9IHNvcnRlZC5maW5kSW5kZXgoKHA6IGFueSkgPT4gcC5hZGRyZXNzPy50b0xvd2VyQ2FzZSgpID09PSAoYWRkcmVzcyA/PyAiIikudG9Mb3dlckNhc2UoKSk7CiAgICByZXR1cm4gaWR4ID49IDAgPyBpZHggKyAxIDogbnVsbDsKICB9LCBbc29ydGVkLCBhZGRyZXNzXSk7CiAgY29uc3QgbXlSZXdhcmQgPSByZXdhcmRzPy5yZXdhcmRBbW91bnQKICAgID8gYH4keyhOdW1iZXIocmV3YXJkcy5yZXdhcmRBbW91bnQpIC8gMWUxOCkudG9Mb2NhbGVTdHJpbmcoKX0gJEhBU0hgCiAgICA6IG51bGw7CgogIGNvbnN0IG1lZGFsQ29sb3JzID0gWyIjZmZkNzAwIiwgIiNjMGMwYzAiLCAiI2NkN2YzMiJdOwoKICByZXR1cm4gKAogICAgPEh1ZENhcmQgY2xhc3NOYW1lPSJwLTUiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAicmdiYSgyNTUsMCw2NCwwLjMpIiB9fT4KICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTQiPgogICAgICAgIDxSYWRpbyBzaXplPXsxNn0gY2xhc3NOYW1lPSJ0ZXh0LVsjZmYwMDQwXSIgLz4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEzcHhdIGZvbnQtYm9sZCB0ZXh0LVsjZmYwMDQwXSI+e3QoIndhci53YXJmaWVsZCIpfTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2B3LTIgaC0yIHJvdW5kZWQtZnVsbCAke2FjdGl2ZSA/ICJiZy1bI2ZmMDA0MF0gYW5pbWF0ZS1wdWxzZSIgOiAiYmctZ3JheS02MDAifWB9IC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2B0ZXh0LVsxMHB4XSB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSAke2FjdGl2ZSA/ICJ0ZXh0LVsjZmYwMDQwXSIgOiAidGV4dC1bIzhiOGI5YV0ifWB9PgogICAgICAgICAgICB7YWN0aXZlID8gdCgid2FyLmxpdmUiKSA6IHQoIndhci5zY2hlZHVsZWQiKX0KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIE1ldGEgcm93ICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMyBnYXAtMyBtYi01Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC1sZyBwLTMgdGV4dC1jZW50ZXIiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDI1NSwyMTUsMCwwLjA2KSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDI1NSwyMTUsMCwwLjI1KSIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTEgbWItMSI+PEdhdWdlIHNpemU9ezEyfSBjbGFzc05hbWU9InRleHQtWyNmZmQ3MDBdIiAvPjxzcGFuIGNsYXNzTmFtZT0idGV4dC1bOXB4XSB1cHBlcmNhc2UgdGV4dC1bIzhiOGI5YV0iPnt0KCJ3YXIucG9vbCIpfTwvc3Bhbj48L2Rpdj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzE1cHhdIGZvbnQtc2VtaWJvbGQgdGV4dC1bI2ZmZDcwMF0iPnt3YXJQb29sfSAkSEFTSDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC1sZyBwLTMgdGV4dC1jZW50ZXIiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDE2OCw4NSwyNDcsMC4wNikiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgxNjgsODUsMjQ3LDAuMjUpIiB9fT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMSBtYi0xIj48VGltZXIgc2l6ZT17MTJ9IGNsYXNzTmFtZT0idGV4dC1bI2E4NTVmN10iIC8+PHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVs5cHhdIHVwcGVyY2FzZSB0ZXh0LVsjOGI4YjlhXSI+e3QoIndhci5lbmRzSW4iKX08L3NwYW4+PC9kaXY+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxNXB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPnthY3RpdmUgPyBkZWFkbGluZUNvdW50ZG93biA6IGNvdW50ZG93biB8fCAiLS06LS06LS0ifTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC1sZyBwLTMgdGV4dC1jZW50ZXIiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDAsMjEyLDI1NSwwLjA2KSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDAsMjEyLDI1NSwwLjI1KSIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTEgbWItMSI+PFVzZXJzIHNpemU9ezEyfSBjbGFzc05hbWU9InRleHQtWyMwMGQ0ZmZdIiAvPjxzcGFuIGNsYXNzTmFtZT0idGV4dC1bOXB4XSB1cHBlcmNhc2UgdGV4dC1bIzhiOGI5YV0iPnt0KCJ3YXIubWluZXJzIil9PC9zcGFuPjwvZGl2PgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJudW0gdGV4dC1bMTVweF0gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57cGFydGljaXBhbnRzLmxlbmd0aCB8fCAwfTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogTmV4dCB3YXIgY291bnRkb3duIHdoZW4gbm8gd2FyIGlzIHJ1bm5pbmcgKi99CiAgICAgIHshYWN0aXZlICYmICFzZXR0bGVkICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItNSI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im51bSB0ZXh0LVsyMnB4XSBmb250LWJvbGQgdGV4dC1jZW50ZXIgdGV4dC1bI2ZmZDcwMF0gbWItMiIgc3R5bGU9e3sgdGV4dFNoYWRvdzogIjAgMCAxOHB4IHJnYmEoMjU1LDIxNSwwLDAuNCkiIH19PgogICAgICAgICAgICB7Y291bnRkb3duIHx8IHQoIndhci5uZXh0U29vbiIpfQogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgey8qIEpvaW4gLyBTZXR0bGUgLyBDbGFpbSBhY3Rpb25zICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMiBtYi01Ij4KICAgICAgICB7YWN0aXZlICYmICFzZXR0bGVkICYmICgKICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaXNEZW1vID8gc2hvd1RvYXN0KHQoInRvYXN0LmNvbm5lY3RUb1VzZSIsIHsgYWN0aW9uOiB0KCJ3YXIuam9pbiIpIH0pLCAid2FybmluZyIpIDogam9pbk11dGF0aW9uLm11dGF0ZSgpfQogICAgICAgICAgICBkaXNhYmxlZD17am9pbk11dGF0aW9uLmlzUGVuZGluZ30KICAgICAgICAgICAgY2xhc3NOYW1lPSJodWQtYnRuIGh1ZC1idG4tcmVkIGp1c3RpZnktY2VudGVyIHctZnVsbCBweS0zIHRleHQtWzEycHhdIgogICAgICAgICAgPgogICAgICAgICAgICA8U3dvcmRzIHNpemU9ezE0fSAvPiB7am9pbk11dGF0aW9uLmlzUGVuZGluZyA/IHQoIndhci5qb2luaW5nIikgOiB0KCJ3YXIuam9pbiIpfQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKX0KICAgICAgICB7YWN0aXZlICYmIGRlYWRsaW5lUGFzc2VkICYmICFzZXR0bGVkICYmICgKICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaXNEZW1vID8gc2hvd1RvYXN0KHQoInRvYXN0LmNvbm5lY3RUb1VzZSIsIHsgYWN0aW9uOiB0KCJ3YXIuc2V0dGxlIikgfSksICJ3YXJuaW5nIikgOiBzZXR0bGVNdXRhdGlvbi5tdXRhdGUoKX0KICAgICAgICAgICAgZGlzYWJsZWQ9e3NldHRsZU11dGF0aW9uLmlzUGVuZGluZ30KICAgICAgICAgICAgY2xhc3NOYW1lPSJodWQtYnRuIGp1c3RpZnktY2VudGVyIHctZnVsbCBweS0yLjUgdGV4dC1bMTJweF0iCiAgICAgICAgICA+CiAgICAgICAgICAgIHtzZXR0bGVNdXRhdGlvbi5pc1BlbmRpbmcgPyB0KCJ3YXIuc2V0dGxpbmciKSA6IHQoIndhci5zZXR0bGUiKX0KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICl9CiAgICAgICAge3NldHRsZWQgJiYgKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBpc0RlbW8gPyBzaG93VG9hc3QodCgidG9hc3QuY29ubmVjdFRvVXNlIiwgeyBhY3Rpb246IHQoIndhci5jbGFpbSIpIH0pLCAid2FybmluZyIpIDogY2xhaW1NdXRhdGlvbi5tdXRhdGUoKX0KICAgICAgICAgICAgZGlzYWJsZWQ9e2NsYWltTXV0YXRpb24uaXNQZW5kaW5nfQogICAgICAgICAgICBjbGFzc05hbWU9Imh1ZC1idG4gaHVkLWJ0bi1yZWQganVzdGlmeS1jZW50ZXIgdy1mdWxsIHB5LTMgdGV4dC1bMTJweF0iCiAgICAgICAgICA+CiAgICAgICAgICAgIDxUcm9waHkgc2l6ZT17MTR9IC8+IHtjbGFpbU11dGF0aW9uLmlzUGVuZGluZyA/IHQoIndhci5jbGFpbWluZyIpIDogdCgid2FyLmNsYWltUmV3YXJkIil9CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICApfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBWaXN1YWwgcmFua2luZyAqL30KICAgICAge3RvcC5sZW5ndGggPiAwID8gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAgICB7dG9wLm1hcCgocDogYW55LCBpOiBudW1iZXIpID0+IHsKICAgICAgICAgICAgY29uc3QgcGN0ID0gTWF0aC5tYXgoMiwgKHAuaHIgLyBtYXhIcikgKiAxMDApOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtwLmFkZHJlc3MgfHwgaX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InctNSB0ZXh0LWNlbnRlciBudW0gdGV4dC1bMTFweF0gZm9udC1ib2xkIiBzdHlsZT17eyBjb2xvcjogaSA8IDMgPyBtZWRhbENvbG9yc1tpXSA6ICIjOGI4YjlhIiB9fT4KICAgICAgICAgICAgICAgICAge2kgPT09IDAgPyA8Q3Jvd24gc2l6ZT17MTR9IGNsYXNzTmFtZT0iaW5saW5lIHRleHQtWyNmZmQ3MDBdIiAvPiA6IGkgKyAxfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJudW0gdGV4dC1bMTFweF0gdGV4dC13aGl0ZSB3LTI0IHRydW5jYXRlIHNocmluay0wIj57cC5hZGRyZXNzPy5zbGljZSgwLCA2KX0uLi57cC5hZGRyZXNzPy5zbGljZSgtNCl9PC9zcGFuPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBoLTUgcm91bmRlZCBvdmVyZmxvdy1oaWRkZW4iIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDExLDExLDE4LDAuOCkiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgyNTUsMjU1LDI1NSwwLjA4KSIgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtZnVsbCByb3VuZGVkIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTcwMCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IGAke3BjdH0lYCwKICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGBsaW5lYXItZ3JhZGllbnQoOTBkZWcsICR7aSA9PT0gMCA/ICIjZmYwMDQwIiA6ICIjYTg1NWY3In01NSwgJHtpID09PSAwID8gIiNmZjAwNDAiIDogIiNhODU1ZjcifSlgLAogICAgICAgICAgICAgICAgICAgICAgYm94U2hhZG93OiBpID09PSAwID8gIjAgMCAxMnB4IHJnYmEoMjU1LDAsNjQsMC41KSIgOiAiMCAwIDEwcHggcmdiYSgxNjgsODUsMjQ3LDAuNCkiLAogICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzExcHhdIGZvbnQtbWVkaXVtIHRleHQtWyNhODU1ZjddIHctMjAgdGV4dC1yaWdodCBzaHJpbmstMCI+e2Zvcm1hdEhhc2hyYXRlKHAuaHIpfTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pfQogICAgICAgIDwvZGl2PgogICAgICApIDogKAogICAgICAgIDxwIGNsYXNzTmFtZT0ibnVtIHRleHQtWzEycHhdIHRleHQtWyM1YTVhNmFdIHRleHQtY2VudGVyIHB5LTgiPnt0KCJ3YXIubm9QYXJ0aWNpcGFudHMiKX08L3A+CiAgICAgICl9CgogICAgICB7LyogTXkgd2FyIHBvd2VyIChzdW0gb2YgYWxsIHVubG9ja2VkIG1pbmVycykgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3VuZGVkLWxnIHAtMyBtdC00IiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAicmdiYSgwLDIxMiwyNTUsMC4wOCkiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgwLDIxMiwyNTUsMC4zNSkiIH19PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0yIj4KICAgICAgICAgIDxaYXAgc2l6ZT17MTR9IGNsYXNzTmFtZT0idGV4dC1bIzAwZDRmZl0iIC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEycHhdIGZvbnQtYm9sZCB0ZXh0LVsjMDBkNGZmXSI+e3QoIndhci5teVBvd2VyIil9PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtbC1hdXRvIG51bSB0ZXh0LVsxNHB4XSBmb250LWJvbGQgdGV4dC1bIzAwZDRmZl0iPntzbG90cz8udG90YWxIYXNocmF0ZUZvcm1hdHRlZCA/PyBmb3JtYXRIYXNocmF0ZU1ocygxMDAwMDAwMG4pfTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRleHQtWyM4YjhiOWFdIG1iLTIiPnt0KCJ3YXIuYWxsTWluZXJzRmlnaHQiKX08L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMSI+CiAgICAgICAgICB7KHNsb3RzPy5zbG90cyA/PyBbXSkubWFwKChzOiBhbnkpID0+IHsKICAgICAgICAgICAgaWYgKHMubG9ja2VkKSB7CiAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxkaXYga2V5PXtzLnNsb3R9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1bIzVhNWE2YV0iPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMXB4XSB3LTE2Ij57dCgiZmFybS5zbG90IiwgeyBzbG90OiBzLnNsb3QgKyAxIH0pfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPExvY2sgc2l6ZT17MTF9IC8+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bOXB4XSB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LVsjNWE1YTZhXSI+e3QoIndhci5sb2NrZWRTbG90Iil9PC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjb25zdCByYXcgPSBCaWdJbnQocy5oYXNocmF0ZVJhdyB8fCAwKTsKICAgICAgICAgICAgY29uc3QgZWZmZWN0aXZlID0gcy5ib29zdEFjdGl2ZSA/IChyYXcgKiAxNTBuKSAvIDEwMG4gOiByYXc7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e3Muc2xvdH0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMXB4XSB0ZXh0LXdoaXRlIHctMTYiPnt0KCJmYXJtLnNsb3QiLCB7IHNsb3Q6IHMuc2xvdCArIDEgfSl9PC9zcGFuPgogICAgICAgICAgICAgICAge3MucmlnSW5kZXggPiAwICYmIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdGV4dC1bI2ZmZDcwMF0iPlJJRzwvc3Bhbj59CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEiPgogICAgICAgICAgICAgICAgICB7cy5ib29zdEFjdGl2ZSAmJiA8c3BhbiBjbGFzc05hbWU9InRleHQtWzhweF0gdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1bI2ZmMDA0MF0iPnt0KCJ3YXIuYm9vc3QiKX08L3NwYW4+fQogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMXB4XSBmb250LW1lZGl1bSB0ZXh0LVsjMDBkNGZmXSI+e2Zvcm1hdEhhc2hyYXRlTWhzKGVmZmVjdGl2ZSl9PC9zcGFuPgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVs5cHhdIHRleHQtWyM1YTVhNmFdIG10LTIiPnt0KCJ3YXIuZm9vdG5vdGUiKX08L3A+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFlvdXIgcG9zaXRpb24gKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcm91bmRlZC1sZyBwLTMgbXQtNCIgc3R5bGU9e3sgYmFja2dyb3VuZDogInJnYmEoMTY4LDg1LDI0NywwLjEyKSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDE2OCw4NSwyNDcsMC40KSIgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgIDxUcm9waHkgc2l6ZT17MTR9IGNsYXNzTmFtZT0idGV4dC1bI2E4NTVmN10iIC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEycHhdIGZvbnQtYm9sZCB0ZXh0LVsjYTg1NWY3XSI+e3QoIndhci55b3VSYW5rIiwgeyByYW5rOiBteVJhbmsgPz8gIuKAlCIgfSl9PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsxMnB4XSB0ZXh0LVsjYTg1NWY3XSI+e3Nsb3RzPy50b3RhbEhhc2hyYXRlRm9ybWF0dGVkID8/ICLigJQifTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzEycHhdIHRleHQtWyNmZmQ3MDBdIj57bXlSZXdhcmQgPz8gIuKAlCJ9PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvSHVkQ2FyZD4KICApOwp9Cg==
+"use client";
+
+import { useEffect, useMemo, useState } from "react";
+import { useWar, useJoinWar, useWarRanking, useWarRewards, useSettleWar, useClaimWarReward } from "@/hooks/useWar";
+import { useSlots } from "@/hooks/useMiner";
+import { useWallet } from "@/lib/web3";
+import { useDemoMode } from "@/hooks/useDemoMode";
+import { useToast } from "@/components/ui/Toast";
+import { HudCard, HudCardHeader, HudButton, HudBadge } from "@/components/ui/Hud";
+import { useT } from "@/i18n";
+import { formatHashrate as formatHashrateMhs } from "@hashwar/shared";
+import { Radio, Timer, Trophy, Users, Gauge, Crown, Swords, Zap, Lock } from "lucide-react";
+
+function formatHashrate(num: number): string {
+  if (num >= 1e15) return `${(num / 1e15).toFixed(2)} PH/s`;
+  if (num >= 1e12) return `${(num / 1e12).toFixed(2)} TH/s`;
+  if (num >= 1e9) return `${(num / 1e9).toFixed(2)} GH/s`;
+  if (num >= 1e6) return `${(num / 1e6).toFixed(2)} MH/s`;
+  return `${(num / 1e3).toFixed(2)} KH/s`;
+}
+
+/**
+ * Warfield — multiplayer hashrate competition visualization.
+ * Replaces the misleading 1v1 PK animation. Ranks all war participants
+ * by effective hashrate with comparison bars (HUD style).
+ */
+export function Warfield({ isLive = false }: { isLive?: boolean }) {
+  const { data: war } = useWar();
+  const { data: ranking } = useWarRanking();
+  const { data: rewards } = useWarRewards();
+  const joinMutation = useJoinWar();
+  const settleMutation = useSettleWar();
+  const claimMutation = useClaimWarReward();
+  const { data: slots } = useSlots();
+  const { address } = useWallet();
+  const { isDemo } = useDemoMode();
+  const { showToast } = useToast();
+  const t = useT();
+  const [countdown, setCountdown] = useState("");
+  const [deadlineCountdown, setDeadlineCountdown] = useState("--:--:--");
+
+  const warData = war?.current;
+  const upcoming = war?.upcoming;
+
+  useEffect(() => {
+    if (!upcoming) return;
+    const timer = setInterval(() => {
+      const now = Date.now();
+      const start = new Date(upcoming.startTime).getTime();
+      const diff = start - now;
+      if (diff <= 0) { setCountdown(t("war.liveNow")); return; }
+      const h = Math.floor(diff / 3600000);
+      const m = Math.floor((diff % 3600000) / 60000);
+      const s = Math.floor((diff % 60000) / 1000);
+      setCountdown(`${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`);
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [upcoming, t]);
+
+  // Live countdown to the active war's real on-chain deadline.
+  useEffect(() => {
+    if (!warData?.deadline) return;
+    const deadlineSec = Number(warData.deadline);
+    const timer = setInterval(() => {
+      const diff = Math.max(0, deadlineSec - Math.floor(Date.now() / 1000));
+      const h = Math.floor(diff / 3600);
+      const m = Math.floor((diff % 3600) / 60);
+      const s = diff % 60;
+      setDeadlineCountdown(
+        `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`
+      );
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [warData?.deadline]);
+
+  const participants = ranking?.participants || warData?.participants || [];
+
+  const sorted = useMemo(() => {
+    return [...participants]
+      .map((p: any) => ({ ...p, hr: Number(p.hashrate) || 0 }))
+      .sort((a, b) => b.hr - a.hr);
+  }, [participants]);
+
+  const maxHr = sorted.length ? sorted[0].hr : 1;
+  const top = sorted.slice(0, 10);
+
+  const status = warData?.status;
+  const active = isLive || status === "ACTIVE" || warData?.active === true || isDemo;
+  const settled = status === "COMPLETED" || warData?.settled === true;
+  const deadline = warData ? Number(warData.deadline || 0) : 0;
+  const deadlinePassed = deadline > 0 && Math.floor(Date.now() / 1000) > deadline;
+  const warPool = warData ? (Number(warData.warPool) / 1e18).toLocaleString() : "—";
+  const myRank = useMemo(() => {
+    const idx = sorted.findIndex((p: any) => p.address?.toLowerCase() === (address ?? "").toLowerCase());
+    return idx >= 0 ? idx + 1 : null;
+  }, [sorted, address]);
+  const myReward = rewards?.rewardAmount
+    ? `~${(Number(rewards.rewardAmount) / 1e18).toLocaleString()} $HASH`
+    : null;
+
+  const medalColors = ["#ffd700", "#c0c0c0", "#cd7f32"];
+
+  return (
+    <HudCard className="p-5" style={{ borderColor: "rgba(255,0,64,0.3)" }}>
+      {/* Header */}
+      <div className="flex items-center gap-2 mb-4">
+        <Radio size={16} className="text-[#ff0040]" />
+        <span className="text-[13px] font-bold text-[#ff0040]">{t("war.warfield")}</span>
+        <span className="ml-auto flex items-center gap-1.5">
+          <span className={`w-2 h-2 rounded-full ${active ? "bg-[#ff0040] animate-pulse" : "bg-gray-600"}`} />
+          <span className={`text-[10px] uppercase tracking-wide ${active ? "text-[#ff0040]" : "text-[#8b8b9a]"}`}>
+            {active ? t("war.live") : t("war.scheduled")}
+          </span>
+        </span>
+      </div>
+
+      {/* Meta row */}
+      <div className="grid grid-cols-3 gap-3 mb-5">
+        <div className="rounded-lg p-3 text-center" style={{ background: "rgba(255,215,0,0.06)", border: "1px solid rgba(255,215,0,0.25)" }}>
+          <div className="flex items-center justify-center gap-1 mb-1"><Gauge size={12} className="text-[#ffd700]" /><span className="text-[9px] uppercase text-[#8b8b9a]">{t("war.pool")}</span></div>
+          <span className="num text-[15px] font-semibold text-[#ffd700]">{warPool} $HASH</span>
+        </div>
+        <div className="rounded-lg p-3 text-center" style={{ background: "rgba(168,85,247,0.06)", border: "1px solid rgba(168,85,247,0.25)" }}>
+          <div className="flex items-center justify-center gap-1 mb-1"><Timer size={12} className="text-[#a855f7]" /><span className="text-[9px] uppercase text-[#8b8b9a]">{t("war.endsIn")}</span></div>
+          <span className="num text-[15px] font-semibold text-white">{active ? deadlineCountdown : countdown || "--:--:--"}</span>
+        </div>
+        <div className="rounded-lg p-3 text-center" style={{ background: "rgba(0,212,255,0.06)", border: "1px solid rgba(0,212,255,0.25)" }}>
+          <div className="flex items-center justify-center gap-1 mb-1"><Users size={12} className="text-[#00d4ff]" /><span className="text-[9px] uppercase text-[#8b8b9a]">{t("war.miners")}</span></div>
+          <span className="num text-[15px] font-semibold text-white">{participants.length || 0}</span>
+        </div>
+      </div>
+
+      {/* Next war countdown when no war is running */}
+      {!active && !settled && (
+        <div className="mb-5">
+          <p className="num text-[22px] font-bold text-center text-[#ffd700] mb-2" style={{ textShadow: "0 0 18px rgba(255,215,0,0.4)" }}>
+            {countdown || t("war.nextSoon")}
+          </p>
+        </div>
+      )}
+
+      {/* Join / Settle / Claim actions */}
+      <div className="flex flex-col gap-2 mb-5">
+        {active && !settled && (
+          <button
+            onClick={() => isDemo ? showToast(t("toast.connectToUse", { action: t("war.join") }), "warning") : joinMutation.mutate()}
+            disabled={joinMutation.isPending}
+            className="hud-btn hud-btn-red justify-center w-full py-3 text-[12px]"
+          >
+            <Swords size={14} /> {joinMutation.isPending ? t("war.joining") : t("war.join")}
+          </button>
+        )}
+        {active && deadlinePassed && !settled && (
+          <button
+            onClick={() => isDemo ? showToast(t("toast.connectToUse", { action: t("war.settle") }), "warning") : settleMutation.mutate()}
+            disabled={settleMutation.isPending}
+            className="hud-btn justify-center w-full py-2.5 text-[12px]"
+          >
+            {settleMutation.isPending ? t("war.settling") : t("war.settle")}
+          </button>
+        )}
+        {settled && (
+          <button
+            onClick={() => isDemo ? showToast(t("toast.connectToUse", { action: t("war.claim") }), "warning") : claimMutation.mutate()}
+            disabled={claimMutation.isPending}
+            className="hud-btn hud-btn-red justify-center w-full py-3 text-[12px]"
+          >
+            <Trophy size={14} /> {claimMutation.isPending ? t("war.claiming") : t("war.claimReward")}
+          </button>
+        )}
+      </div>
+
+      {/* Visual ranking */}
+      {top.length > 0 ? (
+        <div className="space-y-1.5">
+          {top.map((p: any, i: number) => {
+            const pct = Math.max(2, (p.hr / maxHr) * 100);
+            return (
+              <div key={p.address || i} className="flex items-center gap-2">
+                <span className="w-5 text-center num text-[11px] font-bold" style={{ color: i < 3 ? medalColors[i] : "#8b8b9a" }}>
+                  {i === 0 ? <Crown size={14} className="inline text-[#ffd700]" /> : i + 1}
+                </span>
+                <span className="num text-[11px] text-white w-24 truncate shrink-0">{p.address?.slice(0, 6)}...{p.address?.slice(-4)}</span>
+                <div className="flex-1 h-5 rounded overflow-hidden" style={{ background: "rgba(11,11,18,0.8)", border: "1px solid rgba(255,255,255,0.08)" }}>
+                  <div
+                    className="h-full rounded transition-all duration-700"
+                    style={{
+                      width: `${pct}%`,
+                      background: `linear-gradient(90deg, ${i === 0 ? "#ff0040" : "#a855f7"}55, ${i === 0 ? "#ff0040" : "#a855f7"})`,
+                      boxShadow: i === 0 ? "0 0 12px rgba(255,0,64,0.5)" : "0 0 10px rgba(168,85,247,0.4)",
+                    }}
+                  />
+                </div>
+                <span className="num text-[11px] font-medium text-[#a855f7] w-20 text-right shrink-0">{formatHashrate(p.hr)}</span>
+              </div>
+            );
+          })}
+        </div>
+      ) : (
+        <p className="num text-[12px] text-[#5a5a6a] text-center py-8">{t("war.noParticipants")}</p>
+      )}
+
+      {/* My war power (sum of all unlocked miners) */}
+      <div className="rounded-lg p-3 mt-4" style={{ background: "rgba(0,212,255,0.08)", border: "1px solid rgba(0,212,255,0.35)" }}>
+        <div className="flex items-center gap-2 mb-2">
+          <Zap size={14} className="text-[#00d4ff]" />
+          <span className="text-[12px] font-bold text-[#00d4ff]">{t("war.myPower")}</span>
+          <span className="ml-auto num text-[14px] font-bold text-[#00d4ff]">{slots?.totalHashrateFormatted ?? formatHashrateMhs(10000000n)}</span>
+        </div>
+        <p className="text-[10px] text-[#8b8b9a] mb-2">{t("war.allMinersFight")}</p>
+        <div className="space-y-1">
+          {(slots?.slots ?? []).map((s: any) => {
+            if (s.locked) {
+              return (
+                <div key={s.slot} className="flex items-center gap-2 text-[#5a5a6a]">
+                  <span className="num text-[11px] w-16">{t("farm.slot", { slot: s.slot + 1 })}</span>
+                  <Lock size={11} />
+                  <span className="text-[9px] uppercase tracking-wide text-[#5a5a6a]">{t("war.lockedSlot")}</span>
+                </div>
+              );
+            }
+            const raw = BigInt(s.hashrateRaw || 0);
+            const effective = s.boostActive ? (raw * 150n) / 100n : raw;
+            return (
+              <div key={s.slot} className="flex items-center gap-2">
+                <span className="num text-[11px] text-white w-16">{t("farm.slot", { slot: s.slot + 1 })}</span>
+                {s.rigIndex > 0 && <span className="text-[10px] text-[#ffd700]">RIG</span>}
+                <span className="ml-auto flex items-center gap-1">
+                  {s.boostActive && <span className="text-[8px] uppercase tracking-wide text-[#ff0040]">{t("war.boost")}</span>}
+                  <span className="num text-[11px] font-medium text-[#00d4ff]">{formatHashrateMhs(effective)}</span>
+                </span>
+              </div>
+            );
+          })}
+        </div>
+        <p className="text-[9px] text-[#5a5a6a] mt-2">{t("war.footnote")}</p>
+      </div>
+
+      {/* Your position */}
+      <div className="flex items-center justify-between rounded-lg p-3 mt-4" style={{ background: "rgba(168,85,247,0.12)", border: "1px solid rgba(168,85,247,0.4)" }}>
+        <div className="flex items-center gap-2">
+          <Trophy size={14} className="text-[#a855f7]" />
+          <span className="text-[12px] font-bold text-[#a855f7]">{t("war.youRank", { rank: myRank ?? "—" })}</span>
+        </div>
+        <div className="flex items-center gap-4">
+          <span className="num text-[12px] text-[#a855f7]">{slots?.totalHashrateFormatted ?? "—"}</span>
+          <span className="num text-[12px] text-[#ffd700]">{myReward ?? "—"}</span>
+        </div>
+      </div>
+    </HudCard>
+  );
+}
