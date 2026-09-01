@@ -40,7 +40,7 @@ contract Hashwar {
         _;
     }
 
-    // ------------------------------------------------------------- 方案Y value anchoring
+    // ------------------------------------------------------------- Scheme Y value anchoring
     // Price of the game token in USD, scaled by USD_SCALE. Admin-updatable so the
     // reward pipeline can track the pons bonding-curve price (anti-arbitrage).
     uint256 public pricePerHash;
@@ -270,7 +270,7 @@ contract Hashwar {
         if (durabilityFactor_pct > 100) durabilityFactor_pct = 100;
 
         uint256 effective = (effBase * energyFactor_pct * tempFactor_pct * durabilityFactor_pct) / (100 * 100 * 100);
-        // 方案Y: value-anchored reward. Convert the USD-denominated mining yield
+        // Scheme Y: value-anchored reward. Convert the USD-denominated mining yield
         // into the current number of HASH tokens using the updatable pricePerHash.
         // reward(HASH, 1e18) = effective(MH)*elapsed(s)*rate(USD/MH/s) / pricePerHash(USD/HASH)
         //   = effective * elapsed * rewardRatePerMHPerSec / (HASHRATE_SCALE * pricePerHash)
