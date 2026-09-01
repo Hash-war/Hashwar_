@@ -1,1 +1,25 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgR2FtZUxheW91dCB9IGZyb20gIkAvY29tcG9uZW50cy9sYXlvdXQvR2FtZUxheW91dCI7CmltcG9ydCB7IFBhZ2VUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9IdWQiOwppbXBvcnQgeyBXYXJmaWVsZCB9IGZyb20gIkAvY29tcG9uZW50cy93YXIvV2FyZmllbGQiOwppbXBvcnQgeyB1c2VXYXIgfSBmcm9tICJAL2hvb2tzL3VzZVdhciI7CmltcG9ydCB7IHVzZVQgfSBmcm9tICJAL2kxOG4iOwppbXBvcnQgeyBUcm9waHkgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gV2FyUGFnZSgpIHsKICBjb25zdCB7IGRhdGE6IHdhckRhdGEgfSA9IHVzZVdhcigpOwogIGNvbnN0IHQgPSB1c2VUKCk7CiAgY29uc3Qgd2FyID0gd2FyRGF0YT8uY3VycmVudDsKCiAgcmV0dXJuICgKICAgIDxHYW1lTGF5b3V0PgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS02Ij4KICAgICAgICA8UGFnZVRpdGxlIGljb249ezxUcm9waHkgc2l6ZT17MjB9IC8+fSB0aXRsZT17dCgid2FyLnRpdGxlIil9IHN1Yj17dCgid2FyLnN1YiIpfSBhY2NlbnQ9IiNmZjAwNDAiIC8+CgogICAgICAgIHsvKiBNdWx0aXBsYXllciBjb21wZXRpdGlvbiB2aXN1YWxpemF0aW9uICovfQogICAgICAgIDxXYXJmaWVsZCBpc0xpdmU9e3dhcj8uc3RhdHVzID09PSAiQUNUSVZFIn0gLz4KICAgICAgPC9kaXY+CiAgICA8L0dhbWVMYXlvdXQ+CiAgKTsKfQo=
+"use client";
+
+import { GameLayout } from "@/components/layout/GameLayout";
+import { PageTitle } from "@/components/ui/Hud";
+import { Warfield } from "@/components/war/Warfield";
+import { useWar } from "@/hooks/useWar";
+import { useT } from "@/i18n";
+import { Trophy } from "lucide-react";
+
+export default function WarPage() {
+  const { data: warData } = useWar();
+  const t = useT();
+  const war = warData?.current;
+
+  return (
+    <GameLayout>
+      <div className="space-y-6">
+        <PageTitle icon={<Trophy size={20} />} title={t("war.title")} sub={t("war.sub")} accent="#ff0040" />
+
+        {/* Multiplayer competition visualization */}
+        <Warfield isLive={war?.status === "ACTIVE"} />
+      </div>
+    </GameLayout>
+  );
+}
