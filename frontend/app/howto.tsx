@@ -1,1 +1,60 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgR2FtZUxheW91dCB9IGZyb20gIkAvY29tcG9uZW50cy9sYXlvdXQvR2FtZUxheW91dCI7CmltcG9ydCB7IFBhZ2VUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9IdWQiOwppbXBvcnQgeyB1c2VUIH0gZnJvbSAiQC9pMThuIjsKaW1wb3J0IHsgQm9va09wZW4gfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKY29uc3QgSE9XVE9fU1RFUFMgPSBbCiAgeyBpY29uOiAi8J+SsCIsIHRpdGxlOiAiaG9tZS5ob3d0by5zdGVwMS50aXRsZSIsIGRlc2M6ICJob21lLmhvd3RvLnN0ZXAxLmRlc2MiIH0sCiAgeyBpY29uOiAi4puPIiwgdGl0bGU6ICJob21lLmhvd3RvLnN0ZXAyLnRpdGxlIiwgZGVzYzogImhvbWUuaG93dG8uc3RlcDIuZGVzYyIgfSwKICB7IGljb246ICLwn5qAIiwgdGl0bGU6ICJob21lLmhvd3RvLnN0ZXAzLnRpdGxlIiwgZGVzYzogImhvbWUuaG93dG8uc3RlcDMuZGVzYyIgfSwKICB7IGljb246ICLwn5uSIiwgdGl0bGU6ICJob21lLmhvd3RvLnN0ZXA0LnRpdGxlIiwgZGVzYzogImhvbWUuaG93dG8uc3RlcDQuZGVzYyIgfSwKICB7IGljb246ICLimpTvuI8iLCB0aXRsZTogImhvbWUuaG93dG8uc3RlcDUudGl0bGUiLCBkZXNjOiAiaG9tZS5ob3d0by5zdGVwNS5kZXNjIiB9LAogIHsgaWNvbjogIvCfj4YiLCB0aXRsZTogImhvbWUuaG93dG8uc3RlcDYudGl0bGUiLCBkZXNjOiAiaG9tZS5ob3d0by5zdGVwNi5kZXNjIiB9LAogIHsgaWNvbjogIvCfj6YiLCB0aXRsZTogImhvbWUuaG93dG8uc3RlcDcudGl0bGUiLCBkZXNjOiAiaG9tZS5ob3d0by5zdGVwNy5kZXNjIiB9LApdIGFzIGNvbnN0OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG93VG9QYWdlKCkgewogIGNvbnN0IHQgPSB1c2VUKCk7CgogIHJldHVybiAoCiAgICA8R2FtZUxheW91dD4KICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktOCI+CiAgICAgICAgPFBhZ2VUaXRsZSBpY29uPXs8Qm9va09wZW4gc2l6ZT17MjB9IC8+fSB0aXRsZT17dCgiaG9tZS5ob3d0by50aXRsZSIpfSBzdWI9e3QoImhvbWUuaG93dG8uc3ViIil9IGFjY2VudD0iIzAwZDRmZiIgLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgZ2FwLTAgaXRlbXMtc3RyZXRjaCBtYXgtdy0yeGwgbXgtYXV0byB3LWZ1bGwiPgogICAgICAgICAge0hPV1RPX1NURVBTLm1hcCgocywgaSkgPT4gewogICAgICAgICAgICBjb25zdCBpc0xhc3QgPSBpID09PSBIT1dUT19TVEVQUy5sZW5ndGggLSAxOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtzLmljb259IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imh1ZC1jYXJkIHAtNCByb3VuZGVkLWxnIGZsZXggaXRlbXMtY2VudGVyIGdhcC00IHJlbGF0aXZlIHotMTAiCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAicmdiYSgwLDIxMiwyNTUsMC4yKSIgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBzaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ3LTEwIGgtMTAgcm91bmRlZC1sZyBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0ZXh0LVsyMHB4XSBudW0gdGV4dC1bIzAwZDRmZl0iCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAicmdiYSgwLDIxMiwyNTUsMC4xMikiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgwLDIxMiwyNTUsMC4zKSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICB7aSArIDF9CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMjBweF0iPntzLmljb259PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtWzEzcHhdIHRleHQtd2hpdGUiPnt0KHMudGl0bGUpfTwvcD4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzExcHhdIHRleHQtWyM4YjhiOWFdIG10LTAuNSBsZWFkaW5nLXJlbGF4ZWQiPnt0KHMuZGVzYyl9PC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgeyFpc0xhc3QgJiYgKAogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXgtYXV0byB3LVsycHhdIGgtNSIKICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDE4MGRlZywgcmdiYSgwLDIxMiwyNTUsMC41KSwgcmdiYSgwLDIxMiwyNTUsMC4xKSkiIH19IC8+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMTFweF0gdGV4dC1bIzVhNWE2YV0gdGV4dC1jZW50ZXIgbWF4LXcteGwgbXgtYXV0byBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAge3QoImhvbWUuaG93dG8uc3ViIil9CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvR2FtZUxheW91dD4KICApOwp9Cg==
+"use client";
+
+import { GameLayout } from "@/components/layout/GameLayout";
+import { PageTitle } from "@/components/ui/Hud";
+import { useT } from "@/i18n";
+import { BookOpen } from "lucide-react";
+
+const HOWTO_STEPS = [
+  { icon: "💰", title: "home.howto.step1.title", desc: "home.howto.step1.desc" },
+  { icon: "⛏", title: "home.howto.step2.title", desc: "home.howto.step2.desc" },
+  { icon: "🚀", title: "home.howto.step3.title", desc: "home.howto.step3.desc" },
+  { icon: "🛒", title: "home.howto.step4.title", desc: "home.howto.step4.desc" },
+  { icon: "⚔️", title: "home.howto.step5.title", desc: "home.howto.step5.desc" },
+  { icon: "🏆", title: "home.howto.step6.title", desc: "home.howto.step6.desc" },
+  { icon: "🏦", title: "home.howto.step7.title", desc: "home.howto.step7.desc" },
+] as const;
+
+export default function HowToPage() {
+  const t = useT();
+
+  return (
+    <GameLayout>
+      <div className="space-y-8">
+        <PageTitle icon={<BookOpen size={20} />} title={t("home.howto.title")} sub={t("home.howto.sub")} accent="#00d4ff" />
+
+        <div className="flex flex-col gap-0 items-stretch max-w-2xl mx-auto w-full">
+          {HOWTO_STEPS.map((s, i) => {
+            const isLast = i === HOWTO_STEPS.length - 1;
+            return (
+              <div key={s.icon} className="relative">
+                <div className="hud-card p-4 rounded-lg flex items-center gap-4 relative z-10"
+                  style={{ borderColor: "rgba(0,212,255,0.2)" }}>
+                  <div className="flex items-center gap-3 shrink-0">
+                    <span className="w-10 h-10 rounded-lg flex items-center justify-center text-[20px] num text-[#00d4ff]"
+                      style={{ background: "rgba(0,212,255,0.12)", border: "1px solid rgba(0,212,255,0.3)" }}>
+                      {i + 1}
+                    </span>
+                    <span className="text-[20px]">{s.icon}</span>
+                  </div>
+                  <div className="flex-1">
+                    <p className="font-semibold text-[13px] text-white">{t(s.title)}</p>
+                    <p className="text-[11px] text-[#8b8b9a] mt-0.5 leading-relaxed">{t(s.desc)}</p>
+                  </div>
+                </div>
+                {!isLast && (
+                  <div className="mx-auto w-[2px] h-5"
+                    style={{ background: "linear-gradient(180deg, rgba(0,212,255,0.5), rgba(0,212,255,0.1))" }} />
+                )}
+              </div>
+            );
+          })}
+        </div>
+
+        <p className="text-[11px] text-[#5a5a6a] text-center max-w-xl mx-auto leading-relaxed">
+          {t("home.howto.sub")}
+        </p>
+      </div>
+    </GameLayout>
+  );
+}
