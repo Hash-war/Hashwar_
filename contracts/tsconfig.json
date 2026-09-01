@@ -1,1 +1,15 @@
-ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAidGFyZ2V0IjogIkVTMjAyMiIsCiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJtb2R1bGVSZXNvbHV0aW9uIjogIm5vZGUiLAogICAgImVzTW9kdWxlSW50ZXJvcCI6IHRydWUsCiAgICAiZm9yY2VDb25zaXN0ZW50Q2FzaW5nSW5GaWxlTmFtZXMiOiB0cnVlLAogICAgInN0cmljdCI6IGZhbHNlLAogICAgInNraXBMaWJDaGVjayI6IHRydWUsCiAgICAicmVzb2x2ZUpzb25Nb2R1bGUiOiB0cnVlLAogICAgIm91dERpciI6ICJkaXN0IgogIH0sCiAgImluY2x1ZGUiOiBbIi4vc2NyaXB0cyIsICIuL3Rlc3QiXSwKICAiZmlsZXMiOiBbIi4vaGFyZGhhdC5jb25maWcudHMiXQp9Cg==
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "outDir": "dist"
+  },
+  "include": ["./scripts", "./test"],
+  "files": ["./hardhat.config.ts"]
+}
