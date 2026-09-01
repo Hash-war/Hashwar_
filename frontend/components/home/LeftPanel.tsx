@@ -1,1 +1,82 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgdXNlV2FsbGV0IH0gZnJvbSAiQC9saWIvd2ViMyI7CmltcG9ydCB7IGZvcm1hdEhhc2gsIGZvcm1hdEdsb2JhbEhhc2hyYXRlIH0gZnJvbSAiQGhhc2h3YXIvc2hhcmVkIjsKaW1wb3J0IHsgdXNlVCB9IGZyb20gIkAvaTE4biI7CmltcG9ydCB7IEdsb2JlLCBDb2lucywgVXNlcnMsIFBpY2theGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VHbG9iYWxNZXRhIH0gZnJvbSAiQC9ob29rcy91c2VHbG9iYWwiOwoKZXhwb3J0IGZ1bmN0aW9uIExlZnRQYW5lbCgpIHsKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKICBjb25zdCB7IGlzQ29ubmVjdGVkIH0gPSB1c2VXYWxsZXQoKTsKICBjb25zdCB0ID0gdXNlVCgpOwogIGNvbnN0IHsgZGF0YTogbWV0YSB9ID0gdXNlR2xvYmFsTWV0YSgpOwoKICBjb25zdCBnbG9iYWxIYXNocmF0ZSA9IG1ldGEgPyBmb3JtYXRHbG9iYWxIYXNocmF0ZShCaWdJbnQobWV0YS5nbG9iYWxIYXNocmF0ZSkpIDogIuKAlCI7CiAgY29uc3QgZ2xvYmFsUG9vbERpc3BsYXkgPSBtZXRhID8gYCR7Zm9ybWF0SGFzaChCaWdJbnQobWV0YS5nbG9iYWxQb29sKSl9ICRIQVNIYCA6ICLigJQiOwogIGNvbnN0IG1pbmVyc09ubGluZSA9IG1ldGEgPyBtZXRhLm1pbmVyQ291bnQudG9Mb2NhbGVTdHJpbmcoKSA6ICLigJQiOwoKICBjb25zdCBoYW5kbGVTdGFydCA9ICgpID0+IHsKICAgIGlmIChpc0Nvbm5lY3RlZCkgewogICAgICByb3V0ZXIucHVzaCgiL21pbmUiKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgZ2FwLTYiPgogICAgICB7LyogSGVhZGxpbmUgKi99CiAgICAgIDxkaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB0cmFja2luZy1bMC4zZW1dIHRleHQtWyNhODU1ZjddIHVwcGVyY2FzZSBtYi0zIj4KICAgICAgICAgIHt0KCJob21lLmhlYWRsaW5lS2lja2VyIil9CiAgICAgICAgPC9wPgogICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LWV4dHJhYm9sZCBsZWFkaW5nLVsxLjA1XSB0ZXh0LVszNHB4XSBzbTp0ZXh0LVs0MHB4XSI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtd2hpdGUiPnt0KCJob21lLmhlYWRsaW5lMSIpfTwvc3Bhbj48YnIgLz4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC13aGl0ZSI+e3QoImhvbWUuaGVhZGxpbmUyIil9PC9zcGFuPjxiciAvPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXRyYW5zcGFyZW50IGJnLWNsaXAtdGV4dCBiZy1ncmFkaWVudC10by1yIGZyb20tWyNhODU1ZjddIHRvLVsjMDBkNGZmXSI+e3QoImhvbWUuaGVhZGxpbmUzIil9PC9zcGFuPjxiciAvPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXRyYW5zcGFyZW50IGJnLWNsaXAtdGV4dCBiZy1ncmFkaWVudC10by1yIGZyb20tWyNhODU1ZjddIHRvLVsjMDBkNGZmXSI+e3QoImhvbWUuaGVhZGxpbmU0Iil9PC9zcGFuPgogICAgICAgIDwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxM3B4XSB0ZXh0LVsjOGI4YjlhXSBtdC00IGxlYWRpbmctcmVsYXhlZCBtYXgtdy1tZCI+CiAgICAgICAgICB7dCgiaG9tZS5zdWJIZWFkbGluZSIpfQogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CgogICAgICB7LyogU3RhcnQgbWluaW5nICovfQogICAgICA8YnV0dG9uIG9uQ2xpY2s9e2hhbmRsZVN0YXJ0fSBjbGFzc05hbWU9Imh1ZC1idG4gaHVkLWJ0bi1ibG9jayB0ZXh0LVsxNXB4XSBweS00IG1heC13LVsyNjBweF0ganVzdGlmeS1zdGFydCI+CiAgICAgICAgPFBpY2theGUgc2l6ZT17MTh9IC8+CiAgICAgICAge3QoImhvbWUuc3RhcnRNaW5pbmciKX0KICAgICAgPC9idXR0b24+CgogICAgICB7LyogR2xvYmFsIHN0YXRzICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMyBtdC0yIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctOCBoLTggcm91bmRlZC1sZyBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciIgc3R5bGU9e3sgYmFja2dyb3VuZDogInJnYmEoMTY4LDg1LDI0NywwLjEyKSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDE2OCw4NSwyNDcsMC4zKSIgfX0+CiAgICAgICAgICAgIDxHbG9iZSBzaXplPXsxNn0gY2xhc3NOYW1lPSJ0ZXh0LVsjYTg1NWY3XSIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wiPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRyYWNraW5nLXdpZGUgdXBwZXJjYXNlIHRleHQtWyM4YjhiOWFdIj57dCgiaG9tZS5nbG9iYWxIYXNocmF0ZSIpfTwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJudW0gdGV4dC1bMTZweF0gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57Z2xvYmFsSGFzaHJhdGV9PC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTggaC04IHJvdW5kZWQtbGcgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDI1NSwyMTUsMCwwLjEyKSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDI1NSwyMTUsMCwwLjMpIiB9fT4KICAgICAgICAgICAgPENvaW5zIHNpemU9ezE2fSBjbGFzc05hbWU9InRleHQtWyNmZmQ3MDBdIiAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdHJhY2tpbmctd2lkZSB1cHBlcmNhc2UgdGV4dC1bIzhiOGI5YV0iPnt0KCJob21lLmdsb2JhbFBvb2wiKX08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzE2cHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e2dsb2JhbFBvb2xEaXNwbGF5fTwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy04IGgtOCByb3VuZGVkLWxnIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAicmdiYSgwLDIxMiwyNTUsMC4xMikiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgwLDIxMiwyNTUsMC4zKSIgfX0+CiAgICAgICAgICAgIDxVc2VycyBzaXplPXsxNn0gY2xhc3NOYW1lPSJ0ZXh0LVsjMDBkNGZmXSIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wiPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRyYWNraW5nLXdpZGUgdXBwZXJjYXNlIHRleHQtWyM4YjhiOWFdIj57dCgiaG9tZS5taW5lcnNPbmxpbmUiKX08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtWzE2cHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e21pbmVyc09ubGluZX08L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+"use client";
+
+import { useRouter } from "next/navigation";
+import { useWallet } from "@/lib/web3";
+import { formatHash, formatGlobalHashrate } from "@hashwar/shared";
+import { useT } from "@/i18n";
+import { Globe, Coins, Users, Pickaxe } from "lucide-react";
+import { useGlobalMeta } from "@/hooks/useGlobal";
+
+export function LeftPanel() {
+  const router = useRouter();
+  const { isConnected } = useWallet();
+  const t = useT();
+  const { data: meta } = useGlobalMeta();
+
+  const globalHashrate = meta ? formatGlobalHashrate(BigInt(meta.globalHashrate)) : "—";
+  const globalPoolDisplay = meta ? `${formatHash(BigInt(meta.globalPool))} $HASH` : "—";
+  const minersOnline = meta ? meta.minerCount.toLocaleString() : "—";
+
+  const handleStart = () => {
+    if (isConnected) {
+      router.push("/mine");
+    }
+  };
+
+  return (
+    <div className="flex flex-col gap-6">
+      {/* Headline */}
+      <div>
+        <p className="text-[11px] tracking-[0.3em] text-[#a855f7] uppercase mb-3">
+          {t("home.headlineKicker")}
+        </p>
+        <h1 className="font-display font-extrabold leading-[1.05] text-[34px] sm:text-[40px]">
+          <span className="text-white">{t("home.headline1")}</span><br />
+          <span className="text-white">{t("home.headline2")}</span><br />
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#a855f7] to-[#00d4ff]">{t("home.headline3")}</span><br />
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#a855f7] to-[#00d4ff]">{t("home.headline4")}</span>
+        </h1>
+        <p className="text-[13px] text-[#8b8b9a] mt-4 leading-relaxed max-w-md">
+          {t("home.subHeadline")}
+        </p>
+      </div>
+
+      {/* Start mining */}
+      <button onClick={handleStart} className="hud-btn hud-btn-block text-[15px] py-4 max-w-[260px] justify-start">
+        <Pickaxe size={18} />
+        {t("home.startMining")}
+      </button>
+
+      {/* Global stats */}
+      <div className="flex flex-col gap-3 mt-2">
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background: "rgba(168,85,247,0.12)", border: "1px solid rgba(168,85,247,0.3)" }}>
+            <Globe size={16} className="text-[#a855f7]" />
+          </div>
+          <div className="flex flex-col">
+            <span className="text-[10px] tracking-wide uppercase text-[#8b8b9a]">{t("home.globalHashrate")}</span>
+            <span className="num text-[16px] font-semibold text-white">{globalHashrate}</span>
+          </div>
+        </div>
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background: "rgba(255,215,0,0.12)", border: "1px solid rgba(255,215,0,0.3)" }}>
+            <Coins size={16} className="text-[#ffd700]" />
+          </div>
+          <div className="flex flex-col">
+            <span className="text-[10px] tracking-wide uppercase text-[#8b8b9a]">{t("home.globalPool")}</span>
+            <span className="num text-[16px] font-semibold text-white">{globalPoolDisplay}</span>
+          </div>
+        </div>
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background: "rgba(0,212,255,0.12)", border: "1px solid rgba(0,212,255,0.3)" }}>
+            <Users size={16} className="text-[#00d4ff]" />
+          </div>
+          <div className="flex flex-col">
+            <span className="text-[10px] tracking-wide uppercase text-[#8b8b9a]">{t("home.minersOnline")}</span>
+            <span className="num text-[16px] font-semibold text-white">{minersOnline}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
