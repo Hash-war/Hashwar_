@@ -1,1 +1,102 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlTWluZXIsIHVzZUNsYWltTWluaW5nLCB1c2VTdGFydE1pbmluZyB9IGZyb20gIkAvaG9va3MvdXNlTWluZXIiOwppbXBvcnQgeyB1c2VEZW1vTW9kZSB9IGZyb20gIkAvaG9va3MvdXNlRGVtb01vZGUiOwppbXBvcnQgeyB1c2VXYWxsZXQgfSBmcm9tICJAL2xpYi93ZWIzIjsKaW1wb3J0IHsgdXNlVG9hc3QgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvVG9hc3QiOwppbXBvcnQgeyB1c2VUIH0gZnJvbSAiQC9pMThuIjsKaW1wb3J0IHsgQ2hhc3Npc01pbmVyUmlnIH0gZnJvbSAiQC9jb21wb25lbnRzL3BpeGVsL0NoYXNzaXNNaW5lclJpZyI7CmltcG9ydCB7IFphcCwgVGhlcm1vbWV0ZXIsIFNoaWVsZCwgR2F1Z2UgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBNZXRyaWMgfSBmcm9tICIuL01ldHJpYyI7CgpleHBvcnQgZnVuY3Rpb24gQ2VudGVyTWluZXIoKSB7CiAgY29uc3QgeyBkYXRhOiBtaW5lciwgaXNMb2FkaW5nIH0gPSB1c2VNaW5lcigpOwogIGNvbnN0IHsgaXNEZW1vIH0gPSB1c2VEZW1vTW9kZSgpOwogIGNvbnN0IHsgaXNDb25uZWN0ZWQgfSA9IHVzZVdhbGxldCgpOwogIGNvbnN0IHsgc2hvd1RvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IGNsYWltTXV0YXRpb24gPSB1c2VDbGFpbU1pbmluZygpOwogIGNvbnN0IHN0YXJ0TXV0YXRpb24gPSB1c2VTdGFydE1pbmluZygpOwogIGNvbnN0IHQgPSB1c2VUKCk7CgogIGlmIChpc0xvYWRpbmcgfHwgIW1pbmVyKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgaC1bNDAwcHhdIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LXNtIHRleHQtWyNhODU1ZjddIGFuaW1hdGUtcHVsc2UiPnt0KCJjb21tb24ubG9hZGluZyIpfTwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgY29uc3QgaXNNaW5pbmcgPSBtaW5lci5lbmVyZ3kgPiAwOwogIGNvbnN0IG1pbmluZ0FjdGl2ZSA9IGlzTWluaW5nICYmIG1pbmVyLmVsYXBzZWRTZWNvbmRzID4gMDsKCiAgY29uc3QgaGFuZGxlTWluZSA9ICgpID0+IHsKICAgIGlmICghaXNDb25uZWN0ZWQgJiYgIWlzRGVtbykgewogICAgICBzaG93VG9hc3QodCgidG9hc3QuY29ubmVjdFRvTWluZSIpLCAid2FybmluZyIpOwogICAgICByZXR1cm47CiAgICB9CiAgICBpZiAobWluZXIubGV2ZWwgPT09IDApIHsKICAgICAgc3RhcnRNdXRhdGlvbi5tdXRhdGUoKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYgKGlzTWluaW5nKSB7CiAgICAgIGNsYWltTXV0YXRpb24ubXV0YXRlKCk7CiAgICB9IGVsc2UgewogICAgICBzaG93VG9hc3QodCgidG9hc3Qubm9FbmVyZ3lUb01pbmUiKSwgIndhcm5pbmciKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgey8qIE1pbmluZyBzdGF0dXMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdy0yIGgtMiByb3VuZGVkLWZ1bGwgJHttaW5pbmdBY3RpdmUgPyAiYmctWyMzOWZmMTRdIGFuaW1hdGUtcHVsc2UiIDogImJnLWdyYXktNjAwIn1gfSAvPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17YHRleHQtWzExcHhdIHRyYWNraW5nLXdpZGVzdCB1cHBlcmNhc2UgJHttaW5pbmdBY3RpdmUgPyAidGV4dC1bIzM5ZmYxNF0iIDogInRleHQtWyM4YjhiOWFdIn1gfT4KICAgICAgICAgIHttaW5pbmdBY3RpdmUgPyB0KCJob21lLm1pbmluZ0FjdGl2ZSIpIDogdCgiaG9tZS5zdGFuZGJ5Iil9CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBUaGUgcmlnICovfQogICAgICA8Q2hhc3Npc01pbmVyUmlnCiAgICAgICAgbGV2ZWw9e21pbmVyLmxldmVsfQogICAgICAgIGlzTWluaW5nPXttaW5lci5lbmVyZ3kgPiAwfQogICAgICAgIGlzT3ZlcmNsb2NrZWQ9e21pbmVyLmlzT3ZlcmNsb2NrZWR9CiAgICAgICAgaXNPdmVyaGVhdGVkPXttaW5lci50ZW1wZXJhdHVyZSA+PSAxMDB9CiAgICAgICAgc2l6ZT17MzAwfQogICAgICAvPgoKICAgICAgey8qIFN0YXRzIHN0cmlwICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGh1ZC1nbGFzcyByb3VuZGVkLXhsIHB5LTMgcHgtMSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBkaXZpZGUteCBkaXZpZGUtd2hpdGUvMTAgbXQtMiI+CiAgICAgICAgPE1ldHJpYyBpY29uPXs8WmFwIHNpemU9ezEzfSAvPn0gbGFiZWw9e3QoImhvbWUubXlIYXNocmF0ZSIpfSB2YWx1ZT17bWluZXIuaGFzaHJhdGV9IGNvbG9yPSIjYTg1NWY3IiAvPgogICAgICAgIDxNZXRyaWMgaWNvbj17PFphcCBzaXplPXsxM30gLz59IGxhYmVsPXt0KCJob21lLmVuZXJneSIpfSB2YWx1ZT17YCR7bWluZXIuZW5lcmd5fSVgfSBjb2xvcj0iI2ZmZDcwMCIgZGl2aWRlciAvPgogICAgICAgIDxNZXRyaWMgaWNvbj17PFRoZXJtb21ldGVyIHNpemU9ezEzfSAvPn0gbGFiZWw9e3QoImhvbWUudGVtcGVyYXR1cmUiKX0gdmFsdWU9e2Ake21pbmVyLnRlbXBlcmF0dXJlfcKwQ2B9IGNvbG9yPSIjZmY2NjAwIiBkaXZpZGVyIC8+CiAgICAgICAgPE1ldHJpYyBpY29uPXs8U2hpZWxkIHNpemU9ezEzfSAvPn0gbGFiZWw9e3QoImhvbWUuZHVyYWJpbGl0eSIpfSB2YWx1ZT17YCR7bWluZXIuZHVyYWJpbGl0eX0lYH0gY29sb3I9IiMwMGQ0ZmYiIGRpdmlkZXIgLz4KICAgICAgPC9kaXY+CgogICAgICB7LyogTWluZSBidXR0b24gKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiBteS0yIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imh1ZC1taW5lLXJpbmciIC8+CiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZU1pbmV9CiAgICAgICAgICAgIGRpc2FibGVkPXtjbGFpbU11dGF0aW9uLmlzUGVuZGluZyB8fCBzdGFydE11dGF0aW9uLmlzUGVuZGluZ30KICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LVsxMzBweF0gaC1bMTMwcHhdIHJvdW5kZWQtZnVsbCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMSB0cmFuc2l0aW9uLWFsbCByZWxhdGl2ZSIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAicmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCA1MCUgMzAlLCByZ2JhKDE2OCw4NSwyNDcsMC4zKSwgcmdiYSgxMSwxMSwxOCwwLjkpIDcwJSkiLAogICAgICAgICAgICAgIGJvcmRlcjogYDNweCBzb2xpZCAke21pbmluZ0FjdGl2ZSA/ICIjMzlmZjE0IiA6ICIjYTg1NWY3In1gLAogICAgICAgICAgICAgIGJveFNoYWRvdzogbWluaW5nQWN0aXZlCiAgICAgICAgICAgICAgICA/ICIwIDAgMzBweCByZ2JhKDU3LDI1NSwyMCwwLjQpLCAwIDAgNjBweCByZ2JhKDU3LDI1NSwyMCwwLjEpIgogICAgICAgICAgICAgICAgOiAiMCAwIDMwcHggcmdiYSgxNjgsODUsMjQ3LDAuNCksIDAgMCA2MHB4IHJnYmEoMTY4LDg1LDI0NywwLjEpIiwKICAgICAgICAgICAgICBhbmltYXRpb246IG1pbmluZ0FjdGl2ZSA/ICJodWQtcHVsc2UtZ2xvdyAycyBlYXNlLWluLW91dCBpbmZpbml0ZSIgOiAibm9uZSIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxHYXVnZSBzaXplPXsyOH0gY2xhc3NOYW1lPXttaW5pbmdBY3RpdmUgPyAidGV4dC1bIzM5ZmYxNF0iIDogInRleHQtWyNhODU1ZjddIn0gLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1leHRyYWJvbGQgdHJhY2tpbmctd2lkZXN0IHRleHQtWzE0cHhdIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgIHttaW5pbmdBY3RpdmUgPyB0KCJob21lLm1pbmluZyIpIDogdCgiaG9tZS5taW5lIil9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdGV4dC1bIzVhNWE2YV0iPnt0KCJob21lLm1pbmVIaW50Iil9PC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+"use client";
+
+import { useMiner, useClaimMining, useStartMining } from "@/hooks/useMiner";
+import { useDemoMode } from "@/hooks/useDemoMode";
+import { useWallet } from "@/lib/web3";
+import { useToast } from "@/components/ui/Toast";
+import { useT } from "@/i18n";
+import { ChassisMinerRig } from "@/components/pixel/ChassisMinerRig";
+import { Zap, Thermometer, Shield, Gauge } from "lucide-react";
+import { Metric } from "./Metric";
+
+export function CenterMiner() {
+  const { data: miner, isLoading } = useMiner();
+  const { isDemo } = useDemoMode();
+  const { isConnected } = useWallet();
+  const { showToast } = useToast();
+  const claimMutation = useClaimMining();
+  const startMutation = useStartMining();
+  const t = useT();
+
+  if (isLoading || !miner) {
+    return (
+      <div className="flex items-center justify-center h-[400px]">
+        <span className="num text-sm text-[#a855f7] animate-pulse">{t("common.loading")}</span>
+      </div>
+    );
+  }
+
+  const isMining = miner.energy > 0;
+  const miningActive = isMining && miner.elapsedSeconds > 0;
+
+  const handleMine = () => {
+    if (!isConnected && !isDemo) {
+      showToast(t("toast.connectToMine"), "warning");
+      return;
+    }
+    if (miner.level === 0) {
+      startMutation.mutate();
+      return;
+    }
+    if (isMining) {
+      claimMutation.mutate();
+    } else {
+      showToast(t("toast.noEnergyToMine"), "warning");
+    }
+  };
+
+  return (
+    <div className="flex flex-col items-center gap-4">
+      {/* Mining status */}
+      <div className="flex items-center gap-2">
+        <span className={`w-2 h-2 rounded-full ${miningActive ? "bg-[#39ff14] animate-pulse" : "bg-gray-600"}`} />
+        <span className={`text-[11px] tracking-widest uppercase ${miningActive ? "text-[#39ff14]" : "text-[#8b8b9a]"}`}>
+          {miningActive ? t("home.miningActive") : t("home.standby")}
+        </span>
+      </div>
+
+      {/* The rig */}
+      <ChassisMinerRig
+        level={miner.level}
+        isMining={miner.energy > 0}
+        isOverclocked={miner.isOverclocked}
+        isOverheated={miner.temperature >= 100}
+        size={300}
+      />
+
+      {/* Stats strip */}
+      <div className="w-full hud-glass rounded-xl py-3 px-1 flex items-center justify-center divide-x divide-white/10 mt-2">
+        <Metric icon={<Zap size={13} />} label={t("home.myHashrate")} value={miner.hashrate} color="#a855f7" />
+        <Metric icon={<Zap size={13} />} label={t("home.energy")} value={`${miner.energy}%`} color="#ffd700" divider />
+        <Metric icon={<Thermometer size={13} />} label={t("home.temperature")} value={`${miner.temperature}°C`} color="#ff6600" divider />
+        <Metric icon={<Shield size={13} />} label={t("home.durability")} value={`${miner.durability}%`} color="#00d4ff" divider />
+      </div>
+
+      {/* Mine button */}
+      <div className="flex flex-col items-center gap-2 my-2">
+        <div className="relative">
+          <div className="hud-mine-ring" />
+          <button
+            onClick={handleMine}
+            disabled={claimMutation.isPending || startMutation.isPending}
+            className="w-[130px] h-[130px] rounded-full flex flex-col items-center justify-center gap-1 transition-all relative"
+            style={{
+              background: "radial-gradient(circle at 50% 30%, rgba(168,85,247,0.3), rgba(11,11,18,0.9) 70%)",
+              border: `3px solid ${miningActive ? "#39ff14" : "#a855f7"}`,
+              boxShadow: miningActive
+                ? "0 0 30px rgba(57,255,20,0.4), 0 0 60px rgba(57,255,20,0.1)"
+                : "0 0 30px rgba(168,85,247,0.4), 0 0 60px rgba(168,85,247,0.1)",
+              animation: miningActive ? "hud-pulse-glow 2s ease-in-out infinite" : "none",
+            }}
+          >
+            <Gauge size={28} className={miningActive ? "text-[#39ff14]" : "text-[#a855f7]"} />
+            <span className="font-display font-extrabold tracking-widest text-[14px] text-white">
+              {miningActive ? t("home.mining") : t("home.mine")}
+            </span>
+          </button>
+        </div>
+        <p className="text-[10px] text-[#5a5a6a]">{t("home.mineHint")}</p>
+      </div>
+    </div>
+  );
+}
