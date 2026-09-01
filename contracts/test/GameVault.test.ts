@@ -1,1 +1,91 @@
-aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IGV0aGVycyB9IGZyb20gImhhcmRoYXQiOwppbXBvcnQgeyBTaWduZXJXaXRoQWRkcmVzcyB9IGZyb20gIkBub21pY2ZvdW5kYXRpb24vaGFyZGhhdC1ldGhlcnMvc2lnbmVycyI7CgpkZXNjcmliZSgiR2FtZVZhdWx0IiwgZnVuY3Rpb24gKCkgewogIGxldCBnYW1lVmF1bHQ6IGFueTsKICBsZXQgbW9ja1Rva2VuOiBhbnk7CiAgbGV0IG93bmVyOiBTaWduZXJXaXRoQWRkcmVzczsKICBsZXQgYmFja2VuZFNpZ25lcjogU2lnbmVyV2l0aEFkZHJlc3M7CiAgbGV0IHVzZXIxOiBTaWduZXJXaXRoQWRkcmVzczsKICBsZXQgdXNlcjI6IFNpZ25lcldpdGhBZGRyZXNzOwoKICBjb25zdCBJTklUSUFMX1NVUFBMWSA9IGV0aGVycy5wYXJzZUV0aGVyKCIxMDAwMDAwMDAwIik7CiAgY29uc3QgREVQT1NJVF9BTU9VTlQgPSBldGhlcnMucGFyc2VFdGhlcigiMTAwMCIpOwogIGNvbnN0IFdJVEhEUkFXQUxfQ09PTERPV04gPSAyNCAqIDYwICogNjA7CgogIGJlZm9yZUVhY2goYXN5bmMgZnVuY3Rpb24gKCkgewogICAgW293bmVyLCBiYWNrZW5kU2lnbmVyLCB1c2VyMSwgdXNlcjJdID0gYXdhaXQgZXRoZXJzLmdldFNpZ25lcnMoKTsKCiAgICBjb25zdCBNb2NrRVJDMjAgPSBhd2FpdCBldGhlcnMuZ2V0Q29udHJhY3RGYWN0b3J5KCJNb2NrRVJDMjAiKTsKICAgIG1vY2tUb2tlbiA9IGF3YWl0IE1vY2tFUkMyMC5kZXBsb3koIk1vY2sgTUlORVIiLCAiTUlORVIiLCBJTklUSUFMX1NVUFBMWSk7CgogICAgY29uc3QgR2FtZVZhdWx0ID0gYXdhaXQgZXRoZXJzLmdldENvbnRyYWN0RmFjdG9yeSgiR2FtZVZhdWx0Iik7CiAgICBnYW1lVmF1bHQgPSBhd2FpdCBHYW1lVmF1bHQuZGVwbG95KAogICAgICBhd2FpdCBtb2NrVG9rZW4uZ2V0QWRkcmVzcygpLAogICAgICBiYWNrZW5kU2lnbmVyLmFkZHJlc3MsCiAgICAgIFdJVEhEUkFXQUxfQ09PTERPV04KICAgICk7CgogICAgYXdhaXQgbW9ja1Rva2VuLnRyYW5zZmVyKHVzZXIxLmFkZHJlc3MsIGV0aGVycy5wYXJzZUV0aGVyKCIxMDAwMDAiKSk7CiAgICBhd2FpdCBtb2NrVG9rZW4udHJhbnNmZXIodXNlcjIuYWRkcmVzcywgZXRoZXJzLnBhcnNlRXRoZXIoIjEwMDAwMCIpKTsKICB9KTsKCiAgZGVzY3JpYmUoIkRlcG9zaXQiLCBmdW5jdGlvbiAoKSB7CiAgICBpdCgic2hvdWxkIGFjY2VwdCBkZXBvc2l0cyIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgYXdhaXQgbW9ja1Rva2VuLmNvbm5lY3QodXNlcjEpLmFwcHJvdmUoYXdhaXQgZ2FtZVZhdWx0LmdldEFkZHJlc3MoKSwgREVQT1NJVF9BTU9VTlQpOwogICAgICBhd2FpdCBnYW1lVmF1bHQuY29ubmVjdCh1c2VyMSkuZGVwb3NpdChERVBPU0lUX0FNT1VOVCk7CgogICAgICBleHBlY3QoYXdhaXQgZ2FtZVZhdWx0LmdldFVzZXJEZXBvc2l0KHVzZXIxLmFkZHJlc3MpKS50by5lcXVhbChERVBPU0lUX0FNT1VOVCk7CiAgICAgIGV4cGVjdChhd2FpdCBnYW1lVmF1bHQudG90YWxEZXBvc2l0ZWQodXNlcjEuYWRkcmVzcykpLnRvLmVxdWFsKERFUE9TSVRfQU1PVU5UKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgcmVqZWN0IHplcm8gZGVwb3NpdHMiLCBhc3luYyBmdW5jdGlvbiAoKSB7CiAgICAgIGF3YWl0IGV4cGVjdChnYW1lVmF1bHQuY29ubmVjdCh1c2VyMSkuZGVwb3NpdCgwKSkudG8uYmUucmV2ZXJ0ZWRXaXRoKCJHYW1lVmF1bHQ6IHplcm8gYW1vdW50Iik7CiAgICB9KTsKICB9KTsKCiAgZGVzY3JpYmUoIldpdGhkcmF3YWwgUmVxdWVzdCIsIGZ1bmN0aW9uICgpIHsKICAgIGJlZm9yZUVhY2goYXN5bmMgZnVuY3Rpb24gKCkgewogICAgICBhd2FpdCBtb2NrVG9rZW4uY29ubmVjdCh1c2VyMSkuYXBwcm92ZShhd2FpdCBnYW1lVmF1bHQuZ2V0QWRkcmVzcygpLCBERVBPU0lUX0FNT1VOVCk7CiAgICAgIGF3YWl0IGdhbWVWYXVsdC5jb25uZWN0KHVzZXIxKS5kZXBvc2l0KERFUE9TSVRfQU1PVU5UKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgY3JlYXRlIHdpdGhkcmF3YWwgcmVxdWVzdCIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgYXdhaXQgZXhwZWN0KGdhbWVWYXVsdC5jb25uZWN0KHVzZXIxKS5yZXF1ZXN0V2l0aGRyYXdhbChERVBPU0lUX0FNT1VOVCkpCiAgICAgICAgLnRvLmVtaXQoZ2FtZVZhdWx0LCAiV2l0aGRyYXdhbFJlcXVlc3RlZCIpOwogICAgfSk7CgogICAgaXQoInNob3VsZCByZWplY3QgaWYgaW5zdWZmaWNpZW50IGRlcG9zaXQiLCBhc3luYyBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IHRvb011Y2ggPSBERVBPU0lUX0FNT1VOVCArIGV0aGVycy5wYXJzZUV0aGVyKCIxIik7CiAgICAgIGF3YWl0IGV4cGVjdChnYW1lVmF1bHQuY29ubmVjdCh1c2VyMSkucmVxdWVzdFdpdGhkcmF3YWwodG9vTXVjaCkpCiAgICAgICAgLnRvLmJlLnJldmVydGVkV2l0aCgiR2FtZVZhdWx0OiBpbnN1ZmZpY2llbnQgZGVwb3NpdCIpOwogICAgfSk7CiAgfSk7CgogIGRlc2NyaWJlKCJCYWNrZW5kIFNpZ25lciIsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCJzaG91bGQgYWxsb3cgb3duZXIgdG8gdXBkYXRlIGJhY2tlbmQgc2lnbmVyIiwgYXN5bmMgZnVuY3Rpb24gKCkgewogICAgICBhd2FpdCBnYW1lVmF1bHQuc2V0QmFja2VuZFNpZ25lcih1c2VyMi5hZGRyZXNzKTsKICAgICAgZXhwZWN0KGF3YWl0IGdhbWVWYXVsdC5iYWNrZW5kU2lnbmVyKCkpLnRvLmVxdWFsKHVzZXIyLmFkZHJlc3MpOwogICAgfSk7CgogICAgaXQoInNob3VsZCByZWplY3Qgbm9uLW93bmVyIHVwZGF0aW5nIHNpZ25lciIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgYXdhaXQgZXhwZWN0KGdhbWVWYXVsdC5jb25uZWN0KHVzZXIxKS5zZXRCYWNrZW5kU2lnbmVyKHVzZXIyLmFkZHJlc3MpKQogICAgICAgIC50by5iZS5yZXZlcnRlZFdpdGgoIk93bmFibGU6IGNhbGxlciBpcyBub3QgdGhlIG93bmVyIik7CiAgICB9KTsKICB9KTsKCiAgZGVzY3JpYmUoIlBhdXNlIiwgZnVuY3Rpb24gKCkgewogICAgaXQoInNob3VsZCBhbGxvdyBvd25lciB0byBwYXVzZSIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgYXdhaXQgZ2FtZVZhdWx0LnBhdXNlKCk7CiAgICAgIGV4cGVjdChhd2FpdCBnYW1lVmF1bHQucGF1c2VkKCkpLnRvLmJlLnRydWU7CiAgICB9KTsKCiAgICBpdCgic2hvdWxkIHJlamVjdCBkZXBvc2l0cyB3aGVuIHBhdXNlZCIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgYXdhaXQgZ2FtZVZhdWx0LnBhdXNlKCk7CiAgICAgIGF3YWl0IG1vY2tUb2tlbi5jb25uZWN0KHVzZXIxKS5hcHByb3ZlKGF3YWl0IGdhbWVWYXVsdC5nZXRBZGRyZXNzKCksIERFUE9TSVRfQU1PVU5UKTsKICAgICAgYXdhaXQgZXhwZWN0KGdhbWVWYXVsdC5jb25uZWN0KHVzZXIxKS5kZXBvc2l0KERFUE9TSVRfQU1PVU5UKSkKICAgICAgICAudG8uYmUucmV2ZXJ0ZWRXaXRoKCJQYXVzYWJsZTogcGF1c2VkIik7CiAgICB9KTsKICB9KTsKfSk7Cg==
+import { expect } from "chai";
+import { ethers } from "hardhat";
+import { SignerWithAddress } from "@nomicfoundation/hardhat-ethers/signers";
+
+describe("GameVault", function () {
+  let gameVault: any;
+  let mockToken: any;
+  let owner: SignerWithAddress;
+  let backendSigner: SignerWithAddress;
+  let user1: SignerWithAddress;
+  let user2: SignerWithAddress;
+
+  const INITIAL_SUPPLY = ethers.parseEther("1000000000");
+  const DEPOSIT_AMOUNT = ethers.parseEther("1000");
+  const WITHDRAWAL_COOLDOWN = 24 * 60 * 60;
+
+  beforeEach(async function () {
+    [owner, backendSigner, user1, user2] = await ethers.getSigners();
+
+    const MockERC20 = await ethers.getContractFactory("MockERC20");
+    mockToken = await MockERC20.deploy("Mock MINER", "MINER", INITIAL_SUPPLY);
+
+    const GameVault = await ethers.getContractFactory("GameVault");
+    gameVault = await GameVault.deploy(
+      await mockToken.getAddress(),
+      backendSigner.address,
+      WITHDRAWAL_COOLDOWN
+    );
+
+    await mockToken.transfer(user1.address, ethers.parseEther("100000"));
+    await mockToken.transfer(user2.address, ethers.parseEther("100000"));
+  });
+
+  describe("Deposit", function () {
+    it("should accept deposits", async function () {
+      await mockToken.connect(user1).approve(await gameVault.getAddress(), DEPOSIT_AMOUNT);
+      await gameVault.connect(user1).deposit(DEPOSIT_AMOUNT);
+
+      expect(await gameVault.getUserDeposit(user1.address)).to.equal(DEPOSIT_AMOUNT);
+      expect(await gameVault.totalDeposited(user1.address)).to.equal(DEPOSIT_AMOUNT);
+    });
+
+    it("should reject zero deposits", async function () {
+      await expect(gameVault.connect(user1).deposit(0)).to.be.revertedWith("GameVault: zero amount");
+    });
+  });
+
+  describe("Withdrawal Request", function () {
+    beforeEach(async function () {
+      await mockToken.connect(user1).approve(await gameVault.getAddress(), DEPOSIT_AMOUNT);
+      await gameVault.connect(user1).deposit(DEPOSIT_AMOUNT);
+    });
+
+    it("should create withdrawal request", async function () {
+      await expect(gameVault.connect(user1).requestWithdrawal(DEPOSIT_AMOUNT))
+        .to.emit(gameVault, "WithdrawalRequested");
+    });
+
+    it("should reject if insufficient deposit", async function () {
+      const tooMuch = DEPOSIT_AMOUNT + ethers.parseEther("1");
+      await expect(gameVault.connect(user1).requestWithdrawal(tooMuch))
+        .to.be.revertedWith("GameVault: insufficient deposit");
+    });
+  });
+
+  describe("Backend Signer", function () {
+    it("should allow owner to update backend signer", async function () {
+      await gameVault.setBackendSigner(user2.address);
+      expect(await gameVault.backendSigner()).to.equal(user2.address);
+    });
+
+    it("should reject non-owner updating signer", async function () {
+      await expect(gameVault.connect(user1).setBackendSigner(user2.address))
+        .to.be.revertedWith("Ownable: caller is not the owner");
+    });
+  });
+
+  describe("Pause", function () {
+    it("should allow owner to pause", async function () {
+      await gameVault.pause();
+      expect(await gameVault.paused()).to.be.true;
+    });
+
+    it("should reject deposits when paused", async function () {
+      await gameVault.pause();
+      await mockToken.connect(user1).approve(await gameVault.getAddress(), DEPOSIT_AMOUNT);
+      await expect(gameVault.connect(user1).deposit(DEPOSIT_AMOUNT))
+        .to.be.revertedWith("Pausable: paused");
+    });
+  });
+});
