@@ -1,1 +1,217 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlTWluZXIsIHVzZVNsb3RzLCB1c2VTdGFydE1pbmluZywgdXNlQ2xhaW1NaW5pbmcsIHVzZU92ZXJjbG9jaywgdXNlUmVwYWlyLCB1c2VFbmVyZ3lDbGFpbSB9IGZyb20gIkAvaG9va3MvdXNlTWluZXIiOwppbXBvcnQgeyB1c2VEZW1vTW9kZSB9IGZyb20gIkAvaG9va3MvdXNlRGVtb01vZGUiOwppbXBvcnQgeyB1c2VUb2FzdCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9Ub2FzdCI7CmltcG9ydCB7IEdhbWVMYXlvdXQgfSBmcm9tICJAL2NvbXBvbmVudHMvbGF5b3V0L0dhbWVMYXlvdXQiOwppbXBvcnQgeyBDaGFzc2lzTWluZXJSaWcgfSBmcm9tICJAL2NvbXBvbmVudHMvcGl4ZWwvQ2hhc3Npc01pbmVyUmlnIjsKaW1wb3J0IHsgSHVkQ2FyZCwgSHVkQmFyLCBIdWRCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvSHVkIjsKaW1wb3J0IHsgdXNlVCB9IGZyb20gIkAvaTE4biI7CmltcG9ydCB7IFphcCwgVGhlcm1vbWV0ZXIsIFNoaWVsZCwgQ2xvY2ssIEZsYW1lLCBTZXR0aW5ncywgR2F1Z2UsIEFjdGl2aXR5IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE1pbmVQYWdlKCkgewogIGNvbnN0IHsgZGF0YTogbWluZXIsIGlzTG9hZGluZyB9ID0gdXNlTWluZXIoKTsKICBjb25zdCB7IGRhdGE6IHNsb3RzIH0gPSB1c2VTbG90cygpOwogIGNvbnN0IHsgaXNEZW1vIH0gPSB1c2VEZW1vTW9kZSgpOwogIGNvbnN0IHsgc2hvd1RvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IGNsYWltTXV0YXRpb24gPSB1c2VDbGFpbU1pbmluZygpOwogIGNvbnN0IHN0YXJ0TXV0YXRpb24gPSB1c2VTdGFydE1pbmluZygpOwogIGNvbnN0IG92ZXJjbG9ja011dGF0aW9uID0gdXNlT3ZlcmNsb2NrKCk7CiAgY29uc3QgcmVwYWlyTXV0YXRpb24gPSB1c2VSZXBhaXIoKTsKICBjb25zdCBlbmVyZ3lDbGFpbSA9IHVzZUVuZXJneUNsYWltKCk7CiAgY29uc3QgdCA9IHVzZVQoKTsKCiAgY29uc3QgZGVtb0FjdGlvbiA9IChhY3Rpb246IHN0cmluZykgPT4gewogICAgc2hvd1RvYXN0KHQoInRvYXN0LmNvbm5lY3RUb1VzZSIsIHsgYWN0aW9uIH0pLCAid2FybmluZyIpOwogIH07CgogIGlmIChpc0xvYWRpbmcpIHsKICAgIHJldHVybiAoCiAgICAgIDxHYW1lTGF5b3V0PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBoLTY0Ij4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtc20gdGV4dC1bI2E4NTVmN10gYW5pbWF0ZS1wdWxzZSI+e3QoIm1pbmUubG9hZGluZyIpfTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9HYW1lTGF5b3V0PgogICAgKTsKICB9CgogIGlmICghbWluZXIpIHsKICAgIHJldHVybiAoCiAgICAgIDxHYW1lTGF5b3V0PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBoLTY0IGZsZXgtY29sIGdhcC0zIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibnVtIHRleHQtc20gdGV4dC1bI2E4NTVmN10gYW5pbWF0ZS1wdWxzZSI+e3QoIm1pbmUubG9hZGluZyIpfTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTFweF0gdGV4dC1bIzhiOGI5YV0iPnt0KCJ0b2FzdC5jb25uZWN0VG9Vc2UiLCB7IGFjdGlvbjogdCgibmF2Lm1pbmUiKSB9KX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvR2FtZUxheW91dD4KICAgICk7CiAgfQoKICBjb25zdCBwZW5kaW5nUmV3YXJkID0gQmlnSW50KG1pbmVyLnBlbmRpbmdSZXdhcmQgfHwgIjAiKTsKICBjb25zdCBjYW5DbGFpbSA9IHBlbmRpbmdSZXdhcmQgPiBCaWdJbnQoMCk7CiAgY29uc3QgbWluaW5nQWN0aXZlID0gbWluZXIuZW5lcmd5ID4gMCAmJiBtaW5lci5lbGFwc2VkU2Vjb25kcyA+IDA7CiAgY29uc3QgaXNPdmVyaGVhdGVkID0gbWluZXIudGVtcGVyYXR1cmUgPj0gMTAwOwoKICAvLyBSaWcvYm9vc3QgaW5mbyBjb21lcyBmcm9tIHNsb3RzWzBdICh0aGUgbWFpbiBtaW5lciBzbG90KS4KICBjb25zdCBzbG90MCA9IHNsb3RzPy5zbG90cz8uWzBdOwogIGNvbnN0IGVxdWlwcGVkUmlnID0gTnVtYmVyKHNsb3QwPy5yaWdJbmRleCA/PyAwKTsKICBjb25zdCByaWdJbmZvID0gZXF1aXBwZWRSaWcgPiAwID8gc2xvdHM/LnNob3A/LnJpZ3M/LltlcXVpcHBlZFJpZyAtIDFdIDogdW5kZWZpbmVkOwogIGNvbnN0IGJvb3N0QWN0aXZlID0gQm9vbGVhbihzbG90MD8uYm9vc3RBY3RpdmUpOwoKICByZXR1cm4gKAogICAgPEdhbWVMYXlvdXQ+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgIHsvKiBIZXJvOiBzdGF0dXMgKyByaWcgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Imh1ZC1jYXJkIHAtNiBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItNCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17YHctMiBoLTIgcm91bmRlZC1mdWxsICR7bWluaW5nQWN0aXZlID8gImJnLVsjMzlmZjE0XSBhbmltYXRlLXB1bHNlIiA6ICJiZy1ncmF5LTYwMCJ9YH0gLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC1bMTFweF0gdHJhY2tpbmctd2lkZXN0IHVwcGVyY2FzZSAke21pbmluZ0FjdGl2ZSA/ICJ0ZXh0LVsjMzlmZjE0XSIgOiAidGV4dC1bIzhiOGI5YV0ifWB9PgogICAgICAgICAgICAgIHttaW5pbmdBY3RpdmUgPyB0KCJtaW5lLnN0YXR1c01pbmluZyIpIDogdCgibWluZS5zdGF0dXNTdGFuZGJ5Iil9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAge21pbmVyLmlzT3ZlcmNsb2NrZWQgJiYgKAogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdXBwZXJjYXNlIHRleHQtWyNmZjAwNDBdIGJvcmRlciBib3JkZXItWyNmZjAwNDBdLzQwIGJnLVsjZmYwMDQwXS8xMCByb3VuZGVkIHB4LTIgcHktMC41IGFuaW1hdGUtcHVsc2UgbWwtMiI+CiAgICAgICAgICAgICAgICB7dCgibWluZS5vdmVyY2xvY2tlZCIpfQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgKX0KICAgICAgICAgICAge2lzT3ZlcmhlYXRlZCAmJiAoCiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB1cHBlcmNhc2UgdGV4dC1bI2ZmNjYwMF0gYm9yZGVyIGJvcmRlci1bI2ZmNjYwMF0vNDAgYmctWyNmZjY2MDBdLzEwIHJvdW5kZWQgcHgtMiBweS0wLjUgYW5pbWF0ZS1wdWxzZSBtbC0yIj4KICAgICAgICAgICAgICAgIHt0KCJtaW5lLm92ZXJoZWF0ZWQiKX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICl9CiAgICAgICAgICAgIHtyaWdJbmZvICYmICgKICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEwcHhdIHVwcGVyY2FzZSB0ZXh0LVsjZmZkNzAwXSBib3JkZXIgYm9yZGVyLVsjZmZkNzAwXS80MCBiZy1bI2ZmZDcwMF0vMTAgcm91bmRlZCBweC0yIHB5LTAuNSBtbC0yIj4KICAgICAgICAgICAgICAgIHt0KCJtaW5lLnJpZ0VxdWlwcGVkIiwgeyByaWc6IHJpZ0luZm8ubmFtZSwgYm9udXM6IE51bWJlcihyaWdJbmZvLmJvbnVzUmF3IC8gMWU2KSB9KX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICl9CiAgICAgICAgICAgIHtib29zdEFjdGl2ZSAmJiAoCiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB1cHBlcmNhc2UgdGV4dC1bI2ZmMDA0MF0gYm9yZGVyIGJvcmRlci1bI2ZmMDA0MF0vNDAgYmctWyNmZjAwNDBdLzEwIHJvdW5kZWQgcHgtMiBweS0wLjUgYW5pbWF0ZS1wdWxzZSBtbC0yIj4KICAgICAgICAgICAgICAgIHt0KCJtaW5lLmJvb3N0Iil9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICApfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPENoYXNzaXNNaW5lclJpZwogICAgICAgICAgICBsZXZlbD17bWluZXIubGV2ZWx9CiAgICAgICAgICAgIGlzTWluaW5nPXttaW5lci5lbmVyZ3kgPiAwfQogICAgICAgICAgICBpc092ZXJjbG9ja2VkPXttaW5lci5pc092ZXJjbG9ja2VkfQogICAgICAgICAgICBpc092ZXJoZWF0ZWQ9e2lzT3ZlcmhlYXRlZH0KICAgICAgICAgICAgc2l6ZT17MjgwfQogICAgICAgICAgLz4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbXQtNSI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LWJvbGQgdGV4dC1bMjJweF0gdGV4dC13aGl0ZSI+e3QoIm1pbmUuZ3B1TWluZXIiLCB7IGxldmVsOiBtaW5lci5sZXZlbCB9KX08L2gyPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9Im51bSB0ZXh0LVsyNnB4XSBmb250LXNlbWlib2xkIHRleHQtWyNhODU1ZjddIG10LTEiIHN0eWxlPXt7IHRleHRTaGFkb3c6ICIwIDAgMjBweCByZ2JhKDE2OCw4NSwyNDcsMC41KSIgfX0+CiAgICAgICAgICAgICAge21pbmVyLmhhc2hyYXRlfQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogQ2lyY3VsYXIgbWluZSBidXR0b24gKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIgZ2FwLTIgbXQtNiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imh1ZC1taW5lLXJpbmciIC8+CiAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaXNEZW1vID8gZGVtb0FjdGlvbih0KCJtaW5lLm1pbmUiKSkgOiAobWluZXIubGV2ZWwgPT09IDAgPyBzdGFydE11dGF0aW9uLm11dGF0ZSgpIDogY2xhaW1NdXRhdGlvbi5tdXRhdGUoKSl9CiAgICAgICAgICAgICAgICBkaXNhYmxlZD17Y2xhaW1NdXRhdGlvbi5pc1BlbmRpbmcgfHwgc3RhcnRNdXRhdGlvbi5pc1BlbmRpbmd9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctWzEzMHB4XSBoLVsxMzBweF0gcm91bmRlZC1mdWxsIGZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0xIHRyYW5zaXRpb24tYWxsIHJlbGF0aXZlIgogICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInJhZGlhbC1ncmFkaWVudChjaXJjbGUgYXQgNTAlIDMwJSwgcmdiYSgxNjgsODUsMjQ3LDAuMyksIHJnYmEoMTEsMTEsMTgsMC45KSA3MCUpIiwKICAgICAgICAgICAgICAgICAgYm9yZGVyOiBgM3B4IHNvbGlkICR7bWluaW5nQWN0aXZlID8gIiMzOWZmMTQiIDogIiNhODU1ZjcifWAsCiAgICAgICAgICAgICAgICAgIGJveFNoYWRvdzogbWluaW5nQWN0aXZlCiAgICAgICAgICAgICAgICAgICAgPyAiMCAwIDMwcHggcmdiYSg1NywyNTUsMjAsMC40KSwgMCAwIDYwcHggcmdiYSg1NywyNTUsMjAsMC4xKSIKICAgICAgICAgICAgICAgICAgICA6ICIwIDAgMzBweCByZ2JhKDE2OCw4NSwyNDcsMC40KSwgMCAwIDYwcHggcmdiYSgxNjgsODUsMjQ3LDAuMSkiLAogICAgICAgICAgICAgICAgICBhbmltYXRpb246IG1pbmluZ0FjdGl2ZSA/ICJodWQtcHVsc2UtZ2xvdyAycyBlYXNlLWluLW91dCBpbmZpbml0ZSIgOiAibm9uZSIsCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxHYXVnZSBzaXplPXsyNn0gY2xhc3NOYW1lPXttaW5pbmdBY3RpdmUgPyAidGV4dC1bIzM5ZmYxNF0iIDogInRleHQtWyNhODU1ZjddIn0gLz4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtZXh0cmFib2xkIHRyYWNraW5nLXdpZGVzdCB0ZXh0LVsxM3B4XSB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAge2NsYWltTXV0YXRpb24uaXNQZW5kaW5nIHx8IHN0YXJ0TXV0YXRpb24uaXNQZW5kaW5nID8gIi4uLiIgOiAobWluZXIubGV2ZWwgPT09IDAgPyB0KCJtaW5lLnN0YXJ0IikgOiB0KCJtaW5lLm1pbmUiKSl9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRleHQtWyM1YTVhNmFdIj57bWluaW5nQWN0aXZlID8gdCgibWluZS50YXBDbGFpbSIpIDogdCgibWluZS50YXBNaW5lIil9PC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBQZW5kaW5nIHJld2FyZCAqL30KICAgICAgICB7Y2FuQ2xhaW0gJiYgKAogICAgICAgICAgPEh1ZENhcmQgYWNjZW50PSIjZmZkNzAwIiBjbGFzc05hbWU9InAtNSB0ZXh0LWNlbnRlciIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJyZ2JhKDI1NSwyMTUsMCwwLjQpIiB9fT4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXN0IHRleHQtWyM4YjhiOWFdIG1iLTEiPnt0KCJtaW5lLnBlbmRpbmdSZXdhcmQiKX08L3A+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibnVtIHRleHQtWzI0cHhdIGZvbnQtc2VtaWJvbGQgdGV4dC1bI2ZmZDcwMF0gbWItMyI+eyhOdW1iZXIocGVuZGluZ1Jld2FyZCkgLyAxZTE4KS50b0xvY2FsZVN0cmluZygpfSAkSEFTSDwvcD4KICAgICAgICAgICAgPEh1ZEJ1dHRvbiBjb2xvcj0iZ29sZCIgYmxvY2sgb25DbGljaz17KCkgPT4gaXNEZW1vID8gZGVtb0FjdGlvbih0KCJtaW5lLmNsYWltUmV3YXJkIikpIDogY2xhaW1NdXRhdGlvbi5tdXRhdGUoKX0+CiAgICAgICAgICAgICAgPFphcCBzaXplPXsxNX0gLz4ge3QoIm1pbmUuY2xhaW1SZXdhcmQiKX0KICAgICAgICAgICAgPC9IdWRCdXR0b24+CiAgICAgICAgICA8L0h1ZENhcmQ+CiAgICAgICAgKX0KCiAgICAgICAgey8qIFN0YXRzIGdyaWQgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgZ2FwLTMiPgogICAgICAgICAgPEh1ZENhcmQgY2xhc3NOYW1lPSJwLTQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItMyI+PFphcCBzaXplPXsxNH0gY2xhc3NOYW1lPSJ0ZXh0LVsjZmZkNzAwXSIgLz48c3BhbiBjbGFzc05hbWU9InRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e3QoIm1pbmUuZW5lcmd5Iil9PC9zcGFuPjwvZGl2PgogICAgICAgICAgICA8SHVkQmFyIHZhbHVlPXttaW5lci5lbmVyZ3l9IG1heD17bWluZXIuZW5lcmd5Q2FwYWNpdHl9IGNvbG9yPSIjZmZkNzAwIiBsYWJlbD17dCgibWluZS5jYXBhY2l0eSIpfSBkaXNwbGF5PXtgJHttaW5lci5lbmVyZ3l9JWB9IC8+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdGV4dC1bIzVhNWE2YV0gbXQtMiI+e3QoIm1pbmUuZWZmaWNpZW5jeSIsIHsgdmFsdWU6IG1pbmVyLmVuZXJneUVmZmljaWVuY3kgfSl9PC9wPgogICAgICAgICAgPC9IdWRDYXJkPgoKICAgICAgICAgIDxIdWRDYXJkIGNsYXNzTmFtZT0icC00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTMiPjxUaGVybW9tZXRlciBzaXplPXsxNH0gY2xhc3NOYW1lPSJ0ZXh0LVsjZmY2NjAwXSIgLz48c3BhbiBjbGFzc05hbWU9InRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e3QoIm1pbmUudGVtcGVyYXR1cmUiKX08L3NwYW4+PC9kaXY+CiAgICAgICAgICAgIDxIdWRCYXIgdmFsdWU9e21pbmVyLnRlbXBlcmF0dXJlfSBtYXg9ezEwMH0gY29sb3I9e21pbmVyLnRlbXBlcmF0dXJlID4gODAgPyAiI2ZmMDA0MCIgOiBtaW5lci50ZW1wZXJhdHVyZSA+IDYwID8gIiNmZjY2MDAiIDogIiMwMGQ0ZmYifSBsYWJlbD17dCgibWluZS50ZW1wIil9IGRpc3BsYXk9e2Ake21pbmVyLnRlbXBlcmF0dXJlfcKwQ2B9IC8+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdGV4dC1bIzVhNWE2YV0gbXQtMiI+e3QoIm1pbmUuZWZmaWNpZW5jeSIsIHsgdmFsdWU6IG1pbmVyLnRlbXBlcmF0dXJlRWZmaWNpZW5jeSB9KX08L3A+CiAgICAgICAgICA8L0h1ZENhcmQ+CgogICAgICAgICAgPEh1ZENhcmQgY2xhc3NOYW1lPSJwLTQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItMyI+PFNoaWVsZCBzaXplPXsxNH0gY2xhc3NOYW1lPSJ0ZXh0LVsjMDBkNGZmXSIgLz48c3BhbiBjbGFzc05hbWU9InRleHQtWzExcHhdIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e3QoIm1pbmUuZHVyYWJpbGl0eSIpfTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgPEh1ZEJhciB2YWx1ZT17bWluZXIuZHVyYWJpbGl0eX0gbWF4PXsxMDB9IGNvbG9yPXttaW5lci5kdXJhYmlsaXR5IDwgMzAgPyAiI2ZmMDA0MCIgOiBtaW5lci5kdXJhYmlsaXR5IDwgNjAgPyAiI2ZmNjYwMCIgOiAiIzAwZDRmZiJ9IGxhYmVsPXt0KCJtaW5lLmR1cmFiaWxpdHkiKX0gZGlzcGxheT17YCR7bWluZXIuZHVyYWJpbGl0eX0lYH0gLz4KICAgICAgICAgIDwvSHVkQ2FyZD4KCiAgICAgICAgICA8SHVkQ2FyZCBjbGFzc05hbWU9InAtNCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0zIj48Q2xvY2sgc2l6ZT17MTR9IGNsYXNzTmFtZT0idGV4dC1bI2E4NTVmN10iIC8+PHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPnt0KCJtaW5lLm1pbmluZ1RpbWUiKX08L3NwYW4+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC0xIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im51bSB0ZXh0LVsyMHB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAge21pbmVyLmVsYXBzZWRTZWNvbmRzID4gMAogICAgICAgICAgICAgICAgICA/IGAke01hdGguZmxvb3IobWluZXIuZWxhcHNlZFNlY29uZHMgLyAzNjAwKX1oICR7TWF0aC5mbG9vcigobWluZXIuZWxhcHNlZFNlY29uZHMgJSAzNjAwKSAvIDYwKX1tYAogICAgICAgICAgICAgICAgICA6IHQoIm1pbmUucmVhZHkiKX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LVsjNWE1YTZhXSI+CiAgICAgICAgICAgICAgICB7dCgibWluZS5sYXN0IiwgeyB2YWx1ZTogbWluZXIubGFzdE1pbmluZ0F0ID8gbmV3IERhdGUobWluZXIubGFzdE1pbmluZ0F0KS50b0xvY2FsZVRpbWVTdHJpbmcoKSA6IHQoIm1pbmUubmV2ZXIiKSB9KX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9IdWRDYXJkPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogQWN0aW9ucyAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMyBnYXAtMyI+CiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGlzRGVtbyA/IGRlbW9BY3Rpb24odCgibWluZS5mcmVlRW5lcmd5IikpIDogZW5lcmd5Q2xhaW0ubXV0YXRlKCl9CiAgICAgICAgICAgIGRpc2FibGVkPXtlbmVyZ3lDbGFpbS5pc1BlbmRpbmd9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaHVkLWNhcmQgcC00IGZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGdhcC0yIHRleHQtY2VudGVyIGhvdmVyOnNoYWRvdy1bMF8wXzIwcHhfcmdiYSgyNTUsMjE1LDAsMC4yKV0gdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAicmdiYSgyNTUsMjE1LDAsMC4zNSkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxaYXAgc2l6ZT17MjJ9IGNsYXNzTmFtZT0idGV4dC1bI2ZmZDcwMF0iIC8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTFweF0gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57dCgibWluZS5mcmVlRW5lcmd5Iil9PC9zcGFuPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzlweF0gdGV4dC1bIzhiOGI5YV0iPnt0KCJtaW5lLmZyZWVFbmVyZ3lTdWIiKX08L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KCiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGlzRGVtbyA/IGRlbW9BY3Rpb24odCgibWluZS5vdmVyY2xvY2siKSkgOiBvdmVyY2xvY2tNdXRhdGlvbi5tdXRhdGUoKX0KICAgICAgICAgICAgZGlzYWJsZWQ9e292ZXJjbG9ja011dGF0aW9uLmlzUGVuZGluZyB8fCBtaW5lci5pc092ZXJjbG9ja2VkfQogICAgICAgICAgICBjbGFzc05hbWU9Imh1ZC1jYXJkIHAtNCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LWNlbnRlciBob3ZlcjpzaGFkb3ctWzBfMF8yMHB4X3JnYmEoMjU1LDAsNjQsMC4yKV0gdHJhbnNpdGlvbi1hbGwgZGlzYWJsZWQ6b3BhY2l0eS00MCIKICAgICAgICAgICAgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJyZ2JhKDI1NSwwLDY0LDAuMzUpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8RmxhbWUgc2l6ZT17MjJ9IGNsYXNzTmFtZT0idGV4dC1bI2ZmMDA0MF0iIC8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTFweF0gZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57dCgibWluZS5vdmVyY2xvY2siKX08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bOXB4XSB0ZXh0LVsjOGI4YjlhXSI+e21pbmVyLmlzT3ZlcmNsb2NrZWQgPyB0KCJtaW5lLm92ZXJjbG9ja0FjdGl2ZSIpIDogdCgibWluZS5vdmVyY2xvY2tTdWIiKX08L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KCiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGlzRGVtbyA/IGRlbW9BY3Rpb24odCgibWluZS5yZXBhaXIiKSkgOiByZXBhaXJNdXRhdGlvbi5tdXRhdGUoKX0KICAgICAgICAgICAgZGlzYWJsZWQ9e3JlcGFpck11dGF0aW9uLmlzUGVuZGluZyB8fCAobWluZXIuZHVyYWJpbGl0eSA+PSAxMDAgJiYgbWluZXIudGVtcGVyYXR1cmUgPD0gNDApfQogICAgICAgICAgICBjbGFzc05hbWU9Imh1ZC1jYXJkIHAtNCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LWNlbnRlciBob3ZlcjpzaGFkb3ctWzBfMF8yMHB4X3JnYmEoMCwyMTIsMjU1LDAuMildIHRyYW5zaXRpb24tYWxsIGRpc2FibGVkOm9wYWNpdHktNDAiCiAgICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAicmdiYSgwLDIxMiwyNTUsMC4zNSkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxTZXR0aW5ncyBzaXplPXsyMn0gY2xhc3NOYW1lPSJ0ZXh0LVsjMDBkNGZmXSIgLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSBmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPnt0KCJtaW5lLnJlcGFpciIpfTwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVs5cHhdIHRleHQtWyM4YjhiOWFdIj57dCgibWluZS5yZXBhaXJTdWIiKX08L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L0dhbWVMYXlvdXQ+CiAgKTsKfQo=
+"use client";
+
+import { useMiner, useSlots, useStartMining, useClaimMining, useOverclock, useRepair, useEnergyClaim } from "@/hooks/useMiner";
+import { useDemoMode } from "@/hooks/useDemoMode";
+import { useToast } from "@/components/ui/Toast";
+import { GameLayout } from "@/components/layout/GameLayout";
+import { ChassisMinerRig } from "@/components/pixel/ChassisMinerRig";
+import { HudCard, HudBar, HudButton } from "@/components/ui/Hud";
+import { useT } from "@/i18n";
+import { Zap, Thermometer, Shield, Clock, Flame, Settings, Gauge, Activity } from "lucide-react";
+
+export default function MinePage() {
+  const { data: miner, isLoading } = useMiner();
+  const { data: slots } = useSlots();
+  const { isDemo } = useDemoMode();
+  const { showToast } = useToast();
+  const claimMutation = useClaimMining();
+  const startMutation = useStartMining();
+  const overclockMutation = useOverclock();
+  const repairMutation = useRepair();
+  const energyClaim = useEnergyClaim();
+  const t = useT();
+
+  const demoAction = (action: string) => {
+    showToast(t("toast.connectToUse", { action }), "warning");
+  };
+
+  if (isLoading) {
+    return (
+      <GameLayout>
+        <div className="flex items-center justify-center h-64">
+          <span className="num text-sm text-[#a855f7] animate-pulse">{t("mine.loading")}</span>
+        </div>
+      </GameLayout>
+    );
+  }
+
+  if (!miner) {
+    return (
+      <GameLayout>
+        <div className="flex items-center justify-center h-64 flex-col gap-3">
+          <span className="num text-sm text-[#a855f7] animate-pulse">{t("mine.loading")}</span>
+          <span className="text-[11px] text-[#8b8b9a]">{t("toast.connectToUse", { action: t("nav.mine") })}</span>
+        </div>
+      </GameLayout>
+    );
+  }
+
+  const pendingReward = BigInt(miner.pendingReward || "0");
+  const canClaim = pendingReward > BigInt(0);
+  const miningActive = miner.energy > 0 && miner.elapsedSeconds > 0;
+  const isOverheated = miner.temperature >= 100;
+
+  // Rig/boost info comes from slots[0] (the main miner slot).
+  const slot0 = slots?.slots?.[0];
+  const equippedRig = Number(slot0?.rigIndex ?? 0);
+  const rigInfo = equippedRig > 0 ? slots?.shop?.rigs?.[equippedRig - 1] : undefined;
+  const boostActive = Boolean(slot0?.boostActive);
+
+  return (
+    <GameLayout>
+      <div className="space-y-6">
+        {/* Hero: status + rig */}
+        <div className="hud-card p-6 flex flex-col items-center">
+          <div className="flex items-center gap-2 mb-4">
+            <span className={`w-2 h-2 rounded-full ${miningActive ? "bg-[#39ff14] animate-pulse" : "bg-gray-600"}`} />
+            <span className={`text-[11px] tracking-widest uppercase ${miningActive ? "text-[#39ff14]" : "text-[#8b8b9a]"}`}>
+              {miningActive ? t("mine.statusMining") : t("mine.statusStandby")}
+            </span>
+            {miner.isOverclocked && (
+              <span className="text-[10px] uppercase text-[#ff0040] border border-[#ff0040]/40 bg-[#ff0040]/10 rounded px-2 py-0.5 animate-pulse ml-2">
+                {t("mine.overclocked")}
+              </span>
+            )}
+            {isOverheated && (
+              <span className="text-[10px] uppercase text-[#ff6600] border border-[#ff6600]/40 bg-[#ff6600]/10 rounded px-2 py-0.5 animate-pulse ml-2">
+                {t("mine.overheated")}
+              </span>
+            )}
+            {rigInfo && (
+              <span className="text-[10px] uppercase text-[#ffd700] border border-[#ffd700]/40 bg-[#ffd700]/10 rounded px-2 py-0.5 ml-2">
+                {t("mine.rigEquipped", { rig: rigInfo.name, bonus: Number(rigInfo.bonusRaw / 1e6) })}
+              </span>
+            )}
+            {boostActive && (
+              <span className="text-[10px] uppercase text-[#ff0040] border border-[#ff0040]/40 bg-[#ff0040]/10 rounded px-2 py-0.5 animate-pulse ml-2">
+                {t("mine.boost")}
+              </span>
+            )}
+          </div>
+
+          <ChassisMinerRig
+            level={miner.level}
+            isMining={miner.energy > 0}
+            isOverclocked={miner.isOverclocked}
+            isOverheated={isOverheated}
+            size={280}
+          />
+
+          <div className="text-center mt-5">
+            <h2 className="font-display font-bold text-[22px] text-white">{t("mine.gpuMiner", { level: miner.level })}</h2>
+            <p className="num text-[26px] font-semibold text-[#a855f7] mt-1" style={{ textShadow: "0 0 20px rgba(168,85,247,0.5)" }}>
+              {miner.hashrate}
+            </p>
+          </div>
+
+          {/* Circular mine button */}
+          <div className="flex flex-col items-center gap-2 mt-6">
+            <div className="relative">
+              <div className="hud-mine-ring" />
+              <button
+                onClick={() => isDemo ? demoAction(t("mine.mine")) : (miner.level === 0 ? startMutation.mutate() : claimMutation.mutate())}
+                disabled={claimMutation.isPending || startMutation.isPending}
+                className="w-[130px] h-[130px] rounded-full flex flex-col items-center justify-center gap-1 transition-all relative"
+                style={{
+                  background: "radial-gradient(circle at 50% 30%, rgba(168,85,247,0.3), rgba(11,11,18,0.9) 70%)",
+                  border: `3px solid ${miningActive ? "#39ff14" : "#a855f7"}`,
+                  boxShadow: miningActive
+                    ? "0 0 30px rgba(57,255,20,0.4), 0 0 60px rgba(57,255,20,0.1)"
+                    : "0 0 30px rgba(168,85,247,0.4), 0 0 60px rgba(168,85,247,0.1)",
+                  animation: miningActive ? "hud-pulse-glow 2s ease-in-out infinite" : "none",
+                }}
+              >
+                <Gauge size={26} className={miningActive ? "text-[#39ff14]" : "text-[#a855f7]"} />
+                <span className="font-display font-extrabold tracking-widest text-[13px] text-white">
+                  {claimMutation.isPending || startMutation.isPending ? "..." : (miner.level === 0 ? t("mine.start") : t("mine.mine"))}
+                </span>
+              </button>
+            </div>
+            <p className="text-[10px] text-[#5a5a6a]">{miningActive ? t("mine.tapClaim") : t("mine.tapMine")}</p>
+          </div>
+        </div>
+
+        {/* Pending reward */}
+        {canClaim && (
+          <HudCard accent="#ffd700" className="p-5 text-center" style={{ borderColor: "rgba(255,215,0,0.4)" }}>
+            <p className="text-[11px] uppercase tracking-widest text-[#8b8b9a] mb-1">{t("mine.pendingReward")}</p>
+            <p className="num text-[24px] font-semibold text-[#ffd700] mb-3">{(Number(pendingReward) / 1e18).toLocaleString()} $HASH</p>
+            <HudButton color="gold" block onClick={() => isDemo ? demoAction(t("mine.claimReward")) : claimMutation.mutate()}>
+              <Zap size={15} /> {t("mine.claimReward")}
+            </HudButton>
+          </HudCard>
+        )}
+
+        {/* Stats grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <HudCard className="p-4">
+            <div className="flex items-center gap-2 mb-3"><Zap size={14} className="text-[#ffd700]" /><span className="text-[11px] font-semibold text-white">{t("mine.energy")}</span></div>
+            <HudBar value={miner.energy} max={miner.energyCapacity} color="#ffd700" label={t("mine.capacity")} display={`${miner.energy}%`} />
+            <p className="text-[10px] text-[#5a5a6a] mt-2">{t("mine.efficiency", { value: miner.energyEfficiency })}</p>
+          </HudCard>
+
+          <HudCard className="p-4">
+            <div className="flex items-center gap-2 mb-3"><Thermometer size={14} className="text-[#ff6600]" /><span className="text-[11px] font-semibold text-white">{t("mine.temperature")}</span></div>
+            <HudBar value={miner.temperature} max={100} color={miner.temperature > 80 ? "#ff0040" : miner.temperature > 60 ? "#ff6600" : "#00d4ff"} label={t("mine.temp")} display={`${miner.temperature}°C`} />
+            <p className="text-[10px] text-[#5a5a6a] mt-2">{t("mine.efficiency", { value: miner.temperatureEfficiency })}</p>
+          </HudCard>
+
+          <HudCard className="p-4">
+            <div className="flex items-center gap-2 mb-3"><Shield size={14} className="text-[#00d4ff]" /><span className="text-[11px] font-semibold text-white">{t("mine.durability")}</span></div>
+            <HudBar value={miner.durability} max={100} color={miner.durability < 30 ? "#ff0040" : miner.durability < 60 ? "#ff6600" : "#00d4ff"} label={t("mine.durability")} display={`${miner.durability}%`} />
+          </HudCard>
+
+          <HudCard className="p-4">
+            <div className="flex items-center gap-2 mb-3"><Clock size={14} className="text-[#a855f7]" /><span className="text-[11px] font-semibold text-white">{t("mine.miningTime")}</span></div>
+            <div className="flex flex-col gap-1">
+              <span className="num text-[20px] font-semibold text-white">
+                {miner.elapsedSeconds > 0
+                  ? `${Math.floor(miner.elapsedSeconds / 3600)}h ${Math.floor((miner.elapsedSeconds % 3600) / 60)}m`
+                  : t("mine.ready")}
+              </span>
+              <span className="text-[10px] text-[#5a5a6a]">
+                {t("mine.last", { value: miner.lastMiningAt ? new Date(miner.lastMiningAt).toLocaleTimeString() : t("mine.never") })}
+              </span>
+            </div>
+          </HudCard>
+        </div>
+
+        {/* Actions */}
+        <div className="grid grid-cols-3 gap-3">
+          <button
+            onClick={() => isDemo ? demoAction(t("mine.freeEnergy")) : energyClaim.mutate()}
+            disabled={energyClaim.isPending}
+            className="hud-card p-4 flex flex-col items-center gap-2 text-center hover:shadow-[0_0_20px_rgba(255,215,0,0.2)] transition-all"
+            style={{ borderColor: "rgba(255,215,0,0.35)" }}
+          >
+            <Zap size={22} className="text-[#ffd700]" />
+            <span className="text-[11px] font-semibold text-white">{t("mine.freeEnergy")}</span>
+            <span className="text-[9px] text-[#8b8b9a]">{t("mine.freeEnergySub")}</span>
+          </button>
+
+          <button
+            onClick={() => isDemo ? demoAction(t("mine.overclock")) : overclockMutation.mutate()}
+            disabled={overclockMutation.isPending || miner.isOverclocked}
+            className="hud-card p-4 flex flex-col items-center gap-2 text-center hover:shadow-[0_0_20px_rgba(255,0,64,0.2)] transition-all disabled:opacity-40"
+            style={{ borderColor: "rgba(255,0,64,0.35)" }}
+          >
+            <Flame size={22} className="text-[#ff0040]" />
+            <span className="text-[11px] font-semibold text-white">{t("mine.overclock")}</span>
+            <span className="text-[9px] text-[#8b8b9a]">{miner.isOverclocked ? t("mine.overclockActive") : t("mine.overclockSub")}</span>
+          </button>
+
+          <button
+            onClick={() => isDemo ? demoAction(t("mine.repair")) : repairMutation.mutate()}
+            disabled={repairMutation.isPending || (miner.durability >= 100 && miner.temperature <= 40)}
+            className="hud-card p-4 flex flex-col items-center gap-2 text-center hover:shadow-[0_0_20px_rgba(0,212,255,0.2)] transition-all disabled:opacity-40"
+            style={{ borderColor: "rgba(0,212,255,0.35)" }}
+          >
+            <Settings size={22} className="text-[#00d4ff]" />
+            <span className="text-[11px] font-semibold text-white">{t("mine.repair")}</span>
+            <span className="text-[9px] text-[#8b8b9a]">{t("mine.repairSub")}</span>
+          </button>
+        </div>
+      </div>
+    </GameLayout>
+  );
+}
